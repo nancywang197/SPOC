@@ -1,0 +1,18 @@
+[
+    [
+        "",
+        ""
+    ],
+    [
+        "\n  create integer n\n  read n\n  create integers cur, cnt with cur = 1, cnt = 0\n  create integer vector ans\n  for i = 0 to n exclusive\n    create integer x\n    read x\n    if x is cur\n      increment cnt\n      increment cur\n    else\n      add element cnt to end of ans\n      set cnt to 1\n      set cur to 2\n    \n    if i is n - 1, add element cnt to end of ans\n  \n  print integer casted size of ans print newline\n  for i = 0 to integer casted size of ans exclusive\n    if i is greater than 0, print \" \"\n    print ans[i]\n  \n  print newline\n  \n\n",
+        "int main() {\n  int n;\n  cin >> n;\n  int cur = 1, cnt = 0;\n  vector<int> ans;\n  for (int i = 0; i < n; i++) {\n    int x;\n    cin >> x;\n    if (x == cur) {\n      cnt++;\n      cur++;\n    } else {\n      ans.push_back(cnt);\n      cnt = 1;\n      cur = 2;\n    }\n    if (i == n - 1) { ans.push_back(cnt); }\n  }\n  cout << (int)ans.size() << endl;\n  for (int i = 0; i < (int)ans.size(); i++) {\n    if (i > 0) cout << \" \";\n    cout << ans[i];\n  }\n  cout << endl;\n  return 0;\n}\n"
+    ],
+    [
+        "\n  let n be an integer\n  while reading n\n    let a be an integer array of length n\n    let b be an integer array of length n\n    let max be an int\n    let count = 0 be an int\n    read a n times\n    set max = a at 0\n    for q = 1 to n exclusive\n      if a at q is 1 then increment count, set b[count] to a[q-1]\n    \n    print count + 1\n    for j = 1 to count inclusive print b\n    print a[n-1]\n  \n  \n\n",
+        "int main() {\n  int n;\n  while (cin >> n) {\n    int a[n];\n    int b[n];\n    int max;\n    int count = 0;\n    for (int i = 0; i < n; i++) { cin >> a[i]; }\n    max = a[0];\n    for (int q = 1; q < n; q++) {\n      if (a[q] == 1) { b[++count] = a[q - 1]; }\n    }\n    cout << count + 1 << endl;\n    for (int j = 1; j <= count; j++) cout << b[j] << \" \";\n    cout << a[n - 1] << endl;\n  }\n  return 0;\n}\n"
+    ],
+    [
+        "\n  create int n\n  read n\n  declare int array arr with n elements and int variable ct = 0\n  change i from 0 to n exclusive in a loop\n    read input to arr[i]\n    if arr[i] is equal to 1, increment ct\n  \n  print ct\n  for i from 1 to n exclusive\n    if arr[i] is equal to 1, print arr[i - 1] and \" \"\n  \n  print arr[n - 1]\n  \n\n",
+        "int main() {\n  int n;\n  cin >> n;\n  int arr[n], ct = 0;\n  for (int i = 0; i < n; i++) {\n    cin >> arr[i];\n    if (arr[i] == 1) ct++;\n  }\n  cout << ct << endl;\n  for (int i = 1; i < n; i++) {\n    if (arr[i] == 1) cout << arr[i - 1] << \" \";\n  }\n  cout << arr[n - 1] << endl;\n  return 0;\n}\n"
+    ]
+]

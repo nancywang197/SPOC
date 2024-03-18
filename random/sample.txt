@@ -1,0 +1,26 @@
+	int main() {	1	1005A	48515762	0	0
+create integer n	int n;	1	1005A	48515762	1	1
+read n	cin >> n;	1	1005A	48515762	2	1
+"create integers cur, cnt with cur = 1, cnt = 0"	"int cur = 1, cnt = 0;"	1	1005A	48515762	3	1
+create integer vector ans	vector<int> ans;	1	1005A	48515762	4	1
+for i = 0 to n exclusive	for (int i = 0; i < n; i++) {	1	1005A	48515762	5	1
+create integer x	int x;	1	1005A	48515762	6	2
+read x	cin >> x;	1	1005A	48515762	7	2
+if x is cur	if (x == cur) {	1	1005A	48515762	8	2
+increment cnt	cnt++;	1	1005A	48515762	9	3
+increment cur	cur++;	1	1005A	48515762	10	3
+else	} else {	1	1005A	48515762	11	2
+add element cnt to end of ans	ans.push_back(cnt);	1	1005A	48515762	12	3
+set cnt to 1	cnt = 1;	1	1005A	48515762	13	3
+set cur to 2	cur = 2;	1	1005A	48515762	14	3
+	}	1	1005A	48515762	15	2
+"if i is n - 1, add element cnt to end of ans"	if (i == n - 1) { ans.push_back(cnt); }	1	1005A	48515762	16	2
+	}	1	1005A	48515762	17	1
+print integer casted size of ans print newline	cout << (int)ans.size() << endl;	1	1005A	48515762	18	1
+for i = 0 to integer casted size of ans exclusive	for (int i = 0; i < (int)ans.size(); i++) {	1	1005A	48515762	19	1
+"if i is greater than 0, print "" """	"if (i > 0) cout << "" "";"	1	1005A	48515762	20	2
+print ans[i]	cout << ans[i];	1	1005A	48515762	21	2
+	}	1	1005A	48515762	22	1
+print newline	cout << endl;	1	1005A	48515762	23	1
+	return 0;	1	1005A	48515762	24	1
+	}	1	1005A	48515762	25	0
