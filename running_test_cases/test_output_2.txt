@@ -1,0 +1,114 @@
+Test case passed: Input(5
+birch yellow
+maple red
+birch yellow
+maple yellow
+maple green) => Output(4)
+
+Test case passed: Input(3
+oak yellow
+oak yellow
+oak yellow) => Output(1)
+
+Test case passed: Input(5
+xbnbkzn hp
+kaqkl vrgzbvqstu
+j aqidx
+hos gyul
+wefxmh tygpluae) => Output(5)
+
+Test case passed: Input(1
+qvwli hz) => Output(1)
+
+Test case passed: Input(4
+srhk x
+srhk x
+qfoe vnrjuab
+qfoe vnrjuab) => Output(2)
+
+Test case passed: Input(4
+sddqllmmpk syded
+fprsq fnenjnaz
+n hdej
+sddqllmmpk syded) => Output(3)
+
+Test case passed: Input(17
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw
+jtbctslqq tosqzw) => Output(1)
+
+Test case passed: Input(18
+b d
+rfdb esp
+rfdb esp
+b d
+rfdb esp
+rfdb esp
+b d
+b d
+rfdb esp
+rfdb esp
+b d
+rfdb esp
+b d
+rfdb esp
+b d
+b d
+rfdb esp
+rfdb esp) => Output(2)
+
+Test case passed: Input(13
+svpzwtwn rykzfdce
+qweiyeck jkreouy
+hk nnli
+twxrnbbdt vtuv
+xokqjtylly sz
+esdt dbfidjslq
+g ybqgomvw
+xcpfjmf zcqvz
+ifajadhj invzueip
+vdemdnxifb hckwebmi
+sdpnhipam wvowzavh
+uqdlfskhgo vunbpghae
+e dtigwnb) => Output(13)
+
+Test case passed: Input(20
+m vkfh
+vptikamead mvx
+itu mf
+klruxckw aqega
+ekqkd enjllwol
+cc uybfdh
+imrfdngvo u
+e uh
+twt jsslcfuogk
+bljwqsag tuqbdn
+qcv q
+asx gzhvwwmajj
+qcv q
+ekqkd enjllwol
+asx gzhvwwmajj
+ks vv
+kzyfi cn
+cc uybfdh
+itu mf
+cjbjhtbyvk vatwfmux) => Output(15)
+
+Test case passed: Input(2
+ab ab
+a bab) => Output(2)
+

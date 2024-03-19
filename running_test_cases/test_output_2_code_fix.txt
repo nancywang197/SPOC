@@ -1,0 +1,69 @@
+Compilation Error: <stdin>:8:5: error: use of undeclared identifier 'string'
+map<string, int> m;
+    ^
+<stdin>:9:5: error: use of undeclared identifier 'string'
+map<string, int>::iterator it;
+    ^
+<stdin>:9:19: warning: extra qualification on member 'iterator' [-Wextra-qualification]
+map<string, int>::iterator it;
+                  ^
+<stdin>:9:19: error: no member named 'iterator' in the global namespace
+map<string, int>::iterator it;
+                ~~^
+<stdin>:9:27: error: expected ';' after top level declarator
+map<string, int>::iterator it;
+                          ^
+                          ;
+<stdin>:12:3: error: use of undeclared identifier 'cin'; did you mean 'sin'?
+  cin >> n;
+  ^~~
+  sin
+/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/math.h:1057:1: note: 'sin' declared here
+sin(_A1 __lcpp_x) _NOEXCEPT {return ::sin((double)__lcpp_x);}
+^
+<stdin>:12:3: error: reference to overloaded function could not be resolved; did you mean to call it?
+  cin >> n;
+  ^~~
+/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/math.h:1057:1: note: possible target for call
+sin(_A1 __lcpp_x) _NOEXCEPT {return ::sin((double)__lcpp_x);}
+^
+<stdin>:15:5: error: unknown type name 'string'; did you mean 'std::string'?
+    string str;
+    ^~~~~~
+    std::string
+/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iosfwd:210:65: note: 'std::string' declared here
+typedef basic_string<char, char_traits<char>, allocator<char> > string;
+                                                                ^
+<stdin>:16:13: error: use of undeclared identifier 'cin'; did you mean 'std::cin'?
+    getline(cin, str);
+            ^~~
+            std::cin
+/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iostream:49:33: note: 'std::cin' declared here
+extern _LIBCPP_FUNC_VIS istream cin;
+                                ^
+<stdin>:20:8: error: use of undeclared identifier 'it'
+  for (it = m.begin(); it != m.end(); it++) { ans++; }
+       ^
+<stdin>:20:24: error: use of undeclared identifier 'it'
+  for (it = m.begin(); it != m.end(); it++) { ans++; }
+                       ^
+<stdin>:20:39: error: use of undeclared identifier 'it'
+  for (it = m.begin(); it != m.end(); it++) { ans++; }
+                                      ^
+<stdin>:21:3: error: use of undeclared identifier 'cout'; did you mean 'std::cout'?
+  cout << ans << endl;
+  ^~~~
+  std::cout
+/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iostream:53:33: note: 'std::cout' declared here
+extern _LIBCPP_FUNC_VIS ostream cout;
+                                ^
+<stdin>:21:18: error: use of undeclared identifier 'endl'; did you mean 'std::endl'?
+  cout << ans << endl;
+                 ^~~~
+                 std::endl
+/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ostream:1004:1: note: 'std::endl' declared here
+endl(basic_ostream<_CharT, _Traits>& __os)
+^
+1 warning and 13 errors generated.
+
+
