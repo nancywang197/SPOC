@@ -14,7 +14,7 @@ int main() {
       cur++;
     } else {
       ans.push_back(cnt);
-      cnt = 1;
+      cnt = 1; 
       cur = 2;
     }
     if (i == n - 1) { ans.push_back(cnt); }
