@@ -1,0 +1,24 @@
+Test case passed: Input(4 4) => Output(4000)
+
+Test case passed: Input(5 1) => Output(10000)
+
+Test case passed: Input(1 0) => Output(0)
+
+Test case passed: Input(8 7) => Output(70000000)
+
+Test case passed: Input(487 0) => Output(No solution)
+
+Test case passed: Input(22 9) => Output(9000000000000000000000)
+
+Test case passed: Input(1 1) => Output(1)
+
+Test case passed: Input(1 9) => Output(9)
+
+Test case passed: Input(13 5) => Output(5000000000000)
+
+Test case passed: Input(100 4) => Output(4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+
+Test case passed: Input(123 6) => Output(600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+
+Test case passed: Input(2 0) => Output(No solution)
+

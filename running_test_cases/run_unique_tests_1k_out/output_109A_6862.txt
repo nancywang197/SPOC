@@ -1,0 +1,50 @@
+Test case passed: Input(11) => Output(47)
+
+Test case passed: Input(10) => Output(-1)
+
+Test case passed: Input(64) => Output(4477777777)
+
+Test case passed: Input(1) => Output(-1)
+
+Test case passed: Input(4) => Output(4)
+
+Test case passed: Input(7) => Output(7)
+
+Test case passed: Input(12) => Output(444)
+
+Test case passed: Input(47) => Output(44477777)
+
+Test case passed: Input(100) => Output(4444777777777777)
+
+Test case passed: Input(700) => Output(7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777)
+
+Test case passed: Input(485) => Output(44447777777777777777777777777777777777777777777777777777777777777777777)
+
+Test case passed: Input(111) => Output(444447777777777777)
+
+Test case passed: Input(85) => Output(4477777777777)
+
+Test case passed: Input(114) => Output(444477777777777777)
+
+Test case passed: Input(474) => Output(444777777777777777777777777777777777777777777777777777777777777777777)
+
+Test case passed: Input(74) => Output(47777777777)
+
+Test case passed: Input(1000) => Output(4444477777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777)
+
+Test case passed: Input(1024) => Output(4444777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777)
+
+Test case passed: Input(186) => Output(477777777777777777777777777)
+
+Test case passed: Input(5) => Output(-1)
+
+Test case passed: Input(6) => Output(-1)
+
+Test case passed: Input(9) => Output(-1)
+
+Test case passed: Input(8) => Output(44)
+
+Test case passed: Input(2) => Output(-1)
+
+Test case passed: Input(3) => Output(-1)
+

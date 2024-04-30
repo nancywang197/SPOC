@@ -1,0 +1,108 @@
+Test case passed: Input(XX.
+...
+.XX) => Output(YES)
+
+Test case passed: Input(.X.
+.X.
+.X.) => Output(YES)
+
+Test case passed: Input(XXX
+XXX
+XXX) => Output(YES)
+
+Test case passed: Input(XXX
+X.X
+XXX) => Output(YES)
+
+Test case passed: Input(X..
+.X.
+..X) => Output(YES)
+
+Test case passed: Input(...
+X.X
+X..) => Output(NO)
+
+Test case passed: Input(.X.
+X.X
+.X.) => Output(YES)
+
+Test case passed: Input(X.X
+.X.
+X.X) => Output(YES)
+
+Test case passed: Input(...
+...
+..X) => Output(NO)
+
+Test case passed: Input(XXX
+...
+XXX) => Output(YES)
+
+Test case passed: Input(..X
+X..
+..X) => Output(NO)
+
+Test case passed: Input(.X.
+...
+X.X) => Output(NO)
+
+Test case passed: Input(X.X
+X.X
+X.X) => Output(YES)
+
+Test case passed: Input(.X.
+X.X
+XX.) => Output(NO)
+
+Test case passed: Input(...
+XXX
+XXX) => Output(NO)
+
+Test case passed: Input(XXX
+..X
+XXX) => Output(NO)
+
+Test case passed: Input(X..
+X.X
+.X.) => Output(NO)
+
+Test case passed: Input(...
+..X
+XXX) => Output(NO)
+
+Test case passed: Input(..X
+X.X
+X..) => Output(YES)
+
+Test case passed: Input(..X
+..X
+XXX) => Output(NO)
+
+Test case passed: Input(X..
+X..
+X..) => Output(NO)
+
+Test case passed: Input(XXX
+.X.
+XXX) => Output(YES)
+
+Test case passed: Input(..X
+...
+X..) => Output(YES)
+
+Test case passed: Input(...
+...
+X..) => Output(NO)
+
+Test case passed: Input(...
+...
+.X.) => Output(NO)
+
+Test case passed: Input(...
+...
+..X) => Output(NO)
+
+Test case passed: Input(...
+.X.
+X..) => Output(NO)
+

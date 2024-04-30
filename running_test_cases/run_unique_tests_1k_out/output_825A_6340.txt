@@ -1,0 +1,39 @@
+Test case passed: Input(3
+111) => Output(3)
+
+Test case passed: Input(9
+110011101) => Output(2031)
+
+Test case passed: Input(1
+1) => Output(1)
+
+Test case passed: Input(3
+100) => Output(100)
+
+Test case passed: Input(5
+10001) => Output(1001)
+
+Test case passed: Input(14
+11001100011000) => Output(202002000)
+
+Test case passed: Input(31
+1000011111111100011110111111111) => Output(100090049)
+
+Test case passed: Input(53
+10110111011110111110111111011111110111111110111111111) => Output(123456789)
+
+Test case passed: Input(89
+11111111101111111110111111111011111111101111111110111111111011111111101111111110111111111) => Output(999999999)
+
+Test case passed: Input(10
+1000000000) => Output(1000000000)
+
+Test case passed: Input(2
+10) => Output(10)
+
+Test case passed: Input(4
+1110) => Output(30)
+
+Test case passed: Input(8
+10101010) => Output(11110)
+

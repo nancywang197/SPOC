@@ -1,0 +1,20 @@
+Test case passed: Input(3
+30
+60
+90) => Output(NO
+YES
+YES)
+
+Test case passed: Input(6
+1
+2
+3
+170
+179
+25) => Output(NO
+NO
+NO
+YES
+YES
+NO)
+

@@ -1,0 +1,40 @@
+Test case passed: Input(ababba) => Output(bbba)
+
+Test case passed: Input(abbcbccacbbcbaaba) => Output(cccccbba)
+
+Test case passed: Input(thankstosamarasauteddybearsforthiscontest) => Output(yttt)
+
+Test case passed: Input(cantouristsolveitlessthaninoneminute) => Output(vute)
+
+Test case passed: Input(arepretestsstrongforthisproblem) => Output(ttttsrom)
+
+Test case passed: Input(whyareyoulookingfortestsdoyouhavewa) => Output(yyywa)
+
+Test case passed: Input(aa) => Output(aa)
+
+Test case passed: Input(zz) => Output(zz)
+
+Test case passed: Input(a) => Output(a)
+
+Test case passed: Input(z) => Output(z)
+
+Test case passed: Input(b) => Output(b)
+
+Test case passed: Input(y) => Output(y)
+
+Test case passed: Input(zaz) => Output(zz)
+
+Test case passed: Input(aza) => Output(za)
+
+Test case passed: Input(dcbaedcba) => Output(edcba)
+
+Test case passed: Input(abcdeabcd) => Output(ed)
+
+Test case passed: Input(abcdedcba) => Output(edcba)
+
+Test case passed: Input(zyxzxzwyxywxxwabcdabdacdbcacdbcacabaaba) => Output(zzzyyxxwddddccbba)
+
+Test case passed: Input(zzyzyy) => Output(zzzyy)
+
+Test case passed: Input(aababb) => Output(bbb)
+

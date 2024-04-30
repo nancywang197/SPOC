@@ -1,0 +1,82 @@
+Test case passed: Input(1) => Output(Sheldon)
+
+Test case passed: Input(6) => Output(Sheldon)
+
+Test case passed: Input(1802) => Output(Penny)
+
+Test case passed: Input(1) => Output(Sheldon)
+
+Test case passed: Input(2) => Output(Leonard)
+
+Test case passed: Input(3) => Output(Penny)
+
+Test case passed: Input(4) => Output(Rajesh)
+
+Test case passed: Input(5) => Output(Howard)
+
+Test case passed: Input(10) => Output(Penny)
+
+Test case passed: Input(534) => Output(Rajesh)
+
+Test case passed: Input(5033) => Output(Howard)
+
+Test case passed: Input(10010) => Output(Howard)
+
+Test case passed: Input(500000000) => Output(Penny)
+
+Test case passed: Input(63) => Output(Rajesh)
+
+Test case passed: Input(841) => Output(Leonard)
+
+Test case passed: Input(3667) => Output(Penny)
+
+Test case passed: Input(38614) => Output(Howard)
+
+Test case passed: Input(282798) => Output(Rajesh)
+
+Test case passed: Input(9266286) => Output(Rajesh)
+
+Test case passed: Input(27385966) => Output(Leonard)
+
+Test case passed: Input(121580142) => Output(Penny)
+
+Test case passed: Input(5) => Output(Howard)
+
+Test case passed: Input(300) => Output(Howard)
+
+Test case passed: Input(1745) => Output(Leonard)
+
+Test case passed: Input(8302) => Output(Rajesh)
+
+Test case passed: Input(184518) => Output(Sheldon)
+
+Test case passed: Input(1154414) => Output(Rajesh)
+
+Test case passed: Input(28643950) => Output(Leonard)
+
+Test case passed: Input(159222638) => Output(Howard)
+
+Test case passed: Input(24) => Output(Penny)
+
+Test case passed: Input(505) => Output(Penny)
+
+Test case passed: Input(4425) => Output(Rajesh)
+
+Test case passed: Input(12079) => Output(Sheldon)
+
+Test case passed: Input(469726) => Output(Penny)
+
+Test case passed: Input(3961838) => Output(Penny)
+
+Test case passed: Input(57710446) => Output(Leonard)
+
+Test case passed: Input(80719470) => Output(Howard)
+
+Test case passed: Input(1000000000) => Output(Penny)
+
+Test case passed: Input(999999999) => Output(Penny)
+
+Test case passed: Input(999999998) => Output(Penny)
+
+Test case passed: Input(5) => Output(Howard)
+

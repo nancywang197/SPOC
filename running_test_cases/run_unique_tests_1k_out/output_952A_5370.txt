@@ -1,0 +1,30 @@
+Test case passed: Input(13) => Output(1)
+
+Test case passed: Input(927) => Output(1)
+
+Test case passed: Input(48) => Output(0)
+
+Test case passed: Input(10) => Output(0)
+
+Test case passed: Input(999) => Output(1)
+
+Test case passed: Input(142) => Output(0)
+
+Test case passed: Input(309) => Output(1)
+
+Test case passed: Input(572) => Output(0)
+
+Test case passed: Input(835) => Output(1)
+
+Test case passed: Input(990) => Output(0)
+
+Test case passed: Input(168) => Output(0)
+
+Test case passed: Input(431) => Output(1)
+
+Test case passed: Input(694) => Output(0)
+
+Test case passed: Input(957) => Output(1)
+
+Test case passed: Input(932) => Output(0)
+

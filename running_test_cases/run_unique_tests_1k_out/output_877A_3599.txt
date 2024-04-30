@@ -1,0 +1,110 @@
+Test case passed: Input(Alex_and_broken_contest) => Output(NO)
+
+Test case passed: Input(NikitaAndString) => Output(YES)
+
+Test case passed: Input(Danil_and_Olya) => Output(NO)
+
+Test case passed: Input(Slava____and_the_game) => Output(YES)
+
+Test case passed: Input(Olya_and_energy_drinks) => Output(YES)
+
+Test case passed: Input(Danil_and_part_time_job) => Output(YES)
+
+Test case passed: Input(Ann_and_books) => Output(YES)
+
+Test case passed: Input(Olya) => Output(YES)
+
+Test case passed: Input(Nikita) => Output(YES)
+
+Test case passed: Input(Slava) => Output(YES)
+
+Test case passed: Input(Vanya) => Output(NO)
+
+Test case passed: Input(I_dont_know_what_to_write_here) => Output(NO)
+
+Test case passed: Input(danil_and_work) => Output(NO)
+
+Test case passed: Input(Ann) => Output(YES)
+
+Test case passed: Input(Batman_Nananananananan_Batman) => Output(NO)
+
+Test case passed: Input(Olya_Nikita_Ann_Slava_Danil) => Output(NO)
+
+Test case passed: Input(its_me_Mario) => Output(NO)
+
+Test case passed: Input(A) => Output(NO)
+
+Test case passed: Input(Wake_up_Neo) => Output(NO)
+
+Test case passed: Input(Hardest_problem_ever) => Output(NO)
+
+Test case passed: Input(Nikita_Nikita) => Output(NO)
+
+Test case passed: Input(____________________________________________________________________________________________________) => Output(NO)
+
+Test case passed: Input(Nikitb) => Output(NO)
+
+Test case passed: Input(Unn) => Output(NO)
+
+Test case passed: Input(oLya_adn_smth) => Output(NO)
+
+Test case passed: Input(FloorISLava) => Output(NO)
+
+Test case passed: Input(ann) => Output(NO)
+
+Test case passed: Input(aa) => Output(NO)
+
+Test case passed: Input(AAnnnnn) => Output(YES)
+
+Test case passed: Input(AnnAnn) => Output(NO)
+
+Test case passed: Input(Annn) => Output(YES)
+
+Test case passed: Input(Dilzhan) => Output(NO)
+
+Test case passed: Input(Danilaaa) => Output(YES)
+
+Test case passed: Input(AndAnn) => Output(YES)
+
+Test case passed: Input(OlyaAnnAnn) => Output(NO)
+
+Test case passed: Input(DanilDanilOlya) => Output(NO)
+
+Test case passed: Input(DDanil) => Output(YES)
+
+Test case passed: Input(AnnAnnDanil) => Output(NO)
+
+Test case passed: Input(And_Danil) => Output(YES)
+
+Test case passed: Input(abcddddDanil) => Output(YES)
+
+Test case passed: Input(DanilOlyaOlya) => Output(NO)
+
+Test case passed: Input(Nikitaaa) => Output(YES)
+
+Test case passed: Input(aaabbba) => Output(NO)
+
+Test case passed: Input(Ann_Ann_Danil) => Output(NO)
+
+Test case passed: Input(Danil_Danil_Nikita) => Output(NO)
+
+Test case passed: Input(AlexaaaaaaBBBBBOlyaDDDDD) => Output(YES)
+
+Test case passed: Input(IloveDaniland) => Output(YES)
+
+Test case passed: Input(AnAnn) => Output(YES)
+
+Test case passed: Input(Danil_Danil_Olya) => Output(NO)
+
+Test case passed: Input(DanilDanilSlava) => Output(NO)
+
+Test case passed: Input(DanilDanil) => Output(NO)
+
+Test case passed: Input(OlyOlya) => Output(YES)
+
+Test case passed: Input(NikitaNikitb) => Output(YES)
+
+Test case passed: Input(ababaca) => Output(NO)
+
+Test case passed: Input(AnnNikitaNikitaNikitaNikita__good_luck) => Output(NO)
+

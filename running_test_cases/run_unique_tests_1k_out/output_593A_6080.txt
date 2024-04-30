@@ -1,0 +1,184 @@
+Test case passed: Input(4
+abb
+cacc
+aaa
+bbb) => Output(9)
+
+Test case passed: Input(5
+a
+a
+bcbcb
+cdecdecdecdecdecde
+aaaa) => Output(6)
+
+Test case passed: Input(1
+a) => Output(1)
+
+Test case passed: Input(2
+z
+z) => Output(2)
+
+Test case passed: Input(5
+abcde
+fghij
+klmno
+pqrst
+uvwxy) => Output(0)
+
+Test case passed: Input(6
+gggggg
+gggggg
+gggggg
+gggggg
+gggggg
+gggggg) => Output(36)
+
+Test case passed: Input(6
+aaaaaa
+aaaaaa
+bbbbbb
+bbbbbb
+aaabbb
+ababab) => Output(36)
+
+Test case passed: Input(1
+abc) => Output(0)
+
+Test case passed: Input(2
+abc
+bca) => Output(0)
+
+Test case passed: Input(3
+ab
+ba
+zzz) => Output(4)
+
+Test case passed: Input(3
+ab
+ba
+zzzzz) => Output(5)
+
+Test case passed: Input(5
+zzz
+zzzz
+zz
+z
+aaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(37)
+
+Test case passed: Input(26
+q
+w
+e
+r
+t
+y
+u
+i
+o
+p
+a
+s
+d
+f
+g
+h
+j
+k
+l
+z
+x
+c
+v
+b
+n
+m) => Output(2)
+
+Test case passed: Input(5
+zzz
+zzzz
+zz
+z
+aaaaaaaaaaaaaaaaaaaaaaaaaaaf) => Output(28)
+
+Test case passed: Input(7
+pavel
+erika
+alexxxxxxx
+gracio
+zhenya
+sudarev
+chelyaba) => Output(0)
+
+Test case passed: Input(31
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml
+fml) => Output(0)
+
+Test case passed: Input(5
+zloyfreid
+graciocode
+schooldiary
+kazakov
+evgesha) => Output(0)
+
+Test case passed: Input(4
+urkop
+visualac
+gnutl
+wtf) => Output(0)
+
+Test case passed: Input(3
+aa
+b
+ccc) => Output(5)
+
+Test case passed: Input(3
+a
+bd
+caaaaaaa) => Output(9)
+
+Test case passed: Input(4
+aa
+ax
+ay
+xxxx) => Output(8)
+
+Test case passed: Input(5
+c
+bb
+e
+dd
+f) => Output(4)
+
+Test case passed: Input(2
+aaaaa
+aaaaa) => Output(10)
+

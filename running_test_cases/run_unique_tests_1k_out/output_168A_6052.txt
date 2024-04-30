@@ -1,0 +1,86 @@
+Test case passed: Input(10 1 14) => Output(1)
+
+Test case passed: Input(20 10 50) => Output(0)
+
+Test case passed: Input(1000 352 146) => Output(1108)
+
+Test case passed: Input(68 65 20) => Output(0)
+
+Test case passed: Input(78 28 27) => Output(0)
+
+Test case passed: Input(78 73 58) => Output(0)
+
+Test case passed: Input(70 38 66) => Output(9)
+
+Test case passed: Input(54 4 38) => Output(17)
+
+Test case passed: Input(3 1 69) => Output(2)
+
+Test case passed: Input(11 9 60) => Output(0)
+
+Test case passed: Input(71 49 65) => Output(0)
+
+Test case passed: Input(78 55 96) => Output(20)
+
+Test case passed: Input(2765 768 9020) => Output(248635)
+
+Test case passed: Input(3478 1728 9727) => Output(336578)
+
+Test case passed: Input(9678 6173 5658) => Output(541409)
+
+Test case passed: Input(1138 570 6666) => Output(75290)
+
+Test case passed: Input(7754 204 9038) => Output(700603)
+
+Test case passed: Input(8403 7401 4769) => Output(393339)
+
+Test case passed: Input(4909 2111 8860) => Output(432827)
+
+Test case passed: Input(6571 6449 8965) => Output(582642)
+
+Test case passed: Input(9178 2255 7996) => Output(731618)
+
+Test case passed: Input(6151 6148 3746) => Output(224269)
+
+Test case passed: Input(8890 5449 8734) => Output(771004)
+
+Test case passed: Input(7879 2590 2818) => Output(219441)
+
+Test case passed: Input(8484 6400 547) => Output(40008)
+
+Test case passed: Input(7835 6710 1639) => Output(121706)
+
+Test case passed: Input(2379 1436 9663) => Output(228447)
+
+Test case passed: Input(6487 5670 8) => Output(0)
+
+Test case passed: Input(4470 2543 6) => Output(0)
+
+Test case passed: Input(7261 5328 10) => Output(0)
+
+Test case passed: Input(3871 3795 7) => Output(0)
+
+Test case passed: Input(9620 6557 6) => Output(0)
+
+Test case passed: Input(4890 1112 5) => Output(0)
+
+Test case passed: Input(1 1 1) => Output(0)
+
+Test case passed: Input(1 1 10000) => Output(99)
+
+Test case passed: Input(10000 1 1) => Output(99)
+
+Test case passed: Input(10000 1 10000) => Output(999999)
+
+Test case passed: Input(10000 10000 1) => Output(0)
+
+Test case passed: Input(10000 10000 10000) => Output(990000)
+
+Test case passed: Input(67 1 3) => Output(2)
+
+Test case passed: Input(7878 4534 9159) => Output(717013)
+
+Test case passed: Input(1 1 1) => Output(0)
+
+Test case passed: Input(3271 5 50) => Output(1631)
+

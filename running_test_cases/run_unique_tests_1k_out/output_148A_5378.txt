@@ -1,0 +1,240 @@
+Test case passed: Input(1
+2
+3
+4
+12) => Output(12)
+
+Test case passed: Input(2
+3
+4
+5
+24) => Output(17)
+
+Test case passed: Input(1
+1
+1
+1
+100000) => Output(100000)
+
+Test case passed: Input(10
+9
+8
+7
+6) => Output(0)
+
+Test case passed: Input(8
+4
+4
+3
+65437) => Output(32718)
+
+Test case passed: Input(8
+4
+1
+10
+59392) => Output(59392)
+
+Test case passed: Input(4
+1
+8
+7
+44835) => Output(44835)
+
+Test case passed: Input(6
+1
+7
+2
+62982) => Output(62982)
+
+Test case passed: Input(2
+7
+4
+9
+56937) => Output(35246)
+
+Test case passed: Input(2
+9
+8
+1
+75083) => Output(75083)
+
+Test case passed: Input(8
+7
+7
+6
+69038) => Output(24656)
+
+Test case passed: Input(4
+4
+2
+3
+54481) => Output(36320)
+
+Test case passed: Input(6
+4
+9
+8
+72628) => Output(28244)
+
+Test case passed: Input(9
+7
+8
+10
+42357) => Output(16540)
+
+Test case passed: Input(5
+6
+4
+3
+60504) => Output(36302)
+
+Test case passed: Input(7
+2
+3
+8
+21754) => Output(15539)
+
+Test case passed: Input(1
+2
+10
+4
+39901) => Output(39901)
+
+Test case passed: Input(3
+4
+7
+1
+58048) => Output(58048)
+
+Test case passed: Input(9
+10
+4
+6
+52003) => Output(21956)
+
+Test case passed: Input(5
+10
+9
+3
+70149) => Output(32736)
+
+Test case passed: Input(5
+5
+5
+10
+55592) => Output(11118)
+
+Test case passed: Input(1
+5
+2
+6
+49547) => Output(49547)
+
+Test case passed: Input(3
+7
+7
+7
+84046) => Output(36019)
+
+Test case passed: Input(10
+2
+1
+8
+63537) => Output(63537)
+
+Test case passed: Input(7
+2
+10
+5
+81684) => Output(53678)
+
+Test case passed: Input(7
+1
+6
+8
+99831) => Output(99831)
+
+Test case passed: Input(3
+9
+3
+3
+61082) => Output(20360)
+
+Test case passed: Input(5
+5
+8
+9
+79228) => Output(29931)
+
+Test case passed: Input(1
+5
+5
+6
+89535) => Output(89535)
+
+Test case passed: Input(5
+5
+2
+1
+7682) => Output(7682)
+
+Test case passed: Input(7
+4
+8
+8
+25829) => Output(9224)
+
+Test case passed: Input(3
+4
+3
+3
+87079) => Output(43539)
+
+Test case passed: Input(5
+8
+4
+9
+5226) => Output(2438)
+
+Test case passed: Input(4
+9
+6
+6
+1070) => Output(415)
+
+Test case passed: Input(10
+10
+10
+10
+100000) => Output(10000)
+
+Test case passed: Input(1
+1
+1
+1
+1) => Output(1)
+
+Test case passed: Input(10
+10
+10
+10
+1) => Output(0)
+
+Test case passed: Input(10
+10
+1
+10
+10) => Output(10)
+
+Test case passed: Input(10
+10
+1
+10
+100) => Output(100)
+
+Test case passed: Input(2
+2
+2
+2
+1) => Output(0)
+

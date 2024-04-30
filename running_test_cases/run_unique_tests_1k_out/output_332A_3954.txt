@@ -1,0 +1,72 @@
+Test case passed: Input(4
+abbba) => Output(1)
+
+Test case passed: Input(4
+abbab) => Output(0)
+
+Test case passed: Input(4
+aaa) => Output(0)
+
+Test case passed: Input(4
+aab) => Output(0)
+
+Test case passed: Input(4
+aabaabbba) => Output(1)
+
+Test case passed: Input(6
+aaaaaaaaaaaaaaaa) => Output(2)
+
+Test case passed: Input(7
+abbbaaabbbaaaab) => Output(2)
+
+Test case passed: Input(9
+aaaabaaaaa) => Output(1)
+
+Test case passed: Input(4
+a) => Output(0)
+
+Test case passed: Input(4
+b) => Output(0)
+
+Test case passed: Input(4
+ab) => Output(0)
+
+Test case passed: Input(4
+bb) => Output(0)
+
+Test case passed: Input(4
+aba) => Output(0)
+
+Test case passed: Input(4
+bbb) => Output(0)
+
+Test case passed: Input(4
+abab) => Output(0)
+
+Test case passed: Input(4
+abaa) => Output(0)
+
+Test case passed: Input(4
+abbbaaabba) => Output(1)
+
+Test case passed: Input(4
+ababba) => Output(0)
+
+Test case passed: Input(4
+aaaaaa) => Output(1)
+
+Test case passed: Input(5
+bbbbaabaaa) => Output(0)
+
+Test case passed: Input(2000
+a) => Output(0)
+
+Test case passed: Input(2000
+aabaaabaabababbbbbbabbbbb) => Output(0)
+
+Test case passed: Input(4
+abbb) => Output(0)
+
+Test case passed: Input(5
+bbbbb) => Output(0)
+

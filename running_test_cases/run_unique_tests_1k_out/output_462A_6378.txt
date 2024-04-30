@@ -1,0 +1,121 @@
+Test case passed: Input(3
+xxo
+xox
+oxx) => Output(YES)
+
+Test case passed: Input(4
+xxxo
+xoxo
+oxox
+xxxx) => Output(NO)
+
+Test case passed: Input(1
+o) => Output(YES)
+
+Test case passed: Input(2
+ox
+xo) => Output(YES)
+
+Test case passed: Input(2
+xx
+xo) => Output(NO)
+
+Test case passed: Input(3
+ooo
+oxo
+xoo) => Output(NO)
+
+Test case passed: Input(3
+xxx
+xxo
+xxo) => Output(NO)
+
+Test case passed: Input(4
+xooo
+ooxo
+oxoo
+ooox) => Output(YES)
+
+Test case passed: Input(4
+oooo
+oxxo
+xoxo
+oooo) => Output(NO)
+
+Test case passed: Input(5
+oxoxo
+xxxxx
+oxoxo
+xxxxx
+oxoxo) => Output(YES)
+
+Test case passed: Input(5
+xxxox
+xxxxo
+xoxox
+oxoxx
+xoxxx) => Output(NO)
+
+Test case passed: Input(10
+xoxooooooo
+oxxoxxxxxo
+xxooxoooxo
+oooxxoxoxo
+oxxxooooxo
+oxooooxxxo
+oxoxoxxooo
+oxoooxooxx
+oxxxxxoxxo
+oooooooxox) => Output(YES)
+
+Test case passed: Input(10
+xxxxxxxoox
+xooxxooooo
+oxoooxxooo
+xoxxxxxxxx
+xxoxooxxox
+ooxoxxooox
+ooxxxxxooo
+xxxxoxooox
+xoxxooxxxx
+oooooxxoxo) => Output(NO)
+
+Test case passed: Input(19
+oxoxoxoxooxoooxxoox
+xxxxxxxxoxxoxoooooo
+oxoxoxooxxxooxxxooo
+xxoxxxooxooxxxoxxox
+oxoxooxxxooooxxoxox
+xxxoooxoxxoxxoxxxoo
+oxooxxxoooooxxoooxo
+xxooxooxoxxoxxoxxoo
+oxxxxooooxxxooooxxx
+ooxooxoxxoxxoxooxoo
+xxxooooxxxooooxoxox
+oooxoxooxxoxooxooxx
+xxoooxxxooooxxoooxo
+ooxxxooxoxooxooxxxx
+xoxoxxooxoxxxooxoxo
+xoxxoxoxooxooxxxxxx
+oooxxxooxxxooxoxoxo
+xoooooxoxooxxxxxxxo
+xooxxoooxxoxoxoxoxx) => Output(NO)
+
+Test case passed: Input(12
+xxooxxoxxxoo
+xxoooxoxoxoo
+ooxoxoxxooxx
+ooxxooooxoxo
+xxxxxxxxoxxx
+oxooooxxxooo
+oxxoxoxoooxx
+xxxxxxxooxox
+oxoooooxoxxx
+xxooxxoxxoxx
+oxxxxxxxooxx
+ooxoxooxxooo) => Output(NO)
+
+Test case passed: Input(2
+oo
+xx) => Output(NO)
+

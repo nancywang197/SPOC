@@ -1,0 +1,18 @@
+Test case passed: Input(010) => Output(1 1
+4 3
+3 1)
+
+Test case passed: Input(0) => Output(1 1)
+
+Test case passed: Input(1) => Output(4 3)
+
+Test case passed: Input(011110) => Output(1 1
+4 3
+4 1
+4 3
+4 1
+3 1)
+
+Test case passed: Input(01) => Output(1 1
+4 3)
+

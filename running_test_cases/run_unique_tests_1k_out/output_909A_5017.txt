@@ -1,0 +1,128 @@
+Test case passed: Input(harry potter) => Output(hap)
+
+Test case passed: Input(tom riddle) => Output(tomr)
+
+Test case passed: Input(a qdpinbmcrf) => Output(aq)
+
+Test case passed: Input(wixjzniiub ssdfodfgap) => Output(wis)
+
+Test case passed: Input(z z) => Output(zz)
+
+Test case passed: Input(ertuyivhfg v) => Output(ertuv)
+
+Test case passed: Input(asdfghjkli ware) => Output(asdfghjkliw)
+
+Test case passed: Input(udggmyop ze) => Output(udggmyopz)
+
+Test case passed: Input(fapkdme rtzxovx) => Output(fapkdmer)
+
+Test case passed: Input(mybiqxmnqq l) => Output(ml)
+
+Test case passed: Input(dtbqya fyyymv) => Output(df)
+
+Test case passed: Input(fyclu zokbxiahao) => Output(fycluz)
+
+Test case passed: Input(qngatnviv rdych) => Output(qngar)
+
+Test case passed: Input(ttvnhrnng lqkfulhrn) => Output(tl)
+
+Test case passed: Input(fya fgx) => Output(ff)
+
+Test case passed: Input(nuis zvjjqlre) => Output(nuisz)
+
+Test case passed: Input(ly qtsmze) => Output(lq)
+
+Test case passed: Input(d kgfpjsurfw) => Output(dk)
+
+Test case passed: Input(lwli ewrpu) => Output(le)
+
+Test case passed: Input(rr wldsfubcs) => Output(rrw)
+
+Test case passed: Input(h qart) => Output(hq)
+
+Test case passed: Input(vugvblnzx kqdwdulm) => Output(vk)
+
+Test case passed: Input(xohesmku ef) => Output(xe)
+
+Test case passed: Input(twvvsl wtcyawv) => Output(tw)
+
+Test case passed: Input(obljndajv q) => Output(obljndajq)
+
+Test case passed: Input(jjxwj kxccwx) => Output(jjk)
+
+Test case passed: Input(sk fftzmv) => Output(sf)
+
+Test case passed: Input(cgpegngs aufzxkyyrw) => Output(ca)
+
+Test case passed: Input(reyjzjdvq skuch) => Output(res)
+
+Test case passed: Input(ardaae mxgdulijf) => Output(am)
+
+Test case passed: Input(bgopsdfji uaps) => Output(bgopsdfjiu)
+
+Test case passed: Input(amolfed pun) => Output(amolfedp)
+
+Test case passed: Input(badkiln yort) => Output(badkilny)
+
+Test case passed: Input(aaaaaaaaaz york) => Output(aaaaaaaaay)
+
+Test case passed: Input(bbbbcbbbbd c) => Output(bbbbc)
+
+Test case passed: Input(aa ab) => Output(aa)
+
+Test case passed: Input(ab b) => Output(ab)
+
+Test case passed: Input(aaaaa ab) => Output(aa)
+
+Test case passed: Input(aa a) => Output(aa)
+
+Test case passed: Input(aba b) => Output(ab)
+
+Test case passed: Input(aaaaaaa aaaaaa) => Output(aa)
+
+Test case passed: Input(a a) => Output(aa)
+
+Test case passed: Input(a aa) => Output(aa)
+
+Test case passed: Input(a b) => Output(ab)
+
+Test case passed: Input(b a) => Output(ba)
+
+Test case passed: Input(z a) => Output(za)
+
+Test case passed: Input(aaa a) => Output(aa)
+
+Test case passed: Input(aa aa) => Output(aa)
+
+Test case passed: Input(a aaa) => Output(aa)
+
+Test case passed: Input(aaaaaaaaaa aaaaaaaaaa) => Output(aa)
+
+Test case passed: Input(aaaaaaaaaa a) => Output(aa)
+
+Test case passed: Input(a aaaaaaaaaa) => Output(aa)
+
+Test case passed: Input(zzaa b) => Output(zb)
+
+Test case passed: Input(ca cf) => Output(cac)
+
+Test case passed: Input(abhi ia) => Output(abhi)
+
+Test case passed: Input(aaaa aaaab) => Output(aa)
+
+Test case passed: Input(aar raa) => Output(aar)
+
+Test case passed: Input(harry hotter) => Output(hah)
+
+Test case passed: Input(aaaaaaa a) => Output(aa)
+
+Test case passed: Input(apple pie) => Output(ap)
+
+Test case passed: Input(aaa aaa) => Output(aa)
+
+Test case passed: Input(kabc buba) => Output(kab)
+
+Test case passed: Input(asd ss) => Output(as)
+
+Test case passed: Input(bbb b) => Output(bb)
+

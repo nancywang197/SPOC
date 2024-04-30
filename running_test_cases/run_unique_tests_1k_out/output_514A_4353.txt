@@ -1,0 +1,86 @@
+Test case timed out: Input(27)
+
+Test case timed out: Input(4545)
+
+Test case timed out: Input(1)
+
+Test case timed out: Input(9)
+
+Test case timed out: Input(8772)
+
+Test case timed out: Input(81)
+
+Test case timed out: Input(71723447)
+
+Test case timed out: Input(91730629)
+
+Test case timed out: Input(420062703497)
+
+Test case timed out: Input(332711047202)
+
+Test case timed out: Input(3395184971407775)
+
+Test case timed out: Input(8464062628894325)
+
+Test case failed: Input(164324828731963982) => Output(), Expected(134324121231033012)
+
+Test case timed out: Input(384979173822804784)
+
+Test case timed out: Input(41312150450968417)
+
+Test case timed out: Input(2156)
+
+Test case timed out: Input(1932)
+
+Test case timed out: Input(5902)
+
+Test case failed: Input(5728) => Output(), Expected(4221)
+
+Test case timed out: Input(8537)
+
+Test case timed out: Input(55403857)
+
+Test case timed out: Input(270739)
+
+Test case timed out: Input(28746918)
+
+Test case timed out: Input(10279211)
+
+Test case timed out: Input(40289679)
+
+Test case timed out: Input(545203238506)
+
+Test case timed out: Input(461117063340)
+
+Test case timed out: Input(658492686568)
+
+Test case timed out: Input(857373361868)
+
+Test case timed out: Input(429325660016)
+
+Test case timed out: Input(9894448650287940)
+
+Test case timed out: Input(6354510839296263)
+
+Test case timed out: Input(6873575462224593)
+
+Test case timed out: Input(4237951492601449)
+
+Test case timed out: Input(2680352384836991)
+
+Test case timed out: Input(606187734191890310)
+
+Test case timed out: Input(351499943576823355)
+
+Test case timed out: Input(180593481782177068)
+
+Test case timed out: Input(999999999999999999)
+
+Test case timed out: Input(1000000000000000000)
+
+Test case timed out: Input(9999)
+
+Test case timed out: Input(99)
+
+Test case failed: Input(9991) => Output(), Expected(9001)
+

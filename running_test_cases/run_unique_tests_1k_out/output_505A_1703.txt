@@ -1,0 +1,80 @@
+Test case passed: Input(revive) => Output(reviver)
+
+Test case passed: Input(ee) => Output(eae)
+
+Test case passed: Input(kitayuta) => Output(NA)
+
+Test case passed: Input(evima) => Output(NA)
+
+Test case passed: Input(a) => Output(aa)
+
+Test case passed: Input(yutampo) => Output(NA)
+
+Test case passed: Input(fft) => Output(tfft)
+
+Test case passed: Input(shuseki) => Output(NA)
+
+Test case passed: Input(lsdijfjisl) => Output(lsdijfjidsl)
+
+Test case passed: Input(ewcdcwerp) => Output(NA)
+
+Test case passed: Input(noon) => Output(noaon)
+
+Test case passed: Input(add) => Output(adda)
+
+Test case passed: Input(iq) => Output(iqi)
+
+Test case passed: Input(hogloid) => Output(NA)
+
+Test case passed: Input(yosupo) => Output(NA)
+
+Test case passed: Input(stat) => Output(stats)
+
+Test case passed: Input(level) => Output(levvel)
+
+Test case passed: Input(iwiwi) => Output(iwiiwi)
+
+Test case passed: Input(racecar) => Output(raceecar)
+
+Test case passed: Input(dog) => Output(NA)
+
+Test case passed: Input(squirrel) => Output(NA)
+
+Test case passed: Input(slime) => Output(NA)
+
+Test case passed: Input(palindrome) => Output(NA)
+
+Test case passed: Input(nqwcvcwqn) => Output(nqwcvvcwqn)
+
+Test case passed: Input(lsdijfjisl) => Output(lsdijfjidsl)
+
+Test case passed: Input(jewiiwefj) => Output(jfewiiwefj)
+
+Test case passed: Input(vnwmvvmonv) => Output(NA)
+
+Test case passed: Input(zennyuu) => Output(NA)
+
+Test case passed: Input(mrtoudai) => Output(NA)
+
+Test case passed: Input(z) => Output(zz)
+
+Test case passed: Input(babccba) => Output(babccbab)
+
+Test case passed: Input(battaba) => Output(abattaba)
+
+Test case passed: Input(bbb) => Output(bbbb)
+
+Test case passed: Input(zaa) => Output(zaaz)
+
+Test case passed: Input(abbabab) => Output(NA)
+
+Test case passed: Input(racecar) => Output(raceecar)
+
+Test case passed: Input(zzz) => Output(zzzz)
+
+Test case passed: Input(eviver) => Output(reviver)
+
+Test case passed: Input(aaaaa) => Output(aaaaaa)
+
+Test case passed: Input(eee) => Output(eeee)
+

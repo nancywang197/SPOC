@@ -1,0 +1,196 @@
+Test case passed: Input(100010001) => Output(yes)
+
+Test case passed: Input(100) => Output(no)
+
+Test case passed: Input(0000001000000) => Output(yes)
+
+Test case passed: Input(1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111) => Output(no)
+
+Test case passed: Input(1111111111111111111111111111111111111111111111111111111111111111111111110111111111111111111111111111) => Output(no)
+
+Test case passed: Input(0111111101111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111) => Output(no)
+
+Test case passed: Input(1111011111111111111111111111110111110111111111111111111111011111111111111110111111111111111111111111) => Output(no)
+
+Test case passed: Input(1111111111101111111111111111111111111011111111111111111111111101111011111101111111111101111111111111) => Output(yes)
+
+Test case passed: Input(0110111111111111111111011111111110110111110111111111111111111111111111111111111110111111111111111111) => Output(yes)
+
+Test case passed: Input(1100110001111011001101101000001110111110011110111110010100011000100101000010010111100000010001001101) => Output(yes)
+
+Test case passed: Input(000000) => Output(no)
+
+Test case passed: Input(0001000) => Output(no)
+
+Test case passed: Input(0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) => Output(no)
+
+Test case passed: Input(1000000) => Output(yes)
+
+Test case passed: Input(0) => Output(no)
+
+Test case passed: Input(1) => Output(no)
+
+Test case passed: Input(10000000000) => Output(yes)
+
+Test case passed: Input(0000000000) => Output(no)
+
+Test case passed: Input(0010000) => Output(no)
+
+Test case passed: Input(000000011) => Output(no)
+
+Test case passed: Input(000000000) => Output(no)
+
+Test case passed: Input(00000000) => Output(no)
+
+Test case passed: Input(000000000011) => Output(no)
+
+Test case passed: Input(0000000) => Output(no)
+
+Test case passed: Input(00000000011) => Output(no)
+
+Test case passed: Input(000000001) => Output(no)
+
+Test case passed: Input(000000000000000000000000000) => Output(no)
+
+Test case passed: Input(0000001) => Output(no)
+
+Test case passed: Input(00000001) => Output(no)
+
+Test case passed: Input(00000000100) => Output(no)
+
+Test case passed: Input(00000000000000000000) => Output(no)
+
+Test case passed: Input(0000000000000000000) => Output(no)
+
+Test case passed: Input(00001000) => Output(no)
+
+Test case passed: Input(0000000000010) => Output(no)
+
+Test case passed: Input(000000000010) => Output(no)
+
+Test case passed: Input(000000000000010) => Output(no)
+
+Test case passed: Input(0100000) => Output(no)
+
+Test case passed: Input(00010000) => Output(no)
+
+Test case passed: Input(00000000000000000) => Output(no)
+
+Test case passed: Input(00000000000) => Output(no)
+
+Test case passed: Input(000001000) => Output(no)
+
+Test case passed: Input(000000000000) => Output(no)
+
+Test case passed: Input(100000000000000) => Output(yes)
+
+Test case passed: Input(000010000) => Output(no)
+
+Test case passed: Input(00000100) => Output(no)
+
+Test case passed: Input(0001100000) => Output(no)
+
+Test case passed: Input(000000000000000000000000001) => Output(no)
+
+Test case passed: Input(000000100) => Output(no)
+
+Test case passed: Input(0000000000001111111111) => Output(no)
+
+Test case passed: Input(00000010) => Output(no)
+
+Test case passed: Input(0001110000) => Output(no)
+
+Test case passed: Input(0000000000000000000000) => Output(no)
+
+Test case passed: Input(000000010010) => Output(no)
+
+Test case passed: Input(0000100) => Output(no)
+
+Test case passed: Input(0000000001) => Output(no)
+
+Test case passed: Input(000000111) => Output(no)
+
+Test case passed: Input(0000000000000) => Output(no)
+
+Test case passed: Input(000000000000000000) => Output(no)
+
+Test case passed: Input(0000000000000000000000000) => Output(no)
+
+Test case passed: Input(000000000000000) => Output(no)
+
+Test case passed: Input(0010000000000100) => Output(yes)
+
+Test case passed: Input(0000001000) => Output(no)
+
+Test case passed: Input(00000000000000000001) => Output(no)
+
+Test case passed: Input(100000000) => Output(yes)
+
+Test case passed: Input(000000000001) => Output(no)
+
+Test case passed: Input(0000011001) => Output(no)
+
+Test case passed: Input(000) => Output(no)
+
+Test case passed: Input(000000000000000000000) => Output(no)
+
+Test case passed: Input(0000000000011) => Output(no)
+
+Test case passed: Input(0000000000000000) => Output(no)
+
+Test case passed: Input(00000000000000001) => Output(no)
+
+Test case passed: Input(00000000000000) => Output(no)
+
+Test case passed: Input(0000000000000000010) => Output(no)
+
+Test case passed: Input(00000000000000000000000000000000000000000000000000000000) => Output(no)
+
+Test case passed: Input(000011000) => Output(no)
+
+Test case passed: Input(00000011) => Output(no)
+
+Test case passed: Input(0000000000001100) => Output(no)
+
+Test case passed: Input(00000) => Output(no)
+
+Test case passed: Input(000000000000000000000000000111111111111111) => Output(no)
+
+Test case passed: Input(000000010) => Output(no)
+
+Test case passed: Input(00000000111) => Output(no)
+
+Test case passed: Input(000000000000001) => Output(no)
+
+Test case passed: Input(0000000000000011111111111111111) => Output(no)
+
+Test case passed: Input(0000000010) => Output(no)
+
+Test case passed: Input(0000000000000000000000000000000000000000000000000) => Output(no)
+
+Test case passed: Input(00000000010) => Output(no)
+
+Test case passed: Input(101000000000) => Output(yes)
+
+Test case passed: Input(00100000) => Output(no)
+
+Test case passed: Input(00000000000001) => Output(no)
+
+Test case passed: Input(0000000000100) => Output(no)
+
+Test case passed: Input(0000) => Output(no)
+
+Test case passed: Input(00000000000111) => Output(no)
+
+Test case passed: Input(0000000000000011) => Output(no)
+
+Test case passed: Input(0000000000000000000000000000000000000000) => Output(no)
+
+Test case passed: Input(0000000000000010) => Output(no)
+
+Test case passed: Input(0010101010) => Output(no)
+
+Test case passed: Input(0000000000000001) => Output(no)
+
+Test case passed: Input(1010101) => Output(no)
+

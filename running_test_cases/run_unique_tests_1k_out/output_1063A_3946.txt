@@ -1,0 +1,36 @@
+Test case passed: Input(5
+oolol) => Output(llooo)
+
+Test case passed: Input(16
+gagadbcgghhchbdf) => Output(aabbccddfgggghhh)
+
+Test case passed: Input(1
+z) => Output(z)
+
+Test case passed: Input(2
+az) => Output(az)
+
+Test case passed: Input(2
+aa) => Output(aa)
+
+Test case passed: Input(15
+abacabadabacaba) => Output(aaaaaaaabbbbccd)
+
+Test case passed: Input(21
+arozaupalanalapuazora) => Output(aaaaaaaallnoopprruuzz)
+
+Test case passed: Input(9
+abcabcabc) => Output(aaabbbccc)
+
+Test case passed: Input(10
+msunonames) => Output(aemmnnossu)
+
+Test case passed: Input(4
+mems) => Output(emms)
+
+Test case passed: Input(6
+msucmc) => Output(ccmmsu)
+
+Test case passed: Input(7
+lolikek) => Output(eikkllo)
+

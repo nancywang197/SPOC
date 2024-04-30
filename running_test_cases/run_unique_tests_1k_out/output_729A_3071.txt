@@ -1,0 +1,144 @@
+Test case passed: Input(7
+aogogob) => Output(a***b)
+
+Test case passed: Input(13
+ogogmgogogogo) => Output(***gmg***)
+
+Test case passed: Input(9
+ogoogoogo) => Output(*********)
+
+Test case passed: Input(32
+abcdefogoghijklmnogoopqrstuvwxyz) => Output(abcdef***ghijklmn***opqrstuvwxyz)
+
+Test case passed: Input(100
+ggogogoooggogooggoggogggggogoogoggooooggooggoooggogoooggoggoogggoogoggogggoooggoggoggogggogoogggoooo) => Output(gg***oogg***oggoggoggggg******ggooooggooggooogg***ooggoggoogggo***ggogggoooggoggoggoggg***ogggoooo)
+
+Test case passed: Input(10
+ogooggoggo) => Output(***oggoggo)
+
+Test case passed: Input(20
+ooggooogooogooogooog) => Output(ooggoo***o***o***oog)
+
+Test case passed: Input(30
+goggogoooggooggggoggoggoogoggo) => Output(gogg***ooggooggggoggoggo***ggo)
+
+Test case passed: Input(40
+ogggogooggoogoogggogooogogggoogggooggooo) => Output(oggg***oggo***oggg***o***gggoogggooggooo)
+
+Test case passed: Input(50
+oggggogoogggggggoogogggoooggooogoggogooogogggogooo) => Output(ogggg***ogggggggo***gggoooggoo***gg***o***ggg***oo)
+
+Test case passed: Input(60
+ggoooogoggogooogogooggoogggggogogogggggogggogooogogogggogooo) => Output(ggooo***gg***o***oggooggggg***gggggoggg***o***ggg***oo)
+
+Test case passed: Input(70
+gogoooggggoggoggggggoggggoogooogogggggooogggogoogoogoggogggoggogoooooo) => Output(g***ooggggoggoggggggoggggo***o***gggggoooggg*********ggogggogg***ooooo)
+
+Test case passed: Input(80
+ooogoggoooggogogoggooooogoogogooogoggggogggggogoogggooogooooooggoggoggoggogoooog) => Output(oo***ggooogg***ggoooo******o***ggggoggggg***ogggoo***oooooggoggoggogg***ooog)
+
+Test case passed: Input(90
+ooogoggggooogoggggoooogggggooggoggoggooooooogggoggogggooggggoooooogoooogooggoooogggggooooo) => Output(oo***ggggoo***ggggoooogggggooggoggoggooooooogggoggogggooggggooooo***oo***oggoooogggggooooo)
+
+Test case passed: Input(100
+gooogoggooggggoggoggooooggogoogggoogogggoogogoggogogogoggogggggogggggoogggooogogoggoooggogoooooogogg) => Output(goo***ggooggggoggoggoooogg***ogggo***gggo***gg***ggogggggogggggoogggoo***ggooogg***oooo***gg)
+
+Test case passed: Input(100
+googoogggogoooooggoogooogoogoogogoooooogooogooggggoogoggogooogogogoogogooooggoggogoooogooooooggogogo) => Output(go***oggg***ooooggo***o*********oooo***o***oggggo***gg***o******oooggogg***oo***ooooogg***)
+
+Test case passed: Input(100
+googoggggogggoooggoogoogogooggoggooggggggogogggogogggoogogggoogoggoggogooogogoooogooggggogggogggoooo) => Output(go***ggggogggoooggo******oggoggoogggggg***ggg***gggo***gggo***ggogg***o***oo***oggggogggogggoooo)
+
+Test case passed: Input(100
+ogogogogogoggogogogogogogoggogogogoogoggoggooggoggogoogoooogogoogggogogogogogoggogogogogogogogogogoe) => Output(***gg***gg******ggoggooggogg******oo***oggg***gg***e)
+
+Test case passed: Input(5
+ogoga) => Output(***ga)
+
+Test case passed: Input(1
+o) => Output(o)
+
+Test case passed: Input(100
+ogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogog) => Output(***g)
+
+Test case passed: Input(99
+ogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogogo) => Output(***)
+
+Test case passed: Input(5
+ggggg) => Output(ggggg)
+
+Test case passed: Input(6
+googoo) => Output(go***o)
+
+Test case passed: Input(7
+ooogooo) => Output(oo***oo)
+
+Test case passed: Input(8
+gggggggg) => Output(gggggggg)
+
+Test case passed: Input(9
+ogggogggg) => Output(ogggogggg)
+
+Test case passed: Input(10
+ogogoggogo) => Output(***gg***)
+
+Test case passed: Input(11
+oooggooggog) => Output(oooggooggog)
+
+Test case passed: Input(12
+ogggooooggog) => Output(ogggooooggog)
+
+Test case passed: Input(13
+ogoggogogooog) => Output(***gg***oog)
+
+Test case passed: Input(15
+ggooogoooggoggg) => Output(ggoo***ooggoggg)
+
+Test case passed: Input(14
+oogooooggooggo) => Output(o***oooggooggo)
+
+Test case passed: Input(1
+a) => Output(a)
+
+Test case passed: Input(1
+g) => Output(g)
+
+Test case passed: Input(1
+z) => Output(z)
+
+Test case passed: Input(46
+sdfkogogogogergergogogergerogogogogoergoegogog) => Output(sdfk***gergerg***gerger***ergoeg***g)
+
+Test case passed: Input(86
+gdfggogogodfogogdofgoodfogodgodgfogoogdodhbofgobgbgfogoogdfogogogogogoogggsgfosogodgon) => Output(gdfgg***df***gdofgoodf***dgodgf***ogdodhbofgobgbgf***ogdf***ogggsgfos***dgon)
+
+Test case passed: Input(83
+ergegergoogogogerogoerorogroeorgefxcfgzdgawofqpwzxcvbnmsdfkfpweoriqgtogooggsdgogoog) => Output(ergegergo***ger***erorogroeorgefxcfgzdgawofqpwzxcvbnmsdfkfpweoriqgt***oggsdg***og)
+
+Test case passed: Input(2
+og) => Output(og)
+
+Test case passed: Input(4
+ogog) => Output(***g)
+
+Test case passed: Input(4
+ogoo) => Output(***o)
+
+Test case passed: Input(29
+aaaogogogogogogogogogogogobbb) => Output(aaa***bbb)
+
+Test case passed: Input(11
+ogogogogogo) => Output(***)
+
+Test case passed: Input(9
+ogogogogo) => Output(***)
+
+Test case passed: Input(3
+ogo) => Output(***)
+
+Test case passed: Input(15
+ogogogogogogogo) => Output(***)
+
+Test case passed: Input(25
+ogogogogogogogogogogogogo) => Output(***)
+

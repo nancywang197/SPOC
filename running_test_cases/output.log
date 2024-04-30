@@ -1,0 +1,290 @@
+Code:
+int gcd(int a, int b) {
+  return !b ? a : gcd(b, a % b);
+}
+int main() {
+  int n, nn, ans = 0;
+  cin >> n;
+  for (int i = 2; i <= n - 1; ++i) {
+    nn = n;
+    while (nn) ans += nn % i, nn /= i;
+  }
+  int o = gcd(ans, n - 2);
+  cout << ans / o << "/" << (n - 2) / o << "\n";
+  return 0;
+}
+
+
+
+Problem Id: 
+13A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpwxnj5b07.cpp.
+Code:
+int main() {
+  string a, b;
+  int n;
+  set<string> st;
+  cin >> n;
+  for (int i = 0; i < n; i++) {
+    cin >> a >> b;
+    st.insert(a + " " + b);
+  }
+  cout << st.size() << endl;
+  return 0;
+}
+
+
+
+Problem Id: 
+44A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpr3i7qzso.cpp.
+Code:
+int main() {
+  int n, m, su = 0, su2 = 0, a, b, c;
+  cin >> n;
+  m = n;
+  for (int i = 2; i < n; i++) {
+    while (n > 0) {
+      su += n % i;
+      n = n / i;
+    }
+    n = m;
+  }
+  c = su;
+  a = su;
+  m = m - 2;
+  b = m;
+  su2 = su % b;
+  while (su2 > 0) {
+    su = b;
+    b = su2;
+    su2 = su % b;
+  }
+  cout << c / b << "/" << m / b << endl;
+  return 0;
+}
+
+
+
+Problem Id: 
+13A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpuvxwnqqi.cpp.
+Code:
+int gcd1(int a, int b) {
+  if (a == 0) return b;
+  return gcd1(b % a, a);
+}
+long long modx(long long base, long long ex) {
+  long long ans = 1LL, val = base;
+  while (ex > 0LL) {
+    if (ex & 1LL) ans = (ans * val) % 1000000009LL;
+    val = (val * val) % 1000000009LL;
+    ex = ex >> 1LL;
+  }
+  return ans;
+}
+int ans1 = 0, ans2 = 0;
+int n, a, b, c;
+const int maxn = 105;
+bool visit[maxn];
+vector<int> adj[maxn];
+int dist[maxn][maxn];
+vector<int> v;
+void dfs(int start) {
+  visit[start] = true;
+  v.push_back(start);
+  for (int i = 0; i < adj[start].size(); i++) {
+    int pt = adj[start][i];
+    if (!visit[pt]) dfs(pt);
+  }
+}
+int main() {
+  cin >> n;
+  for (int i = 1; i <= n; i++) {
+    cin >> a >> b >> c;
+    adj[a].push_back(b);
+    adj[b].push_back(a);
+    dist[b][a] = c;
+  }
+  dfs(1);
+  for (int i = 0; i < v.size(); i++) { ans1 += dist[v[i]][v[(i + 1) % n]]; }
+  for (int i = v.size() - 1; i >= 0; i--) {
+    if (i == 0)
+      ans2 += dist[v[i]][v[v.size() - 1]];
+    else
+      ans2 += dist[v[i]][v[i - 1]];
+  }
+  cout << min(ans1, ans2) << endl;
+  return 0;
+}
+
+
+
+Problem Id: 
+24A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmp1q18m5eb.cpp.
+Code:
+map<string, int> m;
+map<string, int>::iterator it;
+int main() {
+  int n;
+  cin >> n;
+  getchar();
+  for (int i = 0; i < n; i++) {
+    string str;
+    getline(cin, str);
+    m[str] = 1;
+  }
+  int ans = 0;
+  for (it = m.begin(); it != m.end(); it++) { ans++; }
+  cout << ans << endl;
+}
+
+
+
+Problem Id: 
+44A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmp8ijy5zwk.cpp.
+Code:
+int main() {
+  int i, n, k, rem, sum = 0, l;
+  cin >> n;
+  for (i = 2; i < n; i++) {
+    k = n;
+    while (k > 0) {
+      rem = k % i;
+      sum += rem;
+      k /= i;
+    }
+  }
+  l = __gcd(sum, n - 2);
+  cout << sum / l << "/" << (n - 2) / l << endl;
+}
+
+
+
+Problem Id: 
+13A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmph_x4uk5k.cpp.
+Compilation Error for Problem ID 13A: In file included from /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmph_x4uk5k.cpp:1:
+/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h:4:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+/var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmph_x4uk5k.cpp:13:7: error: use of undeclared identifier '__gcd'
+  l = __gcd(sum, n - 2);
+      ^
+1 warning and 1 error generated.
+
+Code:
+int main() {
+  int i, n, k, rem, sum = 0, l;
+  cin >> n;
+  for (i = 2; i < n; i++) {
+    k = n;
+    while (k > 0) {
+      rem = k % i;
+      sum += rem;
+      k /= i;
+    }
+  }
+  l = __gcd(sum, n - 2);
+  cout << sum / l << "/" << (n - 2) / l << endl;
+}
+
+
+
+Problem Id: 
+13A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpau8lv34p.cpp.
+Compilation Error for Problem ID 13A: In file included from /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpau8lv34p.cpp:1:
+/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h:4:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+/var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpau8lv34p.cpp:13:7: error: use of undeclared identifier '__gcd'
+  l = __gcd(sum, n - 2);
+      ^
+1 warning and 1 error generated.
+
+Code:
+string s, s1;
+set<string> se;
+int main() {
+  int i, j, k;
+  int n, m;
+  cin >> n;
+  for (i = 0; i < n; i++) cin >> s >> s1, s += ' ', s += s1, se.insert(s);
+  cout << se.size() << endl;
+}
+
+
+
+Problem Id: 
+44A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpfsu9pqsm.cpp.
+Code:
+string s, s1;
+set<string> se;
+int main() {
+  int i, j, k;
+  int n, m;
+  cin >> n;
+  for (i = 0; i < n; i++) cin >> s >> s1, s += ' ', s += s1, se.insert(s);
+  cout << se.size() << endl;
+}
+
+
+
+Problem Id: 
+44A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpj7mjxb48.cpp.
+Code:
+int main() {
+  int n, m, su = 0, su2 = 0, a, b, c;
+  cin >> n;
+  m = n;
+  for (int i = 2; i < n; i++) {
+    while (n > 0) {
+      su += n % i;
+      n = n / i;
+    }
+    n = m;
+  }
+  c = su;
+  a = su;
+  m = m - 2;
+  b = m;
+  su2 = su % b;
+  while (su2 > 0) {
+    su = b;
+    b = su2;
+    su2 = su % b;
+  }
+  cout << c / b << "/" << m / b << endl;
+  return 0;
+}
+
+
+
+Problem Id: 
+13A
+
+
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpt3myvu75.cpp.

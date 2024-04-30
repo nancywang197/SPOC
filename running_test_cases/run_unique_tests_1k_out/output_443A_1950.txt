@@ -1,0 +1,44 @@
+Test case passed: Input({a, b, c}) => Output(3)
+
+Test case passed: Input({b, a, b, a}) => Output(2)
+
+Test case passed: Input({}) => Output(0)
+
+Test case passed: Input({a, a, c, b, b, b, c, c, c, c}) => Output(3)
+
+Test case passed: Input({a, c, b, b}) => Output(3)
+
+Test case passed: Input({a, b}) => Output(2)
+
+Test case passed: Input({a}) => Output(1)
+
+Test case passed: Input({b, a, b, a, b, c, c, b, c, b}) => Output(3)
+
+Test case passed: Input({e, g, c, e}) => Output(3)
+
+Test case passed: Input({a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a}) => Output(1)
+
+Test case passed: Input({a, a, b}) => Output(2)
+
+Test case passed: Input({a, b, b, b, a, b, a, a, a, a, a, a, b, a, b, a, a, a, a, a, b, a, b, a}) => Output(2)
+
+Test case passed: Input({j, u, a, c, f, w, e, w, x, t, h, p, v, n, i, l, x, n, i, b, u, c, a, a}) => Output(16)
+
+Test case passed: Input({x, i, w, c, p, e, h, z, k, i}) => Output(9)
+
+Test case passed: Input({t, k, o, x, r, d, q, j, k, e, z, w, y, r, z, s, s, e, s, b, k, i}) => Output(15)
+
+Test case passed: Input({y}) => Output(1)
+
+Test case passed: Input({x}) => Output(1)
+
+Test case passed: Input({b, z, a, z}) => Output(3)
+
+Test case passed: Input({z}) => Output(1)
+
+Test case passed: Input({a, z}) => Output(2)
+
+Test case passed: Input({a, b, z}) => Output(3)
+
+Test case passed: Input({s, q, z, r, t, a, b, h, j, i, o, z, r, q}) => Output(11)
+

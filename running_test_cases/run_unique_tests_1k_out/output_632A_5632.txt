@@ -1,0 +1,139 @@
+Test case passed: Input(2 10
+half
+halfplus) => Output(15)
+
+Test case passed: Input(3 10
+halfplus
+halfplus
+halfplus) => Output(55)
+
+Test case passed: Input(10 328
+half
+halfplus
+halfplus
+half
+halfplus
+half
+half
+half
+halfplus
+halfplus) => Output(258300)
+
+Test case passed: Input(1 2
+halfplus) => Output(1)
+
+Test case passed: Input(5 6
+half
+half
+halfplus
+half
+halfplus) => Output(114)
+
+Test case passed: Input(10 2
+halfplus
+halfplus
+halfplus
+half
+halfplus
+half
+halfplus
+half
+halfplus
+halfplus) => Output(1703)
+
+Test case passed: Input(20 6
+half
+halfplus
+halfplus
+halfplus
+half
+half
+halfplus
+half
+halfplus
+halfplus
+halfplus
+half
+half
+halfplus
+halfplus
+half
+halfplus
+halfplus
+halfplus
+halfplus) => Output(6056877)
+
+Test case passed: Input(30 68
+half
+half
+half
+halfplus
+halfplus
+half
+half
+half
+half
+half
+half
+half
+half
+halfplus
+halfplus
+half
+halfplus
+half
+halfplus
+half
+halfplus
+halfplus
+halfplus
+half
+half
+half
+halfplus
+half
+halfplus
+halfplus) => Output(59847312584)
+
+Test case passed: Input(40 562
+halfplus
+halfplus
+halfplus
+halfplus
+halfplus
+halfplus
+halfplus
+halfplus
+half
+half
+half
+halfplus
+half
+half
+halfplus
+half
+halfplus
+half
+halfplus
+half
+halfplus
+half
+halfplus
+halfplus
+halfplus
+halfplus
+halfplus
+half
+half
+halfplus
+half
+halfplus
+halfplus
+half
+half
+halfplus
+half
+half
+halfplus
+halfplus) => Output(486750560068982)
+

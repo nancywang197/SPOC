@@ -1,0 +1,54 @@
+Test case passed: Input(5
+LRLR) => Output(2 1 2 1 2)
+
+Test case passed: Input(5
+=RRR) => Output(1 1 2 3 4)
+
+Test case passed: Input(6
+RLRL=) => Output(1 2 1 2 1 1)
+
+Test case passed: Input(3
+R=) => Output(1 2 2)
+
+Test case passed: Input(7
+RR==RR) => Output(1 2 3 3 3 4 5)
+
+Test case passed: Input(166
+R===RL=LRRR=RRRL=LRR=R=RR==L=R=R=RRR=RR=RLLRRL=LLRL==L=R==RLR==RL=RR=LR==R=R=LLRLRLR=RR=RLLRLR=RRLL==L=LR=RR=RRRL=RLLLR==L=RRLRLLLLLLLRL===LRLRLRLRRLL=LRLL===LRLRR==) => Output(1 2 2 2 2 3 2 2 1 2 3 4 4 5 6 7 2 2 1 2 3 3 4 4 5 6 6 6 1 1 2 2 3 3 4 5 6 6 7 8 8 9 2 1 2 4 3 3 2 1 3 2 2 2 1 1 2 2 2 3 1 2 2 2 3 1 1 2 3 3 1 2 2 2 3 3 4 4 2 1 2 1 2 1 2 2 3 4 4 5 2 1 2 1 2 2 3 5 4 3 3 3 2 2 1 2 2 3 4 4 5 6 7 1 1 4 3 2 1 2 2 2 1 1 2 3 1 8 7 6 5 4 3 2 1 3 2 2 2 2 1 2 1 2 1 2 1 2 4 3 2 2 1 4 3 2 2 2 2 1 2 1 2 3 3 3)
+
+Test case passed: Input(24
+R=R==RL=RL=RLL=LLL=LLRL) => Output(1 2 2 3 3 3 4 1 1 2 1 1 8 7 6 6 5 4 3 3 2 1 2 1)
+
+Test case passed: Input(100
+=L=L=L=R=LR=RRRLRL=LRL=RRLLLLRL=R==R=LLLRR===RR=LR==LRLR===RRLRLLRLLR=LRLRR=L=LRRLLLRR==LLRLLLL==RL) => Output(4 4 3 3 2 2 1 1 2 2 1 2 2 3 4 5 1 3 2 2 1 2 1 1 2 5 4 3 2 1 2 1 1 2 2 2 4 4 3 2 1 2 3 3 3 3 4 5 5 1 2 2 2 1 2 1 2 2 2 2 3 4 1 3 2 1 3 2 1 2 2 1 2 1 2 3 3 2 2 1 2 4 3 2 1 2 3 3 3 2 1 5 4 3 2 1 1 1 2 1)
+
+Test case passed: Input(198
+LLRRR=RRRRLRRLRR=R===R=RL==R=RLLLR=R=L=LR=R====RRL=RRR=LL=R=RR=RRRLRRLRRR==L=LRLLL====LR=RL==L===LRR=L=L==R==R==L=LLL===R=LLL=R=L=LLLLRLL=RL=LRRLR=RL==RR=R==RLR==R=R==RLRL=LL=RRR=R===LLLRRRRL=RLRLL) => Output(3 2 1 2 3 4 4 5 6 7 8 1 2 3 1 2 3 3 4 4 4 4 5 5 6 1 1 1 2 2 4 3 2 1 2 2 3 3 2 2 1 2 2 3 3 3 3 3 4 5 1 1 2 3 4 4 2 1 1 2 2 3 4 4 5 6 7 1 2 3 1 2 3 4 4 4 2 2 1 5 4 3 2 2 2 2 2 1 2 2 4 3 3 3 2 2 2 2 1 2 3 3 2 2 1 1 1 2 2 2 5 5 5 4 4 3 2 1 1 1 1 4 4 3 2 1 1 6 6 5 5 4 3 2 1 3 2 1 1 3 2 2 1 2 3 1 2 2 3 1 1 1 2 3 3 4 4 4 5 1 2 2 2 3 3 4 4 4 5 1 4 3 3 2 1 1 2 3 4 4 5 5 5 5 3 2 1 2 3 4 5 1 1 2 1 3 2 1)
+
+Test case passed: Input(10
+RL=R=RLR=) => Output(1 2 1 1 2 2 3 1 2 2)
+
+Test case passed: Input(2
+L) => Output(2 1)
+
+Test case passed: Input(100
+R=R=RRR=R=RR=RRLL=RLRLLLLLR==L=======L=LLR==RL=R=LRLLLR==LLLL=RRRL=LRL=LR=====L=LLLRRL=LLR===RLR=RR) => Output(1 2 2 3 3 4 5 6 6 7 7 8 9 9 10 11 2 1 1 2 1 6 5 4 3 2 1 5 5 5 4 4 4 4 4 4 4 4 3 3 2 1 2 2 2 3 1 1 2 2 1 4 3 2 1 5 5 5 4 3 2 1 1 2 3 4 2 2 1 3 2 2 1 5 5 5 5 5 5 4 4 3 2 1 2 4 3 3 2 1 2 2 2 2 3 1 2 2 3 4)
+
+Test case passed: Input(23
+L=LLLLRL=RR=RLLLL=RR==) => Output(6 5 5 4 3 2 1 2 1 1 2 3 3 5 4 3 2 1 1 2 3 3 3)
+
+Test case passed: Input(4
+RRL) => Output(1 2 3 1)
+
+Test case passed: Input(17
+=RRR=L==LLLLRRRL) => Output(1 1 2 3 6 6 5 5 5 4 3 2 1 2 3 4 1)
+
+Test case passed: Input(20
+RRLLLLLRRRRRRRRLRLR) => Output(1 2 6 5 4 3 2 1 2 3 4 5 6 7 8 9 1 2 1 2)
+
+Test case passed: Input(9
+R===RRLL) => Output(1 2 2 2 2 3 4 2 1)
+
+Test case passed: Input(15
+=RRR=LLLLLRRRL) => Output(1 1 2 3 6 6 5 4 3 2 1 2 3 4 1)
+

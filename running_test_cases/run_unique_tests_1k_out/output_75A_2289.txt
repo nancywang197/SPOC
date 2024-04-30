@@ -1,0 +1,129 @@
+Test case passed: Input(101
+102) => Output(YES)
+
+Test case passed: Input(105
+106) => Output(NO)
+
+Test case passed: Input(544
+397) => Output(YES)
+
+Test case passed: Input(822
+280) => Output(NO)
+
+Test case passed: Input(101
+413) => Output(NO)
+
+Test case passed: Input(309
+139) => Output(NO)
+
+Test case passed: Input(693
+970) => Output(NO)
+
+Test case passed: Input(981
+1) => Output(YES)
+
+Test case passed: Input(352
+276) => Output(YES)
+
+Test case passed: Input(164
+691) => Output(YES)
+
+Test case passed: Input(110036
+43) => Output(YES)
+
+Test case passed: Input(100
+1000) => Output(NO)
+
+Test case passed: Input(1000000000
+1000000000) => Output(YES)
+
+Test case passed: Input(999999999
+999999999) => Output(YES)
+
+Test case passed: Input(6
+4) => Output(NO)
+
+Test case passed: Input(123456
+876543) => Output(YES)
+
+Test case passed: Input(1234567
+9876543) => Output(NO)
+
+Test case passed: Input(1111111
+1119111) => Output(NO)
+
+Test case passed: Input(10502405
+40403403) => Output(YES)
+
+Test case passed: Input(1
+1) => Output(YES)
+
+Test case passed: Input(5
+4) => Output(YES)
+
+Test case passed: Input(1
+6) => Output(YES)
+
+Test case passed: Input(40
+17) => Output(NO)
+
+Test case passed: Input(35
+81) => Output(YES)
+
+Test case passed: Input(347
+908) => Output(NO)
+
+Test case passed: Input(2081
+7450) => Output(NO)
+
+Test case passed: Input(84355694
+373629503) => Output(NO)
+
+Test case passed: Input(885992048
+510468672) => Output(NO)
+
+Test case passed: Input(540144752
+647307841) => Output(NO)
+
+Test case passed: Input(341781108
+784147010) => Output(NO)
+
+Test case passed: Input(960440938
+572334653) => Output(NO)
+
+Test case passed: Input(657414510
+768771903) => Output(NO)
+
+Test case passed: Input(501871728
+725074574) => Output(NO)
+
+Test case passed: Input(968
+851) => Output(YES)
+
+Test case passed: Input(943
+939) => Output(YES)
+
+Test case passed: Input(347
+908) => Output(NO)
+
+Test case passed: Input(611
+41) => Output(YES)
+
+Test case passed: Input(737
+289) => Output(NO)
+
+Test case passed: Input(168
+571) => Output(YES)
+
+Test case passed: Input(868
+463) => Output(YES)
+
+Test case passed: Input(815732007
+913882008) => Output(NO)
+
+Test case passed: Input(459039901
+453033850) => Output(NO)
+
+Test case passed: Input(975305404
+484601256) => Output(NO)
+

@@ -1,0 +1,60 @@
+Test case passed: Input(HoUse) => Output(house)
+
+Test case passed: Input(ViP) => Output(VIP)
+
+Test case passed: Input(maTRIx) => Output(matrix)
+
+Test case passed: Input(BNHWpnpawg) => Output(bnhwpnpawg)
+
+Test case passed: Input(VTYGP) => Output(VTYGP)
+
+Test case passed: Input(CHNenu) => Output(chnenu)
+
+Test case passed: Input(ERPZGrodyu) => Output(erpzgrodyu)
+
+Test case passed: Input(KSXBXWpebh) => Output(KSXBXWPEBH)
+
+Test case passed: Input(qvxpqullmcbegsdskddortcvxyqlbvxmmkhevovnezubvpvnrcajpxraeaxizgaowtfkzywvhnbgzsxbhkaipcmoumtikkiyyaiv) => Output(qvxpqullmcbegsdskddortcvxyqlbvxmmkhevovnezubvpvnrcajpxraeaxizgaowtfkzywvhnbgzsxbhkaipcmoumtikkiyyaiv)
+
+Test case passed: Input(Amnhaxtaopjzrkqlbroiyipitndczpunwygstmzevgyjdzyanxkdqnvgkikfabwouwkkbzuiuvgvxgpizsvqsbwepktpdrgdkmfd) => Output(amnhaxtaopjzrkqlbroiyipitndczpunwygstmzevgyjdzyanxkdqnvgkikfabwouwkkbzuiuvgvxgpizsvqsbwepktpdrgdkmfd)
+
+Test case passed: Input(ISAGFJFARYFBLOPQDSHWGMCNKMFTLVFUGNJEWGWNBLXUIATXEkqiettmmjgydwcpafqrppdsrrrtguinqbgmzzfqwonkpgpcwenv) => Output(isagfjfaryfblopqdshwgmcnkmftlvfugnjewgwnblxuiatxekqiettmmjgydwcpafqrppdsrrrtguinqbgmzzfqwonkpgpcwenv)
+
+Test case passed: Input(XHRPXZEGHSOCJPICUIXSKFUZUPYTSGJSDIYBCMNMNBPNDBXLXBzhbfnqvwcffvrdhtickyqhupmcehlsyvncqmfhautvxudqdhgg) => Output(xhrpxzeghsocjpicuixskfuzupytsgjsdiybcmnmnbpndbxlxbzhbfnqvwcffvrdhtickyqhupmcehlsyvncqmfhautvxudqdhgg)
+
+Test case passed: Input(RJIQZMJCIMSNDBOHBRAWIENODSALETAKGKPYUFGVEFGCBRENZGAdkcetqjljtmttlonpekcovdzebzdkzggwfsxhapmjkdbuceak) => Output(RJIQZMJCIMSNDBOHBRAWIENODSALETAKGKPYUFGVEFGCBRENZGADKCETQJLJTMTTLONPEKCOVDZEBZDKZGGWFSXHAPMJKDBUCEAK)
+
+Test case passed: Input(DWLWOBHNMMGTFOLFAECKBRNNGLYLYDXTGTVRLMEESZOIUATZZZXUFUZDLSJXMEVRTESSFBWLNZZCLCQWEVNNUCXYVHNGNXHCBDFw) => Output(DWLWOBHNMMGTFOLFAECKBRNNGLYLYDXTGTVRLMEESZOIUATZZZXUFUZDLSJXMEVRTESSFBWLNZZCLCQWEVNNUCXYVHNGNXHCBDFW)
+
+Test case passed: Input(NYCNHJWGBOCOTSPETKKHVWFGAQYNHOVJWJHCIEFOUQZXOYUIEQDZALFKTEHTVDBVJMEUBJUBCMNVPWGDPNCHQHZJRCHYRFPVIGUB) => Output(NYCNHJWGBOCOTSPETKKHVWFGAQYNHOVJWJHCIEFOUQZXOYUIEQDZALFKTEHTVDBVJMEUBJUBCMNVPWGDPNCHQHZJRCHYRFPVIGUB)
+
+Test case passed: Input(igxoixiecetohtgjgbqzvlaobkhstejxdklghowtvwunnnvauriohuspsdmpzckprwajyxldoyckgjivjpmbfqtszmtocovxwge) => Output(igxoixiecetohtgjgbqzvlaobkhstejxdklghowtvwunnnvauriohuspsdmpzckprwajyxldoyckgjivjpmbfqtszmtocovxwge)
+
+Test case passed: Input(Ykkekrsqolzryiwsmdlnbmfautxxxauoojrddvwklgnlyrfcvhorrzbmtcrvpaypqhcffdqhwziipyyskcmztjprjqvmzzqhqnw) => Output(ykkekrsqolzryiwsmdlnbmfautxxxauoojrddvwklgnlyrfcvhorrzbmtcrvpaypqhcffdqhwziipyyskcmztjprjqvmzzqhqnw)
+
+Test case passed: Input(YQOMLKYAORUQQUCQZCDYMIVDHGWZFFRMUVTAWCHERFPMNRYRIkgqrciokgajamehmcxgerpudvsqyonjonsxgbnefftzmygncks) => Output(yqomlkyaoruqqucqzcdymivdhgwzffrmuvtawcherfpmnryrikgqrciokgajamehmcxgerpudvsqyonjonsxgbnefftzmygncks)
+
+Test case passed: Input(CDOZDPBVVVHNBJVBYHEOXWFLJKRWJCAJMIFCOZWWYFKVWOGTVJcuusigdqfkumewjtdyitveeiaybwrhomrwmpdipjwiuxfnwuz) => Output(CDOZDPBVVVHNBJVBYHEOXWFLJKRWJCAJMIFCOZWWYFKVWOGTVJCUUSIGDQFKUMEWJTDYITVEEIAYBWRHOMRWMPDIPJWIUXFNWUZ)
+
+Test case passed: Input(WHIUVEXHVOOIJIDVJVPQUBJMEVPMPDKQWJKFBZSGSKUXMIPPMJWuckzcpxosodcjaaakvlxpbiigsiauviilylnnqlyucziihqg) => Output(WHIUVEXHVOOIJIDVJVPQUBJMEVPMPDKQWJKFBZSGSKUXMIPPMJWUCKZCPXOSODCJAAAKVLXPBIIGSIAUVIILYLNNQLYUCZIIHQG)
+
+Test case passed: Input(VGHUNFOXKETUYMZDJNGTAOIOANYXSGYNFOGOFFLDAWEUKYFOZXCJTCAFXZYLQZERYZLRSQXYQGAPCSUDPMEYTNCTTTMFAGVDWBO) => Output(VGHUNFOXKETUYMZDJNGTAOIOANYXSGYNFOGOFFLDAWEUKYFOZXCJTCAFXZYLQZERYZLRSQXYQGAPCSUDPMEYTNCTTTMFAGVDWBO)
+
+Test case passed: Input(EDUANHCQDOCJHFONTTSWBUJSTTIXBIXMAIUFSGFLXWAYIURTVAVZPYQDLAWIGCLMPHXCEFCJPFAAHXVNGQUFNHADAIUAZIDMHDd) => Output(EDUANHCQDOCJHFONTTSWBUJSTTIXBIXMAIUFSGFLXWAYIURTVAVZPYQDLAWIGCLMPHXCEFCJPFAAHXVNGQUFNHADAIUAZIDMHDD)
+
+Test case passed: Input(EBWOVSNLYTWWXrnovgugogtjahnmatomubebyxakas) => Output(ebwovsnlytwwxrnovgugogtjahnmatomubebyxakas)
+
+Test case passed: Input(AORNNDKTRLRVGDPXJKXFTPFpopuzrlqumrxssskvbm) => Output(AORNNDKTRLRVGDPXJKXFTPFPOPUZRLQUMRXSSSKVBM)
+
+Test case passed: Input(DBBZJCWQEVGYHEEUHJAWRHBDPsnplijbwtdibqrrheebfxqcvn) => Output(dbbzjcwqevgyheeuhjawrhbdpsnplijbwtdibqrrheebfxqcvn)
+
+Test case passed: Input(t) => Output(t)
+
+Test case passed: Input(N) => Output(N)
+
+Test case passed: Input(kv) => Output(kv)
+
+Test case passed: Input(Ur) => Output(ur)
+
+Test case passed: Input(CN) => Output(CN)
+

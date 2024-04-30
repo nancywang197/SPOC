@@ -1,0 +1,10 @@
+Test case passed: Input(2) => Output(25)
+
+Test case passed: Input(7) => Output(25)
+
+Test case passed: Input(1000000000000000000) => Output(25)
+
+Test case passed: Input(2000000000000000000) => Output(25)
+
+Test case passed: Input(987654321012345678) => Output(25)
+

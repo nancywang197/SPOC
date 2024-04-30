@@ -1,0 +1,20 @@
+Test case passed: Input(3
+1 10
+3 14
+1 10) => Output(1 10
+3 12
+1 10)
+
+Test case passed: Input(3
+6969 696969
+6969 696969
+6969 696969) => Output(6969 696900
+6969 696900
+6969 696900)
+
+Test case passed: Input(1
+696969 100000000) => Output(696969 99666567)
+
+Test case passed: Input(1
+69696969 998244353) => Output(69696969 975757566)
+

@@ -1,0 +1,126 @@
+Test case passed: Input(ababa
+1
+ab) => Output(2)
+
+Test case passed: Input(codeforces
+2
+do
+cs) => Output(1)
+
+Test case passed: Input(nllnrlrnll
+1
+rl) => Output(1)
+
+Test case passed: Input(aludfbjtwnkgnfl
+1
+oy) => Output(0)
+
+Test case passed: Input(pgpgppgggpbbnnn
+2
+pg
+nb) => Output(7)
+
+Test case passed: Input(eepeeeeppppppeepeppe
+1
+pe) => Output(10)
+
+Test case passed: Input(vefneyamdzoytemupniw
+13
+ve
+fg
+oi
+an
+ck
+wx
+pq
+ml
+bt
+ud
+rz
+sj
+hy) => Output(1)
+
+Test case passed: Input(drvwfaacccwnncfwuptsorrrvvvrgdzytrwweeexzyyyxuwuuk
+13
+ld
+ac
+np
+rv
+mo
+jh
+gb
+uw
+fq
+st
+kx
+zy
+ei) => Output(11)
+
+Test case passed: Input(pninnihzipirpbdggrdglzdpbldtzihgbzdnrgznbpdanhnlag
+4
+li
+qh
+ad
+bp) => Output(4)
+
+Test case passed: Input(mbmxuuuuxuuuuhhooooxxxuxxxuxuuxuuuxxjvjvjjjjvvvjjjjjvvjvjjjvvvjjvjjvvvjjjvjvvjvjjjjjmmbmbbbbbmbbbbmm
+5
+mb
+ho
+xu
+jv
+yp) => Output(37)
+
+Test case passed: Input(z
+0) => Output(0)
+
+Test case passed: Input(t
+13
+zx
+ig
+yq
+bd
+ph
+ar
+ne
+wo
+tk
+jl
+cv
+fs
+mu) => Output(0)
+
+Test case passed: Input(rbnxovfcwkdjctdjfskaozjzthlcntuaoiavnbsfpuzxyvhfbxetvryvwrqetokdshadxpxijtpkrqvghsrejgnqntwiypiglzmp
+13
+jr
+nf
+yk
+tq
+we
+il
+gu
+pb
+az
+xm
+hc
+vd
+so) => Output(0)
+
+Test case passed: Input(yynynnyyyiynyniiiinyynniiyiyyyniyniyynyyyynyynnniiiniyyniiyyiynyiynnnnyiiyiyniyyininiyiiiyynnnyiyinnnnyiinnnnnyninyinyynynyiynyyyiyinyynnyyinynyinininyniniynniiyyiiyy
+1
+ni) => Output(28)
+
+Test case passed: Input(eowsgsewestwsootoetteoeeeetwssesstswegswetwetggewsteeteoggetssetseegwteswtteowsgowwoowetwgogewssogwgtttgwwoeotgoswwwwswsgeeoowwwwetwgeswsgwtsgewswtstwgggtegsssggsstwsoggeoseotgwswwggtggweewwgwegggoteweessotsewttwseosgegswwsoewgwstetwteegseowgwoteegwttwwowtwtosweeggweeeeoeesgseetgwgtswteotgwewetssggteewteeetetweeotwttwoeswggoosogoeg
+3
+st
+eo
+gw) => Output(49)
+
+Test case passed: Input(ttspivgoupgupvgpusvppogsseueusuglpiugssviuutlvgvugtpovuvspvpipggooplgvgugpogvesppulovugsvuougveiivgvslllviogpvtolepglguuellotpvgevspvoiiggiiplppgosuguvtstttpielteuglopgeoeeuivtptggltoltpgliviotsospvitupiopisoetupvvspooilsopslpoloptigstspoiuutiuvvuvlpplvioitsuvlpvtleveslslovolloogsgpvpepgueesslgtssttuupieppsstoeopeeppvopglpvtvuugpsuoplttsgstsiplpiugtoolisgpeeiuvutstpulvtllipsvsslvoepooslvteoevipvpsuoiippeuegoovoovstlvgsstitsivlvseguoolpslueuepgeooltviovpveeivolssloieuugovguoleulvssopetlpivpgoigtv
+1
+gs) => Output(8)
+
+Test case passed: Input(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+1
+ab) => Output(75)
+

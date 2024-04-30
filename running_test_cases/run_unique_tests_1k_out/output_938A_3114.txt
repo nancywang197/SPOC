@@ -1,0 +1,147 @@
+Test case passed: Input(5
+weird) => Output(werd)
+
+Test case passed: Input(4
+word) => Output(word)
+
+Test case passed: Input(5
+aaeaa) => Output(a)
+
+Test case passed: Input(100
+aaaaabbbbboyoyoyoyoyacadabbbbbiuiufgiuiuaahjabbbklboyoyoyoyoyaaaaabbbbbiuiuiuiuiuaaaaabbbbbeyiyuyzyw) => Output(abbbbbocadabbbbbifgihjabbbklbobbbbbibbbbbezyw)
+
+Test case passed: Input(69
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb) => Output(bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb)
+
+Test case passed: Input(12
+mmmmmmmmmmmm) => Output(mmmmmmmmmmmm)
+
+Test case passed: Input(18
+yaywptqwuyiqypwoyw) => Output(ywptqwuqypwow)
+
+Test case passed: Input(85
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb) => Output(bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb)
+
+Test case passed: Input(13
+mmmmmmmmmmmmm) => Output(mmmmmmmmmmmmm)
+
+Test case passed: Input(10
+mmmmmmmmmm) => Output(mmmmmmmmmm)
+
+Test case passed: Input(11
+mmmmmmmmmmm) => Output(mmmmmmmmmmm)
+
+Test case passed: Input(15
+mmmmmmmmmmmmmmm) => Output(mmmmmmmmmmmmmmm)
+
+Test case passed: Input(1
+a) => Output(a)
+
+Test case passed: Input(14
+mmmmmmmmmmmmmm) => Output(mmmmmmmmmmmmmm)
+
+Test case passed: Input(33
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm) => Output(mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm)
+
+Test case passed: Input(79
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb) => Output(bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb)
+
+Test case passed: Input(90
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb) => Output(bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb)
+
+Test case passed: Input(2
+aa) => Output(a)
+
+Test case passed: Input(18
+iuiuqpyyaoaetiwliu) => Output(iqpytiwli)
+
+Test case passed: Input(5
+xxxxx) => Output(xxxxx)
+
+Test case passed: Input(6
+xxxahg) => Output(xxxahg)
+
+Test case passed: Input(3
+zcv) => Output(zcv)
+
+Test case passed: Input(4
+aepo) => Output(apo)
+
+Test case passed: Input(5
+qqqqq) => Output(qqqqq)
+
+Test case passed: Input(6
+aaaaaa) => Output(a)
+
+Test case passed: Input(4
+aeta) => Output(ata)
+
+Test case passed: Input(20
+ttyttlwaoieulyiluuri) => Output(ttyttlwalyluri)
+
+Test case passed: Input(1
+b) => Output(b)
+
+Test case passed: Input(3
+anc) => Output(anc)
+
+Test case passed: Input(1
+e) => Output(e)
+
+Test case passed: Input(3
+aie) => Output(a)
+
+Test case passed: Input(3
+vio) => Output(vi)
+
+Test case passed: Input(2
+ea) => Output(e)
+
+Test case passed: Input(3
+uas) => Output(us)
+
+Test case passed: Input(2
+ba) => Output(ba)
+
+Test case passed: Input(2
+aq) => Output(aq)
+
+Test case passed: Input(2
+ya) => Output(y)
+
+Test case passed: Input(2
+ou) => Output(o)
+
+Test case passed: Input(2
+bb) => Output(bb)
+
+Test case passed: Input(7
+ayylmao) => Output(alma)
+
+Test case passed: Input(2
+ab) => Output(ab)
+
+Test case passed: Input(19
+yuouiyaoiiweqrryqqp) => Output(yweqrryqqp)
+
+Test case passed: Input(25
+iqypwqpriiioetiuqqqttouei) => Output(iqypwqpritiqqqtto)
+
+Test case passed: Input(100
+aaaaabbbbboyoyoyoyoyacadabbbbbiuiufgiuiuaahjabbbklboyoyoyoyoyaaaaabbbbbiuiuiuiuiuaaaaabbbbbeyiyuyzyz) => Output(abbbbbocadabbbbbifgihjabbbklbobbbbbibbbbbezyz)
+
+Test case passed: Input(17
+accccccccccccccca) => Output(accccccccccccccca)
+
+Test case passed: Input(5
+ababa) => Output(ababa)
+
+Test case passed: Input(10
+aaaaaaaaaa) => Output(a)
+
+Test case passed: Input(22
+aaaaabbbbboyoyoyoyoyac) => Output(abbbbboc)
+
+Test case passed: Input(7
+mahmoud) => Output(mahmod)
+

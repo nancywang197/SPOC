@@ -1,0 +1,52 @@
+Test case failed: Input(2 2) => Output(32761), Expected(3)
+
+Test case failed: Input(9 3) => Output(32768), Expected(13)
+
+Test case passed: Input(1 2) => Output(1)
+
+Test case passed: Input(2 3) => Output(2)
+
+Test case passed: Input(1 99) => Output(1)
+
+Test case failed: Input(4 4) => Output(32763), Expected(5)
+
+Test case failed: Input(10 2) => Output(32769), Expected(19)
+
+Test case failed: Input(10 9) => Output(32769), Expected(11)
+
+Test case failed: Input(100 100) => Output(32859), Expected(101)
+
+Test case passed: Input(2 27) => Output(2)
+
+Test case passed: Input(99 100) => Output(99)
+
+Test case failed: Input(99 2) => Output(32858), Expected(197)
+
+Test case failed: Input(100 3) => Output(32859), Expected(149)
+
+Test case failed: Input(98 3) => Output(32857), Expected(146)
+
+Test case failed: Input(4 4) => Output(32763), Expected(5)
+
+Test case failed: Input(100 2) => Output(32859), Expected(199)
+
+Test case failed: Input(62 4) => Output(32821), Expected(82)
+
+Test case failed: Input(99 10) => Output(32858), Expected(109)
+
+Test case failed: Input(100 5) => Output(32859), Expected(124)
+
+Test case failed: Input(80 80) => Output(32839), Expected(81)
+
+Test case failed: Input(95 16) => Output(32854), Expected(101)
+
+Test case failed: Input(75 16) => Output(32834), Expected(79)
+
+Test case failed: Input(99 74) => Output(32858), Expected(100)
+
+Test case passed: Input(20 21) => Output(20)
+
+Test case passed: Input(52 96) => Output(52)
+
+Test case failed: Input(24 5) => Output(32783), Expected(29)
+

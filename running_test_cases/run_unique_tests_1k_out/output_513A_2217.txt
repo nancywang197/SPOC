@@ -1,0 +1,40 @@
+Test case passed: Input(2 2 1 2) => Output(Second)
+
+Test case passed: Input(2 1 1 1) => Output(First)
+
+Test case passed: Input(5 7 4 1) => Output(Second)
+
+Test case passed: Input(5 7 1 4) => Output(Second)
+
+Test case passed: Input(5 7 10 10) => Output(Second)
+
+Test case passed: Input(5 7 1 10) => Output(Second)
+
+Test case passed: Input(1 1 1 1) => Output(Second)
+
+Test case passed: Input(50 50 50 50) => Output(Second)
+
+Test case passed: Input(50 49 1 2) => Output(First)
+
+Test case passed: Input(50 48 3 1) => Output(First)
+
+Test case passed: Input(48 50 12 11) => Output(Second)
+
+Test case passed: Input(49 50 11 12) => Output(Second)
+
+Test case passed: Input(49 49 4 1) => Output(Second)
+
+Test case passed: Input(49 49 3 3) => Output(Second)
+
+Test case passed: Input(1 50 1 50) => Output(Second)
+
+Test case passed: Input(1 50 50 50) => Output(Second)
+
+Test case passed: Input(50 1 1 1) => Output(First)
+
+Test case passed: Input(50 1 1 50) => Output(First)
+
+Test case passed: Input(32 31 10 9) => Output(First)
+
+Test case passed: Input(32 4 17 3) => Output(First)
+

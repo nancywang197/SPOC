@@ -1,0 +1,48 @@
+Test case passed: Input(e4) => Output(8)
+
+Test case passed: Input(a1) => Output(3)
+
+Test case passed: Input(h8) => Output(3)
+
+Test case passed: Input(a4) => Output(5)
+
+Test case passed: Input(g7) => Output(8)
+
+Test case passed: Input(e1) => Output(5)
+
+Test case passed: Input(b2) => Output(8)
+
+Test case passed: Input(c7) => Output(8)
+
+Test case passed: Input(h6) => Output(5)
+
+Test case passed: Input(c8) => Output(5)
+
+Test case passed: Input(h2) => Output(5)
+
+Test case passed: Input(h5) => Output(5)
+
+Test case passed: Input(a8) => Output(3)
+
+Test case passed: Input(f8) => Output(5)
+
+Test case passed: Input(h1) => Output(3)
+
+Test case passed: Input(f2) => Output(8)
+
+Test case passed: Input(e8) => Output(5)
+
+Test case passed: Input(h3) => Output(5)
+
+Test case passed: Input(b8) => Output(5)
+
+Test case passed: Input(g8) => Output(5)
+
+Test case passed: Input(d8) => Output(5)
+
+Test case passed: Input(h4) => Output(5)
+
+Test case passed: Input(b1) => Output(5)
+
+Test case passed: Input(a2) => Output(5)
+

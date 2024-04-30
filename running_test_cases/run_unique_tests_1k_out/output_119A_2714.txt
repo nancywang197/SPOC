@@ -1,0 +1,90 @@
+Test case passed: Input(3 5 9) => Output(0)
+
+Test case passed: Input(1 1 100) => Output(1)
+
+Test case passed: Input(23 12 16) => Output(1)
+
+Test case passed: Input(95 26 29) => Output(1)
+
+Test case passed: Input(73 32 99) => Output(1)
+
+Test case passed: Input(1 1 1) => Output(0)
+
+Test case passed: Input(41 12 65) => Output(1)
+
+Test case passed: Input(13 61 100) => Output(1)
+
+Test case passed: Input(100 100 10) => Output(0)
+
+Test case passed: Input(12 24 26) => Output(1)
+
+Test case passed: Input(73 21 96) => Output(1)
+
+Test case passed: Input(17 22 81) => Output(1)
+
+Test case passed: Input(14 88 97) => Output(1)
+
+Test case passed: Input(42 81 17) => Output(0)
+
+Test case passed: Input(34 36 19) => Output(1)
+
+Test case passed: Input(21 87 12) => Output(1)
+
+Test case passed: Input(97 92 98) => Output(1)
+
+Test case passed: Input(49 25 62) => Output(1)
+
+Test case passed: Input(29 17 44) => Output(1)
+
+Test case passed: Input(10 1 10) => Output(0)
+
+Test case passed: Input(99 98 100) => Output(1)
+
+Test case passed: Input(100 100 1) => Output(0)
+
+Test case passed: Input(11 99 55) => Output(0)
+
+Test case passed: Input(8 13 21) => Output(0)
+
+Test case passed: Input(34 55 89) => Output(0)
+
+Test case passed: Input(21 34 55) => Output(1)
+
+Test case passed: Input(13 21 34) => Output(1)
+
+Test case passed: Input(34 21 55) => Output(0)
+
+Test case passed: Input(10 20 84) => Output(1)
+
+Test case passed: Input(4 2 5) => Output(0)
+
+Test case passed: Input(3 2 3) => Output(0)
+
+Test case passed: Input(31 23 1) => Output(0)
+
+Test case passed: Input(100 100 100) => Output(0)
+
+Test case passed: Input(100 1 100) => Output(0)
+
+Test case passed: Input(1 100 100) => Output(1)
+
+Test case passed: Input(1 1 100) => Output(1)
+
+Test case passed: Input(17 23 100) => Output(1)
+
+Test case passed: Input(99 98 100) => Output(1)
+
+Test case passed: Input(1 1 2) => Output(1)
+
+Test case passed: Input(2 1 1) => Output(0)
+
+Test case passed: Input(1 2 1) => Output(0)
+
+Test case passed: Input(2 1 2) => Output(0)
+
+Test case passed: Input(10 10 3) => Output(1)
+
+Test case passed: Input(2 2 1) => Output(0)
+
+Test case passed: Input(9 5 1) => Output(0)
+

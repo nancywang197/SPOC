@@ -1,0 +1,150 @@
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(3)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 1 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(1)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(0)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1) => Output(4)
+
+Test case passed: Input(0 1 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(3)
+
+Test case passed: Input(1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(4)
+
+Test case passed: Input(0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 1 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(3)
+
+Test case passed: Input(0 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(4)
+
+Test case passed: Input(0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(3)
+
+Test case passed: Input(0 0 0 0 0
+0 1 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(1)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0
+0 0 0 0 0) => Output(1)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0
+0 0 0 0 0) => Output(3)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 1 0 0 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 1 0 0
+0 0 0 0 0) => Output(1)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0
+0 0 0 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1
+0 0 0 0 0) => Output(3)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+1 0 0 0 0) => Output(4)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 1 0 0 0) => Output(3)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 1 0 0) => Output(2)
+
+Test case passed: Input(0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 1 0) => Output(3)
+

@@ -1,0 +1,500 @@
+Test case passed: Input(3
+XS
+XS
+M
+XL
+S
+XS) => Output(2)
+
+Test case passed: Input(2
+XXXL
+XXL
+XXL
+XXXS) => Output(1)
+
+Test case passed: Input(2
+M
+XS
+XS
+M) => Output(0)
+
+Test case passed: Input(1
+XXXL
+XXXL) => Output(0)
+
+Test case passed: Input(1
+M
+M) => Output(0)
+
+Test case passed: Input(4
+S
+L
+XXS
+XXS
+M
+L
+XXS
+XXL) => Output(2)
+
+Test case passed: Input(5
+XS
+XXXS
+L
+XS
+M
+XL
+S
+XS
+M
+XXXL) => Output(3)
+
+Test case passed: Input(1
+S
+M) => Output(1)
+
+Test case passed: Input(26
+S
+L
+M
+L
+S
+XXXS
+XXXS
+M
+XXXS
+XXXS
+M
+XXS
+M
+XXXL
+M
+XL
+XXXL
+XXXS
+XXL
+L
+M
+M
+L
+XL
+XS
+XXL
+XS
+XXXS
+XL
+XXXL
+XXXL
+L
+L
+XXXS
+L
+L
+XXL
+XXXS
+L
+M
+M
+XXL
+S
+L
+XXL
+XXXS
+L
+S
+L
+L
+XL
+XXXL) => Output(7)
+
+Test case passed: Input(43
+L
+XXXL
+M
+XS
+L
+XXL
+S
+L
+M
+XXXL
+XXS
+S
+XS
+S
+XS
+XL
+XXL
+XXL
+XS
+XXS
+XXL
+L
+XXXL
+L
+L
+XXL
+XXL
+M
+XXXS
+M
+XXL
+XXXS
+XXXL
+XXS
+L
+L
+XS
+L
+XS
+XS
+L
+XXL
+M
+XXXL
+XXL
+XXL
+XL
+L
+XS
+M
+XL
+XXXS
+XXXS
+S
+XXL
+XXXL
+XXL
+XS
+XXS
+L
+S
+XXXS
+XL
+L
+XL
+XXXS
+M
+L
+XXL
+L
+XL
+M
+M
+L
+XXS
+S
+XXS
+XS
+XXL
+L
+M
+S
+L
+XXS
+XXS
+M) => Output(10)
+
+Test case passed: Input(5
+XXXL
+XXL
+XL
+L
+M
+XXXS
+XXS
+XS
+S
+M) => Output(4)
+
+Test case passed: Input(1
+L
+M) => Output(1)
+
+Test case passed: Input(2
+L
+S
+S
+M) => Output(1)
+
+Test case passed: Input(13
+S
+M
+L
+S
+L
+L
+XL
+S
+XL
+XXL
+XL
+XXL
+M
+M
+XS
+M
+XXL
+L
+M
+XXS
+XS
+M
+S
+S
+XS
+L) => Output(6)
+
+Test case passed: Input(14
+XXL
+S
+S
+XXXL
+XL
+XXXS
+XS
+S
+S
+XL
+M
+XXXS
+M
+S
+L
+XXS
+XXXS
+S
+L
+XL
+L
+XXXL
+XS
+XL
+S
+M
+S
+XXXS) => Output(4)
+
+Test case passed: Input(2
+L
+M
+S
+L) => Output(1)
+
+Test case passed: Input(9
+M
+XXL
+XL
+L
+S
+XS
+XXL
+XL
+XXS
+S
+XXL
+XS
+XS
+S
+XXL
+XL
+XXS
+M) => Output(2)
+
+Test case passed: Input(6
+M
+XXS
+XXL
+XXL
+L
+L
+XXS
+XXL
+S
+XXS
+L
+L) => Output(2)
+
+Test case passed: Input(1
+L
+S) => Output(1)
+
+Test case passed: Input(11
+M
+S
+S
+XXXS
+S
+XXXS
+M
+M
+L
+XXXL
+XL
+XXXL
+M
+M
+L
+XXXS
+XXXS
+L
+M
+L
+M
+XS) => Output(4)
+
+Test case passed: Input(8
+XL
+XS
+S
+XXXL
+XXXL
+XL
+XXXL
+S
+XS
+XXXS
+XL
+L
+XXXS
+M
+XS
+XXXL) => Output(5)
+
+Test case passed: Input(2
+L
+L
+M
+M) => Output(2)
+
+Test case passed: Input(6
+L
+S
+XS
+M
+XL
+XXS
+XS
+M
+L
+XL
+XXL
+L) => Output(2)
+
+Test case passed: Input(2
+L
+S
+M
+L) => Output(1)
+
+Test case passed: Input(6
+XXL
+XXS
+XXXS
+L
+XXXS
+XXXL
+XXL
+L
+XXS
+XXXS
+XXXL
+XXXL) => Output(1)
+
+Test case passed: Input(5
+XXS
+XXS
+XXL
+XXXS
+L
+XXS
+XXXL
+S
+XXS
+XXS) => Output(3)
+
+Test case passed: Input(8
+XXL
+S
+XXS
+XXXS
+XXXL
+XL
+XXL
+S
+XXXS
+M
+XXS
+XXL
+XXS
+XXXL
+S
+XS) => Output(3)
+
+Test case passed: Input(3
+L
+L
+M
+L
+M
+S) => Output(1)
+
+Test case passed: Input(5
+XXXL
+XXXS
+XXXL
+XL
+L
+XXXS
+S
+XS
+XXXL
+XXXS) => Output(3)
+
+Test case passed: Input(10
+XXXS
+XXXL
+XXL
+M
+XXXS
+XS
+L
+XL
+XXS
+M
+M
+M
+XL
+XXL
+XXXS
+XL
+XXXS
+XXXS
+L
+XXS) => Output(2)
+
+Test case passed: Input(2
+M
+L
+M
+S) => Output(1)
+
+Test case passed: Input(1
+XXXS
+XXXL) => Output(1)
+
+Test case passed: Input(1
+XS
+XL) => Output(1)
+
+Test case passed: Input(5
+L
+S
+L
+XL
+XL
+XL
+XS
+M
+L
+M) => Output(3)
+

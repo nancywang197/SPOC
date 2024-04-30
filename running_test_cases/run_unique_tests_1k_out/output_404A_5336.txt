@@ -1,0 +1,252 @@
+Test case passed: Input(5
+xooox
+oxoxo
+soxoo
+oxoxo
+xooox) => Output(NO)
+
+Test case passed: Input(3
+wsw
+sws
+wsw) => Output(YES)
+
+Test case passed: Input(3
+xpx
+pxp
+xpe) => Output(NO)
+
+Test case passed: Input(5
+liiil
+ilili
+iilii
+ilili
+liiil) => Output(YES)
+
+Test case passed: Input(7
+bwccccb
+ckcccbj
+ccbcbcc
+cccbccc
+ccbcbcc
+cbcccbc
+bccccdt) => Output(NO)
+
+Test case passed: Input(13
+sooooooooooos
+osoooooooooso
+oosooooooosoo
+ooosooooosooo
+oooosooosoooo
+ooooososooooo
+oooooosoooooo
+ooooososooooo
+oooosooosoooo
+ooosooooosooo
+oosooooooosoo
+osoooooooooso
+sooooooooooos) => Output(YES)
+
+Test case passed: Input(3
+aaa
+aaa
+aaa) => Output(NO)
+
+Test case passed: Input(3
+aca
+oec
+zba) => Output(NO)
+
+Test case passed: Input(15
+rxeeeeeeeeeeeer
+ereeeeeeeeeeere
+eedeeeeeeeeeoee
+eeereeeeeeeewee
+eeeereeeeebeeee
+qeeeereeejedyee
+eeeeeerereeeeee
+eeeeeeereeeeeee
+eeeeeerereeeeze
+eeeeereeereeeee
+eeeereeeeegeeee
+eeereeeeeeereee
+eereeeeeeqeeved
+creeeeeeceeeere
+reeerneeeeeeeer) => Output(NO)
+
+Test case passed: Input(5
+xxxxx
+xxxxx
+xxxxx
+xxxxx
+xxxxx) => Output(NO)
+
+Test case passed: Input(5
+xxxxx
+xxxxx
+xoxxx
+xxxxx
+xxxxx) => Output(NO)
+
+Test case passed: Input(5
+oxxxo
+xoxox
+xxxxx
+xoxox
+oxxxo) => Output(NO)
+
+Test case passed: Input(5
+oxxxo
+xoxox
+xxoox
+xoxox
+oxxxo) => Output(NO)
+
+Test case passed: Input(5
+oxxxo
+xoxox
+xxaxx
+xoxox
+oxxxo) => Output(NO)
+
+Test case passed: Input(5
+oxxxo
+xoxox
+oxoxx
+xoxox
+oxxxo) => Output(NO)
+
+Test case passed: Input(3
+xxx
+axa
+xax) => Output(NO)
+
+Test case passed: Input(3
+xax
+axx
+xax) => Output(NO)
+
+Test case passed: Input(3
+xax
+axa
+xxx) => Output(NO)
+
+Test case passed: Input(3
+xax
+xxa
+xax) => Output(NO)
+
+Test case passed: Input(3
+xax
+aaa
+xax) => Output(NO)
+
+Test case passed: Input(3
+aax
+axa
+xax) => Output(NO)
+
+Test case passed: Input(3
+xaa
+axa
+xax) => Output(NO)
+
+Test case passed: Input(3
+xax
+axa
+aax) => Output(NO)
+
+Test case passed: Input(3
+xax
+axa
+xaa) => Output(NO)
+
+Test case passed: Input(3
+xfx
+axa
+xax) => Output(NO)
+
+Test case passed: Input(3
+xax
+afa
+xax) => Output(NO)
+
+Test case passed: Input(3
+xax
+axa
+xaf) => Output(NO)
+
+Test case passed: Input(3
+xox
+xxx
+xxx) => Output(NO)
+
+Test case passed: Input(3
+axa
+aax
+xxa) => Output(NO)
+
+Test case passed: Input(3
+xox
+oxx
+xox) => Output(NO)
+
+Test case passed: Input(3
+xox
+ooo
+xox) => Output(NO)
+
+Test case passed: Input(3
+aaa
+aab
+bbb) => Output(NO)
+
+Test case passed: Input(3
+xxx
+sxs
+xsx) => Output(NO)
+
+Test case passed: Input(5
+abbba
+babab
+bbbbb
+baaab
+abbba) => Output(NO)
+
+Test case passed: Input(5
+abaaa
+bbbbb
+bbabb
+babab
+abbba) => Output(NO)
+
+Test case passed: Input(5
+xoxox
+oxoxo
+ooxoo
+oxoxo
+xooox) => Output(NO)
+
+Test case passed: Input(3
+xox
+oxx
+xxx) => Output(NO)
+
+Test case passed: Input(5
+xoooo
+oxooo
+ooxoo
+oooxo
+oooox) => Output(NO)
+
+Test case passed: Input(5
+xoooo
+oxoxx
+ooxoo
+oxoxo
+oxoox) => Output(NO)
+
+Test case passed: Input(3
+aaa
+bab
+aba) => Output(NO)
+

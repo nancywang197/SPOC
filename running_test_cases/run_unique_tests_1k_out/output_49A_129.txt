@@ -1,0 +1,70 @@
+Test case passed: Input(Is it a melon?) => Output(NO)
+
+Test case passed: Input(Is it an apple?) => Output(YES)
+
+Test case passed: Input(Is     it a banana ?) => Output(YES)
+
+Test case passed: Input(Is   it an apple  and a  banana   simultaneouSLY?) => Output(YES)
+
+Test case passed: Input(oHtSbDwzHb?) => Output(NO)
+
+Test case passed: Input(sZecYdUvZHrXx?) => Output(NO)
+
+Test case passed: Input(uMtXK?) => Output(NO)
+
+Test case passed: Input(U?) => Output(YES)
+
+Test case passed: Input(aqFDkCUKeHMyvZFcAyWlMUSQTFomtaWjoKLVyxLCw vcufPBFbaljOuHWiDCROYTcmbgzbaqHXKPOYEbuEtRqqoxBbOETCsQzhw?) => Output(NO)
+
+Test case passed: Input(dJcNqQiFXzcbsj fItCpBLyXOnrSBPebwyFHlxUJHqCUzzCmcAvMiKL NunwOXnKeIxUZmBVwiCUfPkjRAkTPbkYCmwRRnDSLaz?) => Output(NO)
+
+Test case passed: Input(gxzXbdcAQMuFKuuiPohtMgeypr wpDIoDSyOYTdvylcg SoEBZjnMHHYZGEqKgCgBeTbyTwyGuPZxkxsnSczotBdYyfcQsOVDVC?) => Output(NO)
+
+Test case passed: Input(FQXBisXaJFMiHFQlXjixBDMaQuIbyqSBKGsBfTmBKCjszlGVZxEOqYYqRTUkGpSDDAoOXyXcQbHcPaegeOUBNeSD JiKOdECPOF?) => Output(NO)
+
+Test case passed: Input(YhCuZnrWUBEed?) => Output(NO)
+
+Test case passed: Input(hh?) => Output(NO)
+
+Test case passed: Input(whU?) => Output(YES)
+
+Test case passed: Input(fgwg?) => Output(NO)
+
+Test case passed: Input(GlEmEPKrYcOnBNJUIFjszWUyVdvWw DGDjoCMtRJUburkPToCyDrOtMr?) => Output(NO)
+
+Test case passed: Input(n?) => Output(NO)
+
+Test case passed: Input(BueDOlxgzeNlxrzRrMbKiQdmGujEKmGxclvaPpTuHmTqBp?) => Output(NO)
+
+Test case passed: Input(iehvZNQXDGCuVmJPOEysLyUryTdfaIxIuTzTadDbqRQGoCLXkxnyfWSGoLXebNnQQNTqAQJebbyYvHOfpUnXeWdjx?) => Output(NO)
+
+Test case passed: Input(J  ?) => Output(NO)
+
+Test case passed: Input(j                                                                                           ?) => Output(NO)
+
+Test case passed: Input(o                           ?) => Output(YES)
+
+Test case passed: Input(T             ?) => Output(NO)
+
+Test case passed: Input(q             ?) => Output(NO)
+
+Test case passed: Input(j                                                                                     ?) => Output(NO)
+
+Test case passed: Input(c  ?) => Output(NO)
+
+Test case passed: Input(B  ?) => Output(NO)
+
+Test case passed: Input(LuhxDHVwMPTtUIUMIQTuQETgXCOQPsfdFlyHvpfOVedjUTpGLAZGOHloIjJJtOLAlHPivzA?) => Output(YES)
+
+Test case passed: Input(wmztmzFfwbGyOmNHENUFMTsFEMWYA?) => Output(YES)
+
+Test case passed: Input(wGsfZCSwN PEUhNUrLfABrxA?) => Output(YES)
+
+Test case passed: Input(mCDHENXjYbgMdBimAdPnewaHfpGWowjWrVAdvWczjw  iDcUbyzMsmsnwbviiKiAyGVA?) => Output(YES)
+
+Test case passed: Input(ARIWnwqFqxsQXsXXzHqvFjxOCttAGPUzDtWzsenPYdNXuFOIUGYZsLLK IaoxiyjBBRThoelwdPTkuCQfcBLUEJpCPIrVZlvUWA?) => Output(YES)
+
+Test case passed: Input(PslvVpgpN BXkMFBEVXsyZFIQbBEFxGkYTeXKrOdcmhbiTUatYRUoYAayrchqbksswIlfIjerZPqptvCGnMUhyrQSvwltRhFzA?) => Output(YES)
+
+Test case passed: Input(HpBkttwSjBXDmyleGiRWNUMPaAIE uzTrp KJDzaUiCdsMYOoWKHoUhWUoecCPmACymMUUbGav UMRpCytPETwNFAObZJA?) => Output(YES)
+

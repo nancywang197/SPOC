@@ -1,0 +1,66 @@
+Test case passed: Input(next
+2
+nextpermutation
+nextelement) => Output(nextelement)
+
+Test case passed: Input(find
+4
+find
+findfirstof
+findit
+fand) => Output(find)
+
+Test case passed: Input(find
+4
+fondfind
+fondfirstof
+fondit
+fand) => Output(find)
+
+Test case passed: Input(kudljmxcse
+4
+kudljmxcse
+szjebdoad
+chz
+a) => Output(kudljmxcse)
+
+Test case passed: Input(ntqwpa
+5
+vvepyowvn
+ntqwpakay
+hh
+ygiafasda
+ntqwpadm) => Output(ntqwpadm)
+
+Test case passed: Input(aflb
+6
+saej
+ujxsiijg
+pp
+hgoprw
+cp
+nt) => Output(aflb)
+
+Test case passed: Input(dzwzyj
+7
+wvixktp
+dzwzyjuhn
+dzwzyjqrbd
+dzwzyji
+dzwzyjyfys
+dzwzyjrcb
+xptb) => Output(dzwzyji)
+
+Test case passed: Input(wmblbphwdjjskzmlsyiznluiudelhlvcpyrooajvbwudnnstdhesauyxjugdwhrrwg
+1
+wjhsbxrrhadgtnybsugdtprncwerwezxuaxnqfpnosbispmnymnaqssdkjeynrnn) => Output(wmblbphwdjjskzmlsyiznluiudelhlvcpyrooajvbwudnnstdhesauyxjugdwhrrwg)
+
+Test case passed: Input(hzkqvwliymwjbejfpnydrbwskhyrtrlsdinfrgwmnbdpwytcnjeoowxrfgfuaffzayjylvzu
+1
+hzkqvwliymwjbejfpnydrbwskhyrtrlsdinfrgwmnbdpwytcnjeoowxrfgfuaffzayjylvzubwjlvhhsfurqb) => Output(hzkqvwliymwjbejfpnydrbwskhyrtrlsdinfrgwmnbdpwytcnjeoowxrfgfuaffzayjylvzubwjlvhhsfurqb)
+
+Test case passed: Input(msjnqudojxtzvpc
+2
+vlxclsvqbucmbrkwwtoxek
+msjnqudojxtzvpcldwjyystsxrtexfhllzhnkidmhmyxpld) => Output(msjnqudojxtzvpcldwjyystsxrtexfhllzhnkidmhmyxpld)
+

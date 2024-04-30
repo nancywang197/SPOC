@@ -1,0 +1,36 @@
+Test case passed: Input(2 2
+86400 86398) => Output(2)
+
+Test case passed: Input(2 86400
+0 86400) => Output(1)
+
+Test case passed: Input(2 86400
+1 86399) => Output(2)
+
+Test case passed: Input(100 1000000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0) => Output(12)
+
+Test case passed: Input(1 1
+86399) => Output(1)
+
+Test case passed: Input(6 1200
+86400 86400 86000 86000 86000 86400) => Output(5)
+
+Test case passed: Input(6 1200
+86400 86400 86000 86000 86001 86399) => Output(6)
+
+Test case passed: Input(4 172799
+1 1 86400 0) => Output(4)
+
+Test case passed: Input(4 172799
+0 86400 86399 0) => Output(4)
+
+Test case passed: Input(6 1
+1 1 86400 1 86399 1) => Output(1)
+
+Test case passed: Input(4 1
+86400 86399 86400 86400) => Output(2)
+
+Test case passed: Input(4 1
+86400 86400 0 86400) => Output(3)
+

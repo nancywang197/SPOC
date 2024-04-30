@@ -1,0 +1,198 @@
+Test case passed: Input(abccaa) => Output(YES)
+
+Test case passed: Input(abbcca) => Output(NO)
+
+Test case passed: Input(abcda) => Output(YES)
+
+Test case passed: Input(kyw) => Output(YES)
+
+Test case passed: Input(fccf) => Output(NO)
+
+Test case passed: Input(mnlm) => Output(YES)
+
+Test case passed: Input(gqrk) => Output(NO)
+
+Test case passed: Input(glxlg) => Output(YES)
+
+Test case passed: Input(czhfc) => Output(YES)
+
+Test case passed: Input(broon) => Output(NO)
+
+Test case passed: Input(rmggmr) => Output(NO)
+
+Test case passed: Input(wvxxzw) => Output(YES)
+
+Test case passed: Input(ukvciu) => Output(NO)
+
+Test case passed: Input(vrnwnrv) => Output(YES)
+
+Test case passed: Input(vlkjkav) => Output(YES)
+
+Test case passed: Input(guayhmg) => Output(NO)
+
+Test case passed: Input(lkvhhvkl) => Output(NO)
+
+Test case passed: Input(ffdsslff) => Output(YES)
+
+Test case passed: Input(galjjtyw) => Output(NO)
+
+Test case passed: Input(uosgwgsou) => Output(YES)
+
+Test case passed: Input(qjwmjmljq) => Output(YES)
+
+Test case passed: Input(ustrvrodf) => Output(NO)
+
+Test case passed: Input(a) => Output(YES)
+
+Test case passed: Input(qjfyjjyfjq) => Output(NO)
+
+Test case passed: Input(ysxibbixsq) => Output(YES)
+
+Test case passed: Input(howfslfwmh) => Output(NO)
+
+Test case passed: Input(ekhajrjahke) => Output(YES)
+
+Test case passed: Input(ucnolsloncw) => Output(YES)
+
+Test case passed: Input(jrzsfrrkrtj) => Output(NO)
+
+Test case passed: Input(typayzzyapyt) => Output(NO)
+
+Test case passed: Input(uwdhkzokhdwu) => Output(YES)
+
+Test case passed: Input(xokxpyyuafij) => Output(NO)
+
+Test case passed: Input(eusneioiensue) => Output(YES)
+
+Test case passed: Input(fuxpuajabpxuf) => Output(YES)
+
+Test case passed: Input(guvggtfhlgruy) => Output(NO)
+
+Test case passed: Input(cojhkhxxhkhjoc) => Output(NO)
+
+Test case passed: Input(mhifbmmmmbmihm) => Output(YES)
+
+Test case passed: Input(kxfqqncnebpami) => Output(NO)
+
+Test case passed: Input(scfwrjevejrwfcs) => Output(YES)
+
+Test case passed: Input(thdaonpepdoadht) => Output(YES)
+
+Test case passed: Input(jsfzcbnhsccuqsj) => Output(NO)
+
+Test case passed: Input(nn) => Output(NO)
+
+Test case passed: Input(nm) => Output(YES)
+
+Test case passed: Input(jdj) => Output(YES)
+
+Test case passed: Input(bbcaa) => Output(NO)
+
+Test case passed: Input(abcde) => Output(NO)
+
+Test case passed: Input(abcdf) => Output(NO)
+
+Test case passed: Input(aa) => Output(NO)
+
+Test case passed: Input(abecd) => Output(NO)
+
+Test case passed: Input(abccacb) => Output(NO)
+
+Test case passed: Input(aabc) => Output(NO)
+
+Test case passed: Input(anpqb) => Output(NO)
+
+Test case passed: Input(c) => Output(YES)
+
+Test case passed: Input(abcdefg) => Output(NO)
+
+Test case passed: Input(aanbb) => Output(NO)
+
+Test case passed: Input(aabbb) => Output(NO)
+
+Test case passed: Input(aaabbab) => Output(NO)
+
+Test case passed: Input(ab) => Output(YES)
+
+Test case passed: Input(aabbc) => Output(NO)
+
+Test case passed: Input(ecabd) => Output(NO)
+
+Test case passed: Input(abcdrty) => Output(NO)
+
+Test case passed: Input(abcdmnp) => Output(NO)
+
+Test case passed: Input(bbbbbb) => Output(NO)
+
+Test case passed: Input(abcxuio) => Output(NO)
+
+Test case passed: Input(abcdabcde) => Output(NO)
+
+Test case passed: Input(abcxpoi) => Output(NO)
+
+Test case passed: Input(aba) => Output(YES)
+
+Test case passed: Input(aacbb) => Output(NO)
+
+Test case passed: Input(abcedca) => Output(NO)
+
+Test case passed: Input(abcdd) => Output(NO)
+
+Test case passed: Input(abbcs) => Output(NO)
+
+Test case passed: Input(aaabccc) => Output(NO)
+
+Test case passed: Input(paxkxbq) => Output(NO)
+
+Test case passed: Input(z) => Output(YES)
+
+Test case passed: Input(b) => Output(YES)
+
+Test case passed: Input(abcdefghi) => Output(NO)
+
+Test case passed: Input(abcqr) => Output(NO)
+
+Test case passed: Input(abcdc) => Output(NO)
+
+Test case passed: Input(abcb) => Output(NO)
+
+Test case passed: Input(aabcd) => Output(NO)
+
+Test case passed: Input(abbba) => Output(YES)
+
+Test case passed: Input(aaabbb) => Output(NO)
+
+Test case passed: Input(bb) => Output(NO)
+
+Test case passed: Input(aaacbbb) => Output(NO)
+
+Test case passed: Input(abbzcca) => Output(NO)
+
+Test case passed: Input(abxab) => Output(NO)
+
+Test case passed: Input(bbb) => Output(YES)
+
+Test case passed: Input(abcrtyu) => Output(NO)
+
+Test case passed: Input(cbacb) => Output(NO)
+
+Test case passed: Input(acbb) => Output(NO)
+
+Test case passed: Input(ww) => Output(NO)
+
+Test case passed: Input(aaaaaa) => Output(NO)
+
+Test case passed: Input(jizzz) => Output(NO)
+
+Test case passed: Input(aaakcba) => Output(NO)
+
+Test case passed: Input(acbak) => Output(NO)
+
+Test case passed: Input(bddeffd) => Output(NO)
+
+Test case passed: Input(aaa) => Output(YES)
+
+Test case passed: Input(afghqwe) => Output(NO)
+
+Test case passed: Input(abcdfga) => Output(NO)
+

@@ -1,0 +1,138 @@
+Test case passed: Input(-o-o--) => Output(YES)
+
+Test case passed: Input(-o---) => Output(YES)
+
+Test case passed: Input(-o---o-) => Output(NO)
+
+Test case passed: Input(ooo) => Output(YES)
+
+Test case passed: Input(---) => Output(YES)
+
+Test case passed: Input(--o-o-----o----o--oo-o-----ooo-oo---o--) => Output(YES)
+
+Test case passed: Input(-o--o-oo---o-o-o--o-o----oo------oo-----o----o-o-o--oo-o--o---o--o----------o---o-o-oo---o--o-oo-o--) => Output(NO)
+
+Test case passed: Input(-ooo--) => Output(YES)
+
+Test case passed: Input(---o--) => Output(YES)
+
+Test case passed: Input(oo-ooo) => Output(NO)
+
+Test case passed: Input(------o-o--o-----o--) => Output(YES)
+
+Test case passed: Input(--o---o----------o----o----------o--o-o-----o-oo---oo--oo---o-------------oo-----o-------------o---o) => Output(YES)
+
+Test case passed: Input(----------------------------------------------------------------------------------------------------) => Output(YES)
+
+Test case passed: Input(-oo-oo------) => Output(YES)
+
+Test case passed: Input(---------------------------------o----------------------------oo------------------------------------) => Output(NO)
+
+Test case passed: Input(oo--o--o--------oo----------------o-----------o----o-----o----------o---o---o-----o---------ooo---) => Output(NO)
+
+Test case passed: Input(--o---oooo--o-o--o-----o----ooooo--o-oo--o------oooo--------------ooo-o-o----) => Output(NO)
+
+Test case passed: Input(-----------------------------o--o-o-------) => Output(YES)
+
+Test case passed: Input(o-oo-o--oo----o-o----------o---o--o----o----o---oo-ooo-o--o-) => Output(YES)
+
+Test case passed: Input(oooooooooo-ooo-oooooo-ooooooooooooooo--o-o-oooooooooooooo-oooooooooooooo) => Output(NO)
+
+Test case passed: Input(-----------------o-o--oo------o--------o---o--o----------------oooo-------------ooo-----ooo-----o) => Output(NO)
+
+Test case passed: Input(ooo-ooooooo-oo-ooooooooo-oooooooooooooo-oooo-o-oooooooooo--oooooooooooo-oooooooooo-ooooooo) => Output(NO)
+
+Test case passed: Input(oo-o-ooooo---oo---o-oo---o--o-ooo-o---o-oo---oo---oooo---o---o-oo-oo-o-ooo----ooo--oo--o--oo-o-oo) => Output(NO)
+
+Test case passed: Input(-----o-----oo-o-o-o-o----o---------oo---ooo-------------o----o---o-o) => Output(YES)
+
+Test case passed: Input(oo--o-o-o----o-oooo-ooooo---o-oo--o-o--ooo--o--oooo--oo----o----o-o-oooo---o-oooo--ooo-o-o----oo---) => Output(NO)
+
+Test case passed: Input(------oo----o----o-oo-o--------o-----oo-----------------------o------------o-o----oo---------) => Output(NO)
+
+Test case passed: Input(-o--o--------o--o------o---o-o----------o-------o-o-o-------oo----oo------o------oo--o--) => Output(NO)
+
+Test case passed: Input(------------------o----------------------------------o-o-------------) => Output(YES)
+
+Test case passed: Input(-------------o----ooo-----o-o-------------ooo-----------ooo------o----oo---) => Output(YES)
+
+Test case passed: Input(-------o--------------------o--o---------------o---o--o-----) => Output(YES)
+
+Test case passed: Input(------------------------o------------o-----o----------------) => Output(YES)
+
+Test case passed: Input(------oo----------o------o-----o---------o------------o----o--o) => Output(YES)
+
+Test case passed: Input(------------o------------------o-----------------------o-----------o) => Output(YES)
+
+Test case passed: Input(o---o---------------) => Output(YES)
+
+Test case passed: Input(----------------------o---o----o---o-----------o-o-----o) => Output(YES)
+
+Test case passed: Input(----------------------------------------------------------------------o-o---------------------) => Output(YES)
+
+Test case passed: Input(----o---o-------------------------) => Output(YES)
+
+Test case passed: Input(o----------------------oo----) => Output(NO)
+
+Test case passed: Input(-o-o--o-o--o-----o-----o-o--o-o---oooo-o) => Output(NO)
+
+Test case passed: Input(-o-ooo-o--o----o--o-o-oo-----------o-o-) => Output(YES)
+
+Test case passed: Input(o-------o-------o-------------) => Output(YES)
+
+Test case passed: Input(oo----------------------o--------------o--------------o-----) => Output(YES)
+
+Test case passed: Input(-----------------------------------o---------------------o--------------------------) => Output(YES)
+
+Test case passed: Input(--o--o----o-o---o--o----o-o--oo-----o-oo--o---o---ooo-o--) => Output(YES)
+
+Test case passed: Input(---------------o-o----) => Output(YES)
+
+Test case passed: Input(o------ooo--o-o-oo--o------o----ooo-----o-----o-----o-ooo-o---o----oo) => Output(YES)
+
+Test case passed: Input(----o----o) => Output(YES)
+
+Test case passed: Input(o--o--o--o--o--o--o--o--o--o--o--o--) => Output(YES)
+
+Test case passed: Input(o---o---o---o---o----o----o----o---o---o---o) => Output(YES)
+
+Test case passed: Input(o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-) => Output(YES)
+
+Test case passed: Input(-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o) => Output(YES)
+
+Test case passed: Input(o----------o----------o----------o----------o----------o----------o----------o----------o----------o) => Output(YES)
+
+Test case passed: Input(o---------o---------o---------o---------o---------o---------o---------o---------o) => Output(YES)
+
+Test case passed: Input(--------o--------o--------o--------o--------o--------o--------o--------o--------) => Output(YES)
+
+Test case passed: Input(o---o----) => Output(NO)
+
+Test case passed: Input(---o----o) => Output(NO)
+
+Test case passed: Input(-o-) => Output(YES)
+
+Test case passed: Input(------oooo) => Output(NO)
+
+Test case passed: Input(oo--) => Output(YES)
+
+Test case passed: Input(---o) => Output(YES)
+
+Test case passed: Input(ooo-) => Output(NO)
+
+Test case passed: Input(oooooooo----------) => Output(NO)
+
+Test case passed: Input(oooo--) => Output(NO)
+
+Test case passed: Input(o-ooooo) => Output(NO)
+
+Test case passed: Input(-oo) => Output(NO)
+
+Test case passed: Input(ooooo-) => Output(NO)
+
+Test case passed: Input(ooo---------) => Output(YES)
+
+Test case passed: Input(oo-) => Output(NO)
+
+Test case passed: Input(---ooo) => Output(YES)
+

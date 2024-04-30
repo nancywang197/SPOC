@@ -1,0 +1,225 @@
+Test case passed: Input(0 0
+4 5) => Output(5)
+
+Test case passed: Input(3 4
+6 1) => Output(3)
+
+Test case passed: Input(0 0
+4 6) => Output(6)
+
+Test case passed: Input(1 1
+-3 -5) => Output(6)
+
+Test case passed: Input(-1 -1
+-10 100) => Output(101)
+
+Test case passed: Input(1 -1
+100 -100) => Output(99)
+
+Test case passed: Input(-1000000000 -1000000000
+1000000000 1000000000) => Output(2000000000)
+
+Test case passed: Input(-1000000000 -1000000000
+0 999999999) => Output(1999999999)
+
+Test case passed: Input(0 0
+2 1) => Output(2)
+
+Test case passed: Input(10 0
+100 0) => Output(90)
+
+Test case passed: Input(1 5
+6 4) => Output(5)
+
+Test case passed: Input(0 0
+5 4) => Output(5)
+
+Test case passed: Input(10 1
+20 1) => Output(10)
+
+Test case passed: Input(1 1
+-3 4) => Output(4)
+
+Test case passed: Input(-863407280 504312726
+786535210 -661703810) => Output(1649942490)
+
+Test case passed: Input(-588306085 -741137832
+341385643 152943311) => Output(929691728)
+
+Test case passed: Input(0 0
+4 0) => Output(4)
+
+Test case passed: Input(93097194 -48405232
+-716984003 -428596062) => Output(810081197)
+
+Test case passed: Input(9 1
+1 1) => Output(8)
+
+Test case passed: Input(4 6
+0 4) => Output(4)
+
+Test case passed: Input(2 4
+5 2) => Output(3)
+
+Test case passed: Input(-100000000 -100000000
+100000000 100000123) => Output(200000123)
+
+Test case passed: Input(5 6
+5 7) => Output(1)
+
+Test case passed: Input(12 16
+12 1) => Output(15)
+
+Test case passed: Input(0 0
+5 1) => Output(5)
+
+Test case passed: Input(0 1
+1 1) => Output(1)
+
+Test case passed: Input(-44602634 913365223
+-572368780 933284951) => Output(527766146)
+
+Test case passed: Input(-2 0
+2 -2) => Output(4)
+
+Test case passed: Input(0 0
+3 1) => Output(3)
+
+Test case passed: Input(-458 2
+1255 4548) => Output(4546)
+
+Test case passed: Input(-5 -4
+-3 -3) => Output(2)
+
+Test case passed: Input(4 5
+7 3) => Output(3)
+
+Test case passed: Input(-1000000000 -999999999
+1000000000 999999998) => Output(2000000000)
+
+Test case passed: Input(-1000000000 -1000000000
+1000000000 -1000000000) => Output(2000000000)
+
+Test case passed: Input(-464122675 -898521847
+656107323 -625340409) => Output(1120229998)
+
+Test case passed: Input(-463154699 -654742385
+-699179052 -789004997) => Output(236024353)
+
+Test case passed: Input(982747270 -593488945
+342286841 -593604186) => Output(640460429)
+
+Test case passed: Input(-80625246 708958515
+468950878 574646184) => Output(549576124)
+
+Test case passed: Input(0 0
+1 0) => Output(1)
+
+Test case passed: Input(109810 1
+2 3) => Output(109808)
+
+Test case passed: Input(-9 0
+9 9) => Output(18)
+
+Test case passed: Input(9 9
+9 9) => Output(0)
+
+Test case passed: Input(1 1
+4 3) => Output(3)
+
+Test case passed: Input(1 2
+45 1) => Output(44)
+
+Test case passed: Input(207558188 -313753260
+-211535387 -721675423) => Output(419093575)
+
+Test case passed: Input(-11 0
+0 0) => Output(11)
+
+Test case passed: Input(-1000000000 1000000000
+1000000000 -1000000000) => Output(2000000000)
+
+Test case passed: Input(0 0
+1 1) => Output(1)
+
+Test case passed: Input(0 0
+0 1) => Output(1)
+
+Test case passed: Input(0 0
+-1 1) => Output(1)
+
+Test case passed: Input(0 0
+-1 0) => Output(1)
+
+Test case passed: Input(0 0
+-1 -1) => Output(1)
+
+Test case passed: Input(0 0
+0 -1) => Output(1)
+
+Test case passed: Input(0 0
+1 -1) => Output(1)
+
+Test case passed: Input(10 90
+90 10) => Output(80)
+
+Test case passed: Input(851016864 573579544
+-761410925 -380746263) => Output(1612427789)
+
+Test case passed: Input(1 9
+9 9) => Output(8)
+
+Test case passed: Input(1000 1000
+1000 1000) => Output(0)
+
+Test case passed: Input(1 9
+9 1) => Output(8)
+
+Test case passed: Input(1 90
+90 90) => Output(89)
+
+Test case passed: Input(100 100
+1000 1000) => Output(900)
+
+Test case passed: Input(-1 0
+0 0) => Output(1)
+
+Test case passed: Input(-750595959 -2984043
+649569876 -749608783) => Output(1400165835)
+
+Test case passed: Input(958048496 712083589
+423286949 810566863) => Output(534761547)
+
+Test case passed: Input(146316710 53945094
+-523054748 147499505) => Output(669371458)
+
+Test case passed: Input(50383856 -596516251
+-802950224 -557916272) => Output(853334080)
+
+Test case passed: Input(-637204864 -280290367
+-119020929 153679771) => Output(518183935)
+
+Test case passed: Input(-100 -100
+-60 -91) => Output(40)
+
+Test case passed: Input(337537326 74909428
+-765558776 167951547) => Output(1103096102)
+
+Test case passed: Input(0 81
+18 90) => Output(18)
+
+Test case passed: Input(283722202 -902633305
+-831696497 -160868946) => Output(1115418699)
+
+Test case passed: Input(1000 1000
+-1000 1000) => Output(2000)
+
+Test case passed: Input(5 6
+4 8) => Output(2)
+
+Test case passed: Input(40572000 597493595
+-935051731 368493185) => Output(975623731)
+
+Test case passed: Input(-5 5
+5 5) => Output(10)
+

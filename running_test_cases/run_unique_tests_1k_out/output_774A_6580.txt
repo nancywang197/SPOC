@@ -1,0 +1,27 @@
+Test case passed: Input(3 4 1
+011) => Output(8)
+
+Test case passed: Input(4 7 2
+1101) => Output(18)
+
+Test case passed: Input(1 2 2
+1) => Output(2)
+
+Test case passed: Input(2 3 10
+01) => Output(13)
+
+Test case passed: Input(5 10 3
+11100) => Output(35)
+
+Test case passed: Input(10 2 2
+1111101111) => Output(20)
+
+Test case passed: Input(20 3 13
+01111110011111010101) => Output(120)
+
+Test case passed: Input(50 13 44
+11101110100110111100010110001111001001110010111011) => Output(1270)
+
+Test case passed: Input(100 1000 1000
+0000010100101100110100101111001111111111100101111100111011110001011110110111111010000000101000111000) => Output(100000)
+

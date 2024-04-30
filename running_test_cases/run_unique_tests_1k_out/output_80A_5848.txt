@@ -1,0 +1,90 @@
+Test case passed: Input(3 5) => Output(YES)
+
+Test case passed: Input(7 11) => Output(YES)
+
+Test case passed: Input(7 9) => Output(NO)
+
+Test case passed: Input(2 3) => Output(YES)
+
+Test case passed: Input(2 4) => Output(NO)
+
+Test case passed: Input(3 4) => Output(NO)
+
+Test case passed: Input(3 5) => Output(YES)
+
+Test case passed: Input(5 7) => Output(YES)
+
+Test case passed: Input(7 11) => Output(YES)
+
+Test case passed: Input(11 13) => Output(YES)
+
+Test case passed: Input(13 17) => Output(YES)
+
+Test case passed: Input(17 19) => Output(YES)
+
+Test case passed: Input(19 23) => Output(YES)
+
+Test case passed: Input(23 29) => Output(YES)
+
+Test case passed: Input(29 31) => Output(YES)
+
+Test case passed: Input(31 37) => Output(YES)
+
+Test case passed: Input(37 41) => Output(YES)
+
+Test case passed: Input(41 43) => Output(YES)
+
+Test case passed: Input(43 47) => Output(YES)
+
+Test case passed: Input(2 5) => Output(NO)
+
+Test case passed: Input(2 7) => Output(NO)
+
+Test case passed: Input(2 6) => Output(NO)
+
+Test case passed: Input(2 11) => Output(NO)
+
+Test case passed: Input(3 6) => Output(NO)
+
+Test case passed: Input(3 7) => Output(NO)
+
+Test case passed: Input(3 9) => Output(NO)
+
+Test case passed: Input(5 6) => Output(NO)
+
+Test case passed: Input(5 9) => Output(NO)
+
+Test case passed: Input(5 11) => Output(NO)
+
+Test case passed: Input(5 13) => Output(NO)
+
+Test case passed: Input(5 15) => Output(NO)
+
+Test case passed: Input(7 8) => Output(NO)
+
+Test case passed: Input(7 13) => Output(NO)
+
+Test case passed: Input(13 15) => Output(NO)
+
+Test case passed: Input(13 17) => Output(YES)
+
+Test case passed: Input(19 21) => Output(NO)
+
+Test case passed: Input(13 20) => Output(NO)
+
+Test case passed: Input(41 49) => Output(NO)
+
+Test case passed: Input(43 49) => Output(NO)
+
+Test case passed: Input(47 50) => Output(NO)
+
+Test case passed: Input(47 49) => Output(NO)
+
+Test case passed: Input(47 48) => Output(NO)
+
+Test case passed: Input(23 25) => Output(NO)
+
+Test case passed: Input(2 50) => Output(NO)
+
+Test case passed: Input(31 33) => Output(NO)
+

@@ -1,0 +1,114 @@
+Test case passed: Input(3 3
+cba) => Output(NO)
+
+Test case passed: Input(3 4
+cba) => Output(cbd)
+
+Test case passed: Input(4 4
+abcd) => Output(abda)
+
+Test case passed: Input(2 2
+ab) => Output(ba)
+
+Test case passed: Input(2 2
+ba) => Output(NO)
+
+Test case passed: Input(1 2
+a) => Output(b)
+
+Test case passed: Input(1 2
+b) => Output(NO)
+
+Test case passed: Input(1 1
+a) => Output(NO)
+
+Test case passed: Input(3 4
+cdb) => Output(dab)
+
+Test case passed: Input(7 26
+zyxzyxz) => Output(NO)
+
+Test case passed: Input(10 5
+abcabcabca) => Output(abcabcabcd)
+
+Test case passed: Input(10 10
+fajegfaicb) => Output(fajegfaicd)
+
+Test case passed: Input(1 26
+o) => Output(p)
+
+Test case passed: Input(1 2
+b) => Output(NO)
+
+Test case passed: Input(1 26
+z) => Output(NO)
+
+Test case passed: Input(3 3
+cab) => Output(cba)
+
+Test case passed: Input(3 26
+yzx) => Output(zab)
+
+Test case passed: Input(5 5
+aceba) => Output(acebc)
+
+Test case passed: Input(10 3
+cbacbacbac) => Output(NO)
+
+Test case passed: Input(11 3
+abcabcabcab) => Output(acbacbacbac)
+
+Test case passed: Input(12 10
+abcabcabcabc) => Output(abcabcabcabd)
+
+Test case passed: Input(13 7
+gfegfegfegfeg) => Output(NO)
+
+Test case passed: Input(15 11
+cgjkbadjfbdaikj) => Output(cgjkbadjfbdajba)
+
+Test case passed: Input(17 4
+dabcadcbdcadbcdbc) => Output(dabcadcbdcadcabca)
+
+Test case passed: Input(26 26
+ahnxdnbfcriersyzdihuecojdi) => Output(ahnxdnbfcriersyzdihuecojdk)
+
+Test case passed: Input(30 7
+cedcfedcfgcfgcbadcadgfaegfacgf) => Output(cedcfedcfgcfgcbadcadgfaegfadba)
+
+Test case passed: Input(70 4
+dcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbd) => Output(NO)
+
+Test case passed: Input(77 7
+cadgbagbcaecgfaegcdbeafbacbdfgaedgcdeabgebaecbeacgfebagedcegdafdgeacegfegfegf) => Output(cadgbagbcaecgfaegcdbeafbacbdfgaedgcdeabgebaecbeacgfebagedcegdafdgeacfabcabcab)
+
+Test case passed: Input(100 4
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabca) => Output(abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcd)
+
+Test case passed: Input(333 5
+edcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedcedc) => Output(NO)
+
+Test case passed: Input(3 3
+acb) => Output(bac)
+
+Test case passed: Input(17 26
+bazyxzyxzyxzyxzyx) => Output(bcabcabcabcabcabc)
+
+Test case passed: Input(6 3
+acbacb) => Output(bacbac)
+
+Test case passed: Input(6 3
+abcabc) => Output(acbacb)
+
+Test case passed: Input(302 4
+abdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcbdcb) => Output(acbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbac)
+
+Test case passed: Input(30 26
+abcabcabczyxzyxzyxzyxzyxzyxzyx) => Output(abcabcabdabcabcabcabcabcabcabc)
+
+Test case passed: Input(300 3
+abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc) => Output(acbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacb)
+
+Test case passed: Input(2 4
+cd) => Output(da)
+

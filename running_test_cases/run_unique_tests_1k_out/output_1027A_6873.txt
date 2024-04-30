@@ -1,0 +1,625 @@
+Test case passed: Input(5
+6
+abccba
+2
+cf
+4
+adfa
+8
+abaazaba
+2
+ml) => Output(YES
+NO
+YES
+NO
+NO)
+
+Test case passed: Input(1
+2
+ay) => Output(NO)
+
+Test case passed: Input(1
+2
+ae) => Output(NO)
+
+Test case passed: Input(1
+2
+ya) => Output(NO)
+
+Test case passed: Input(1
+2
+zb) => Output(NO)
+
+Test case passed: Input(1
+4
+zddb) => Output(NO)
+
+Test case passed: Input(1
+2
+bz) => Output(NO)
+
+Test case passed: Input(1
+2
+ab) => Output(NO)
+
+Test case passed: Input(3
+2
+bz
+2
+yz
+2
+ab) => Output(NO
+NO
+NO)
+
+Test case passed: Input(1
+4
+auuy) => Output(NO)
+
+Test case passed: Input(2
+2
+ax
+2
+xa) => Output(NO
+NO)
+
+Test case passed: Input(1
+4
+abfa) => Output(NO)
+
+Test case passed: Input(1
+2
+bf) => Output(NO)
+
+Test case passed: Input(1
+4
+auux) => Output(NO)
+
+Test case passed: Input(2
+2
+zb
+2
+za) => Output(NO
+NO)
+
+Test case passed: Input(1
+4
+abzy) => Output(NO)
+
+Test case passed: Input(1
+2
+yz) => Output(NO)
+
+Test case passed: Input(3
+2
+bz
+2
+az
+2
+ae) => Output(NO
+NO
+NO)
+
+Test case passed: Input(2
+2
+zb
+2
+bz) => Output(NO
+NO)
+
+Test case passed: Input(5
+6
+aaaaaa
+2
+ff
+4
+abab
+8
+ababbaba
+2
+az) => Output(YES
+YES
+NO
+YES
+NO)
+
+Test case passed: Input(1
+2
+zy) => Output(NO)
+
+Test case passed: Input(1
+6
+dazbyd) => Output(NO)
+
+Test case passed: Input(50
+6
+bxyxcz
+4
+zzcy
+2
+zb
+2
+yb
+6
+zzbxyx
+4
+bxzb
+4
+aaca
+4
+bzyx
+4
+xaac
+2
+bb
+2
+zb
+6
+cabcbb
+6
+yxzbbb
+2
+xz
+2
+cc
+6
+azcaza
+4
+yyaa
+2
+xb
+2
+yb
+6
+zaxxxz
+4
+byab
+4
+axxz
+2
+ay
+2
+yb
+2
+cx
+4
+zyab
+6
+ybcyya
+6
+xayzaz
+4
+zacx
+6
+zzyxbz
+2
+cc
+4
+bycx
+2
+za
+4
+aaxz
+6
+czyxba
+4
+xbby
+4
+ccyb
+2
+xy
+4
+yaax
+6
+ayczby
+2
+ax
+6
+bxzbaa
+4
+abcy
+4
+accx
+2
+cz
+4
+zzaz
+4
+yxax
+6
+cyyaxa
+4
+xabb
+2
+xz) => Output(NO
+NO
+NO
+NO
+NO
+YES
+YES
+NO
+NO
+YES
+NO
+NO
+NO
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+YES
+NO
+YES
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+YES)
+
+Test case passed: Input(4
+2
+ay
+2
+bz
+2
+ya
+2
+zb) => Output(NO
+NO
+NO
+NO)
+
+Test case passed: Input(2
+2
+bz
+2
+ay) => Output(NO
+NO)
+
+Test case passed: Input(1
+2
+vz) => Output(NO)
+
+Test case passed: Input(4
+2
+ay
+2
+zb
+2
+ya
+2
+bz) => Output(NO
+NO
+NO
+NO)
+
+Test case passed: Input(3
+2
+ab
+2
+bc
+26
+abcdefghijklmnopqrstuvwxyz) => Output(NO
+NO
+NO)
+
+Test case passed: Input(4
+2
+zy
+2
+ab
+2
+bc
+26
+abcdefghijklmnopqrstuvwxyz) => Output(NO
+NO
+NO
+NO)
+
+Test case passed: Input(1
+4
+bbbc) => Output(NO)
+
+Test case passed: Input(4
+2
+ay
+2
+bz
+2
+ab
+4
+aayy) => Output(NO
+NO
+NO
+NO)
+
+Test case passed: Input(1
+2
+za) => Output(NO)
+
+Test case passed: Input(1
+2
+ad) => Output(NO)
+
+Test case passed: Input(1
+2
+ba) => Output(NO)
+
+Test case passed: Input(10
+6
+zwzyuz
+4
+dyye
+4
+aqrc
+2
+ya
+8
+cybaybwd
+8
+yeyxwxfa
+8
+yplbbmay
+2
+om
+8
+alabzcly
+8
+abyzxzcy) => Output(NO
+NO
+NO
+NO
+NO
+NO
+NO
+YES
+NO
+NO)
+
+Test case passed: Input(10
+6
+yazabw
+2
+ay
+6
+azhjab
+4
+dzbc
+4
+tacr
+6
+yaypzw
+2
+zb
+4
+lzxl
+8
+ybayyzbw
+6
+aywvwa) => Output(NO
+NO
+NO
+NO
+YES
+NO
+NO
+YES
+NO
+NO)
+
+Test case passed: Input(10
+2
+bq
+6
+yzjlzy
+2
+om
+2
+cc
+4
+bpnd
+4
+aaph
+8
+hzbyabxh
+2
+yx
+4
+ayay
+4
+zrsa) => Output(NO
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+NO)
+
+Test case passed: Input(10
+8
+zgyjhyhz
+2
+zx
+2
+jo
+8
+ziazzaks
+4
+vyzw
+4
+abda
+8
+jbybbadl
+6
+oyzeap
+2
+uu
+6
+yzxzaa) => Output(NO
+YES
+NO
+NO
+NO
+YES
+NO
+NO
+YES
+NO)
+
+Test case passed: Input(10
+2
+aa
+8
+vywqqvwu
+6
+bappzz
+8
+dadbbdzf
+8
+fyyzzwad
+2
+aa
+2
+yx
+2
+ba
+6
+abyyzg
+2
+ji) => Output(YES
+NO
+NO
+NO
+NO
+YES
+NO
+NO
+NO
+NO)
+
+Test case passed: Input(10
+6
+zxwwxs
+4
+nyzl
+2
+yw
+6
+zlqqmb
+8
+ybazhazz
+4
+byzc
+2
+bc
+2
+bb
+2
+ay
+2
+aa) => Output(NO
+NO
+YES
+NO
+NO
+NO
+NO
+YES
+NO
+YES)
+
+Test case passed: Input(10
+6
+rwzxbt
+8
+aazpnmby
+8
+brzmkhtb
+2
+az
+4
+rays
+4
+fzzg
+4
+azzu
+6
+tjntkv
+2
+bf
+4
+yxza) => Output(NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO)
+
+Test case passed: Input(1
+4
+yaaa) => Output(NO)
+
+Test case passed: Input(10
+2
+sq
+2
+vx
+2
+jk
+6
+cnazne
+6
+yaaycw
+8
+yaazxcca
+6
+abzbbc
+6
+zbeeza
+8
+lyemlcal
+8
+aabaczaz) => Output(YES
+YES
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO)
+

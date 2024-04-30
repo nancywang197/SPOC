@@ -1,0 +1,90 @@
+Test case passed: Input(abcd) => Output(0)
+
+Test case passed: Input(ababa) => Output(3)
+
+Test case passed: Input(zzz) => Output(2)
+
+Test case passed: Input(kmmm) => Output(2)
+
+Test case passed: Input(wzznz) => Output(1)
+
+Test case passed: Input(qlzazaaqll) => Output(2)
+
+Test case passed: Input(lzggglgpep) => Output(2)
+
+Test case passed: Input(iegdlraaidefgegiagrdfhihe) => Output(2)
+
+Test case passed: Input(esxpqmdrtidgtkxojuxyrcwxlycywtzbjzpxvbngnlepgzcaeg) => Output(1)
+
+Test case passed: Input(garvpaimjdjiivamusjdwfcaoswuhxyyxvrxzajoyihggvuxumaadycfphrzbprraicvjjlsdhojihaw) => Output(2)
+
+Test case passed: Input(ckvfndqgkmhcyojaqgdkenmbexufryhqejdhctxujmtrwkpbqxufxamgoeigzfyzbhevpbkvviwntdhqscvkmphnkkljizndnbjt) => Output(3)
+
+Test case passed: Input(bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb) => Output(99)
+
+Test case passed: Input(ikiikiikikiiikkkkkikkkkiiiiikkiiikkiikiikkkkikkkikikkikiiikkikikiiikikkkiiikkkikkikkikkkkiiikkiiiiii) => Output(10)
+
+Test case passed: Input(ovovhoovvhohhhvhhvhhvhovoohovhhoooooovohvooooohvvoooohvvovhhvhovhhvoovhvhvoovovvhooovhhooovohvhhovhv) => Output(8)
+
+Test case passed: Input(ccwckkkycccccckwckwkwkwkkkkyycykcccycyckwywcckwykcycykkkwcycwwcykcwkwkwwykwkwcykywwwyyykckkyycckwcwk) => Output(5)
+
+Test case passed: Input(ttketfkefktfztezzkzfkkeetkkfktftzktezekkeezkeeetteeteefetefkzzzetekfftkeffzkktffzkzzeftfeezfefzffeef) => Output(4)
+
+Test case passed: Input(rtharczpfznrgdnkltchafduydgbgkdjqrmjqyfmpwjwphrtsjbmswkanjlprbnduaqbcjqxlxmkspkhkcnzbqwxonzxxdmoigti) => Output(2)
+
+Test case passed: Input(fplrkfklvwdeiynbjgaypekambmbjfnoknlhczhkdmljicookdywdgpnlnqlpunnkebnikgcgcjefeqhknvlynmvjcegvcdgvvdb) => Output(2)
+
+Test case passed: Input(txbciieycswqpniwvzipwlottivvnfsysgzvzxwbctcchfpvlbcjikdofhpvsknptpjdbxemtmjcimetkemdbettqnbvzzbdyxxb) => Output(2)
+
+Test case passed: Input(fmubmfwefikoxtqvmaavwjxmoqltapexkqxcsztpezfcltqavuicefxovuswmqimuikoppgqpiapqutkczgcvxzutavkujxvpklv) => Output(3)
+
+Test case passed: Input(ipsrjylhpkjvlzncfixipstwcicxqygqcfrawpzzvckoveyqhathglblhpkjvlzncfixipfajaqobtzvthmhgbuawoxoknirclxg) => Output(15)
+
+Test case passed: Input(kcnjsntjzcbgzjscrsrjkrbytqsrptzspzctjrorsyggrtkcnjsntjzcbgzjscrsrjyqbrtpcgqirsrrjbbbrnyqstnrozcoztt) => Output(20)
+
+Test case passed: Input(unhcfnrhsqetuerjqcetrhlsqgfnqfntvkgxsscquolxxroqgtchffyccetrhlsqgfnqfntvkgxsscquolxxroqgtchffhfqvx) => Output(37)
+
+Test case passed: Input(kkcckkccckkcckcccckcckkkkcckkkkckkkcckckkkkkckkkkkcckkccckkcckcccckcckkkkcckkkkckkkcckckkkkkckckckkc) => Output(46)
+
+Test case passed: Input(mlhsyijxeydqxhtkmpdeqwzogjvxahmssyhfhqessbxzvydbrxdmlhsyijxeydqxhtkmpdeqwzogjvxahmssyhfhqessbxzvydik) => Output(47)
+
+Test case passed: Input(abcdefghijklmnopqrstuvwxyz) => Output(0)
+
+Test case passed: Input(tttttbttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttmttttttt) => Output(85)
+
+Test case passed: Input(ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffff) => Output(61)
+
+Test case passed: Input(cccccccccccccccccccccccwcccccccccccccccccccccuccccccccccccccnccccccccccccccccccccccccccccccccccccccc) => Output(38)
+
+Test case passed: Input(ffffffffffffffffffffffffffufffgfffffffffffffffffffffffffffffffffffffffgffffffftffffffgffffffffffffff) => Output(38)
+
+Test case passed: Input(rrrrrrrrrrrrrrrrrrrlhbrrrrrrrrurrrrrrrfrrqrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrewrrrrrrryrrxrrrrrrrrrrr) => Output(33)
+
+Test case passed: Input(vyvvvvvvvvzvvvvvzvvvwvvvvrvvvvvvvvvvvvvvvrvvvvvvvvvpkvvpvgvvvvvvvvvvvvvgvvvvvvvvvvvvvvvvvvysvvvbvvvv) => Output(17)
+
+Test case passed: Input(cbubbbbbbbbbbfbbbbbbbbjbobbbbbbbbbbibbubbbbjbbbnzgbbzbbfbbbbbbbbbbbfbpbbbbbbbbbbygbbbgbabbbbbbbhibbb) => Output(12)
+
+Test case passed: Input(lrqrrrrrrrjrrrrrcdrrgrrmwvrrrrrrrrrxfzrmrmrryrrrurrrdrrrrrrrrrrererrrsrrrrrrrrrrrqrrrrcrrwjsrrlrrrrr) => Output(10)
+
+Test case passed: Input(ssssusisisosscssssztzessssyspskjssvosiissussszsosssslsssdsssvssvsssslsssmsfjasjsssssowscsjsssszsspss) => Output(8)
+
+Test case passed: Input(uukuuuumueuuuujuukgdhbztuuuubbguuocuozfaunqufjujuguyuuvkuuauubuubuucuvtjuuuuuusduduuuuuuuueunuuuuuzu) => Output(7)
+
+Test case passed: Input(jpkkgwklngwqcfzmwkkpcwkkkkkekkkekkkdsykqwjkkkhkkkxdnukkkkkkmkqykkkxqklkskkrkkkkkqqjikkkkkkpknkkkkkoh) => Output(7)
+
+Test case passed: Input(bmzbbfbbhqxwthtbbisbbbbbtbbfbbpbfbbpbkbjfbcbbbbzbbbdwmbbbrnvqdbbtbbuglrnbbbbvmbyblebbabibrevaxbbjbqb) => Output(6)
+
+Test case passed: Input(qqqmqqqsbteqqopsuqiqumrqzpqnqgqeniqqkyqqyqqqpxzqeqqquhdqquhqqqfqjirqaqqaquxqoqqjqqqqbjbgqcqqqqicnkqc) => Output(4)
+
+Test case passed: Input(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaaavaaaaaaauaaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(44)
+
+Test case passed: Input(a) => Output(0)
+
+Test case passed: Input(fg) => Output(0)
+
+Test case passed: Input(yy) => Output(1)
+
+Test case passed: Input(abcabcabc) => Output(6)
+
+Test case passed: Input(qwerqwedqwes) => Output(3)
+

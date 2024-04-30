@@ -1,0 +1,136 @@
+Test case passed: Input(10
+codeforces) => Output(YES
+co)
+
+Test case passed: Input(5
+aaaaa) => Output(NO)
+
+Test case passed: Input(5
+oomph) => Output(YES
+om)
+
+Test case passed: Input(1
+g) => Output(NO)
+
+Test case passed: Input(2
+ab) => Output(YES
+ab)
+
+Test case passed: Input(3
+aab) => Output(YES
+ab)
+
+Test case passed: Input(3
+abb) => Output(YES
+ab)
+
+Test case passed: Input(7
+aaabaaa) => Output(YES
+ab)
+
+Test case passed: Input(9
+aabbccaab) => Output(YES
+ab)
+
+Test case passed: Input(2
+az) => Output(YES
+az)
+
+Test case passed: Input(7
+qaaqaaq) => Output(YES
+qa)
+
+Test case passed: Input(4
+aaba) => Output(YES
+ab)
+
+Test case passed: Input(6
+qaaaaa) => Output(YES
+qa)
+
+Test case passed: Input(8
+aaaabbba) => Output(YES
+ab)
+
+Test case passed: Input(2
+qa) => Output(YES
+qa)
+
+Test case passed: Input(5
+abbbb) => Output(YES
+ab)
+
+Test case passed: Input(2
+ss) => Output(NO)
+
+Test case passed: Input(4
+aabb) => Output(YES
+ab)
+
+Test case passed: Input(6
+baaaaa) => Output(YES
+ba)
+
+Test case passed: Input(25
+bbaaaaabaaaabbabaaaababaa) => Output(YES
+ba)
+
+Test case passed: Input(3
+oom) => Output(YES
+om)
+
+Test case passed: Input(6
+sssssa) => Output(YES
+sa)
+
+Test case passed: Input(6
+aabbab) => Output(YES
+ab)
+
+Test case passed: Input(8
+abnmaaaa) => Output(YES
+ab)
+
+Test case passed: Input(9
+aaaabbbbb) => Output(YES
+ab)
+
+Test case passed: Input(3
+baa) => Output(YES
+ba)
+
+Test case passed: Input(2
+ba) => Output(YES
+ba)
+
+Test case passed: Input(6
+aabbcc) => Output(YES
+ab)
+
+Test case passed: Input(3
+bba) => Output(YES
+ba)
+
+Test case passed: Input(3
+aba) => Output(YES
+ab)
+
+Test case passed: Input(4
+bbaa) => Output(YES
+ba)
+
+Test case passed: Input(4
+cbba) => Output(YES
+cb)
+
+Test case passed: Input(5
+aabaa) => Output(YES
+ab)
+
+Test case passed: Input(5
+abbba) => Output(YES
+ab)
+
+Test case passed: Input(2
+aa) => Output(NO)
+

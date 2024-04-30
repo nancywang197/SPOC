@@ -1,0 +1,204 @@
+Test case passed: Input(3
+.CC
+C..
+C.C) => Output(4)
+
+Test case passed: Input(4
+CC..
+C..C
+.CC.
+.CC.) => Output(9)
+
+Test case passed: Input(5
+.CCCC
+CCCCC
+.CCC.
+CC...
+.CC.C) => Output(46)
+
+Test case passed: Input(7
+.CC..CC
+CC.C..C
+C.C..C.
+C...C.C
+CCC.CCC
+.CC...C
+.C.CCC.) => Output(84)
+
+Test case passed: Input(8
+..C....C
+C.CCC.CC
+.C..C.CC
+CC......
+C..C..CC
+C.C...C.
+C.C..C..
+C...C.C.) => Output(80)
+
+Test case passed: Input(9
+.C...CCCC
+C.CCCC...
+....C..CC
+.CC.CCC..
+.C.C..CC.
+C...C.CCC
+CCC.C...C
+CCCC....C
+..C..C..C) => Output(144)
+
+Test case passed: Input(10
+..C..C.C..
+..CC..C.CC
+.C.C...C.C
+..C.CC..CC
+....C..C.C
+...C..C..C
+CC.CC....C
+..CCCC.C.C
+..CC.CCC..
+CCCC..C.CC) => Output(190)
+
+Test case passed: Input(11
+C.CC...C.CC
+CC.C....C.C
+.....C..CCC
+....C.CC.CC
+C..C..CC...
+C...C...C..
+CC..CCC.C.C
+..C.CC.C..C
+C...C.C..CC
+.C.C..CC..C
+.C.C.CC.C..) => Output(228)
+
+Test case passed: Input(21
+...CCC.....CC..C..C.C
+..CCC...CC...CC.CCC.C
+....C.C.C..CCC..C.C.C
+....CCC..C..C.CC.CCC.
+...CCC.C..C.C.....CCC
+.CCC.....CCC..C...C.C
+CCCC.C...CCC.C...C.CC
+C..C...C.CCC..CC..C..
+C...CC..C.C.CC..C.CC.
+CC..CCCCCCCCC..C....C
+.C..CCCC.CCCC.CCC...C
+CCC...CCC...CCC.C..C.
+.CCCCCCCC.CCCC.CC.C..
+.C.C..C....C.CCCCCC.C
+...C...C.CCC.C.CC..C.
+CCC...CC..CC...C..C.C
+.CCCCC...C.C..C.CC.C.
+..CCC.C.C..CCC.CCC...
+..C..C.C.C.....CC.C..
+.CC.C...C.CCC.C....CC
+...C..CCCC.CCC....C..) => Output(2103)
+
+Test case passed: Input(20
+C.C.CCC.C....C.CCCCC
+C.CC.C..CCC....CCCC.
+.CCC.CC...CC.CCCCCC.
+.C...CCCC..C....CCC.
+.C..CCCCCCC.C.C.....
+C....C.C..CCC.C..CCC
+...C.C.CC..CC..CC...
+C...CC.C.CCCCC....CC
+.CC.C.CCC....C.CCC.C
+CC...CC...CC..CC...C
+C.C..CC.C.CCCC.C.CC.
+..CCCCC.C.CCC..CCCC.
+....C..C..C.CC...C.C
+C..CCC..CC..C.CC..CC
+...CC......C.C..C.C.
+CC.CCCCC.CC.CC...C.C
+.C.CC..CC..CCC.C.CCC
+C..C.CC....C....C...
+..CCC..CCC...CC..C.C
+.C.CCC.CCCCCCCCC..CC) => Output(2071)
+
+Test case passed: Input(17
+CCC..C.C....C.C.C
+.C.CC.CC...CC..C.
+.CCCC.CC.C..CCC.C
+...CCC.CC.CCC.C.C
+CCCCCCCC..C.CC.CC
+...C..C....C.CC.C
+CC....CCC...C.CC.
+.CC.C.CC..C......
+.CCCCC.C.CC.CCCCC
+..CCCC...C..CC..C
+C.CC.C.CC..C.C.C.
+C..C..C..CCC.C...
+.C..CCCC..C......
+.CC.C...C..CC.CC.
+C..C....CC...CC..
+C.CC.CC..C.C..C..
+CCCC...C.C..CCCC.) => Output(1160)
+
+Test case passed: Input(15
+CCCC.C..CCC....
+CCCCCC.CC.....C
+...C.CC.C.C.CC.
+CCCCCCC..C..C..
+C..CCC..C.CCCC.
+.CC..C.C.C.CC.C
+.C.C..C..C.C..C
+...C...C..CCCC.
+.....C.C..CC...
+CC.C.C..CC.C..C
+..CCCCC..CCC...
+CC.CC.C..CC.CCC
+..CCC...CC.C..C
+CC..C.C..CCC..C
+.C.C....CCC...C) => Output(789)
+
+Test case passed: Input(1
+.) => Output(0)
+
+Test case passed: Input(3
+.CC
+C..
+C.C) => Output(4)
+
+Test case passed: Input(13
+C.C...C.C.C..
+CC.CCCC.CC..C
+.C.CCCCC.CC..
+CCCC..C...C..
+...CC.C.C...C
+.CC.CCC...CC.
+CC.CCCCCC....
+.C...C..CC..C
+CCCC.CC...C..
+.C.CCC..C.CC.
+..C...CC..C.C
+..C.CCC..CC.C
+.C...CCC.CC.C) => Output(529)
+
+Test case passed: Input(16
+.C.C.C.C.C...C.C
+..C..C.CCCCCC...
+..C.C.C.C..C..C.
+.CC....C.CCC..C.
+.C.CCC..C....CCC
+CC..C.CC..C.C.CC
+...C..C..CC..CC.
+.CCC..C.CC.C.C..
+.CC.C..........C
+C...C....CC..C..
+C.CCC.C..C..C...
+.CCCCCCCCCCCC..C
+..C.C.CC.CC.CCC.
+CC..C.C....C..CC
+C.CCC..C..C.C.CC
+.C.CCC.CC..CCC.C) => Output(874)
+
+Test case passed: Input(2
+CC
+CC) => Output(4)
+
+Test case passed: Input(3
+C..
+C..
+C..) => Output(3)
+

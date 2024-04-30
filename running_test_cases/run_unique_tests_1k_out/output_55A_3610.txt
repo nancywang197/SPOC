@@ -1,0 +1,166 @@
+Test case passed: Input(1) => Output(YES)
+
+Test case passed: Input(3) => Output(NO)
+
+Test case passed: Input(2) => Output(YES)
+
+Test case passed: Input(4) => Output(YES)
+
+Test case passed: Input(5) => Output(NO)
+
+Test case passed: Input(6) => Output(NO)
+
+Test case passed: Input(7) => Output(NO)
+
+Test case passed: Input(8) => Output(YES)
+
+Test case passed: Input(9) => Output(NO)
+
+Test case passed: Input(10) => Output(NO)
+
+Test case passed: Input(11) => Output(NO)
+
+Test case passed: Input(12) => Output(NO)
+
+Test case passed: Input(13) => Output(NO)
+
+Test case passed: Input(14) => Output(NO)
+
+Test case passed: Input(15) => Output(NO)
+
+Test case passed: Input(16) => Output(YES)
+
+Test case passed: Input(17) => Output(NO)
+
+Test case passed: Input(18) => Output(NO)
+
+Test case passed: Input(19) => Output(NO)
+
+Test case passed: Input(20) => Output(NO)
+
+Test case passed: Input(21) => Output(NO)
+
+Test case passed: Input(22) => Output(NO)
+
+Test case passed: Input(23) => Output(NO)
+
+Test case passed: Input(24) => Output(NO)
+
+Test case passed: Input(25) => Output(NO)
+
+Test case passed: Input(26) => Output(NO)
+
+Test case passed: Input(27) => Output(NO)
+
+Test case passed: Input(28) => Output(NO)
+
+Test case passed: Input(29) => Output(NO)
+
+Test case passed: Input(30) => Output(NO)
+
+Test case passed: Input(31) => Output(NO)
+
+Test case passed: Input(32) => Output(YES)
+
+Test case passed: Input(33) => Output(NO)
+
+Test case passed: Input(34) => Output(NO)
+
+Test case passed: Input(35) => Output(NO)
+
+Test case passed: Input(36) => Output(NO)
+
+Test case passed: Input(37) => Output(NO)
+
+Test case passed: Input(38) => Output(NO)
+
+Test case passed: Input(39) => Output(NO)
+
+Test case passed: Input(40) => Output(NO)
+
+Test case passed: Input(41) => Output(NO)
+
+Test case passed: Input(42) => Output(NO)
+
+Test case passed: Input(43) => Output(NO)
+
+Test case passed: Input(44) => Output(NO)
+
+Test case passed: Input(45) => Output(NO)
+
+Test case passed: Input(46) => Output(NO)
+
+Test case passed: Input(47) => Output(NO)
+
+Test case passed: Input(48) => Output(NO)
+
+Test case passed: Input(49) => Output(NO)
+
+Test case passed: Input(50) => Output(NO)
+
+Test case passed: Input(64) => Output(YES)
+
+Test case passed: Input(289) => Output(NO)
+
+Test case passed: Input(170) => Output(NO)
+
+Test case passed: Input(639) => Output(NO)
+
+Test case passed: Input(700) => Output(NO)
+
+Test case passed: Input(95) => Output(NO)
+
+Test case passed: Input(240) => Output(NO)
+
+Test case passed: Input(1000) => Output(NO)
+
+Test case passed: Input(200) => Output(NO)
+
+Test case passed: Input(57) => Output(NO)
+
+Test case passed: Input(871) => Output(NO)
+
+Test case passed: Input(840) => Output(NO)
+
+Test case passed: Input(705) => Output(NO)
+
+Test case passed: Input(685) => Output(NO)
+
+Test case passed: Input(213) => Output(NO)
+
+Test case passed: Input(665) => Output(NO)
+
+Test case passed: Input(868) => Output(NO)
+
+Test case passed: Input(897) => Output(NO)
+
+Test case passed: Input(61) => Output(NO)
+
+Test case passed: Input(817) => Output(NO)
+
+Test case passed: Input(688) => Output(NO)
+
+Test case passed: Input(580) => Output(NO)
+
+Test case passed: Input(373) => Output(NO)
+
+Test case passed: Input(613) => Output(NO)
+
+Test case passed: Input(685) => Output(NO)
+
+Test case passed: Input(116) => Output(NO)
+
+Test case passed: Input(518) => Output(NO)
+
+Test case passed: Input(383) => Output(NO)
+
+Test case passed: Input(260) => Output(NO)
+
+Test case passed: Input(728) => Output(NO)
+
+Test case passed: Input(1000) => Output(NO)
+
+Test case passed: Input(256) => Output(YES)
+
+Test case passed: Input(512) => Output(YES)
+

@@ -1,0 +1,87 @@
+Test case passed: Input(R
+s;;upimrrfod;pbr) => Output(allyouneedislove)
+
+Test case passed: Input(R
+wertyuiop;lkjhgfdsxcvbnm,.) => Output(qwertyuiolkjhgfdsazxcvbnm,)
+
+Test case passed: Input(L
+zxcvbnm,kjhgfdsaqwertyuio) => Output(xcvbnm,.lkjhgfdswertyuiop)
+
+Test case passed: Input(R
+bubbuduppudup) => Output(vyvvysyooysyo)
+
+Test case passed: Input(L
+gggggggggggggggggggggggggggggggggggggggggg) => Output(hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh)
+
+Test case passed: Input(R
+gggggggggggggggggggggggggggggggggggggggggg) => Output(ffffffffffffffffffffffffffffffffffffffffff)
+
+Test case passed: Input(L
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg) => Output(hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh)
+
+Test case passed: Input(R
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg) => Output(fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff)
+
+Test case passed: Input(L
+xgwurenkxkiau,c,vonei.zltazmnkhqtwuogkgvgckvja,z.rhanuy.ybebmzcfwozkwvuuiolaqlgvvvewnbuinrncgjwjdsfw) => Output(cheitrmlclosi.v.bpmro/x;ysx,mljwyeiphlhbhvlbks.x/tjsmiu/unrn,xvgepxlebiiop;sw;hbbbremniomtmvhkekfdge)
+
+Test case passed: Input(L
+uoz.vmks,wxrb,nwcvdzh.m,hwsios.lvu,ktes,,ythddhm.sh,d,c,cfj.wqam,bowofbyx,jathqayhreqvixvbmgdokofmym) => Output(ipx/b,ld.ectn.mevbfxj/,.jedopd/;bi.lyrd..uyjffj,/dj.f.v.vgk/ews,.npepgnuc.ksyjwsujtrwbocbn,hfplpg,u,)
+
+Test case passed: Input(R
+oedjyrvuw/rn.v.hdwndbiposiewgsn.pnyf;/tsdohp,hrtd/mx,;coj./billd..mwbneohcikrdes/ucjr,wspthleyp,..f,) => Output(iwshtecyq.eb,c,gsqbsvuoiauwqfab,obtdl.rasigomgers.nzmlxih,.vukks,,nqvbwigxujeswa.yxhemqaorgkwtom,,dm)
+
+Test case passed: Input(R
+vgj;o;ijrtfyck,dthccioltcx,crub;oceooognsuvfx/kgo.fbsudv,yod.erdrxhbeiyltxhnrobbb;ydrgroefcr/f;uvdjd) => Output(cfhliluherdtxjmsrgxxuikrxzmxeyvlixwiiifbaycdz.jfi,dvayscmtis,wesezgvwutkrzgbeivvvltsefeiwdxe.dlycshs)
+
+Test case passed: Input(L
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq) => Output(wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww)
+
+Test case passed: Input(L
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo) => Output(pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp)
+
+Test case passed: Input(L
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz) => Output(xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+
+Test case passed: Input(R
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo) => Output(iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
+
+Test case passed: Input(R
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww) => Output(qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq)
+
+Test case passed: Input(R
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) => Output(zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz)
+
+Test case passed: Input(L
+q) => Output(w)
+
+Test case passed: Input(L
+o) => Output(p)
+
+Test case passed: Input(L
+,) => Output(.)
+
+Test case passed: Input(L
+z) => Output(x)
+
+Test case passed: Input(R
+.) => Output(,)
+
+Test case passed: Input(R
+o) => Output(i)
+
+Test case passed: Input(R
+w) => Output(q)
+
+Test case passed: Input(R
+x) => Output(z)
+
+Test case passed: Input(R
+,./) => Output(m,.)
+
+Test case passed: Input(R
+wertuk;;/) => Output(qweryjll.)
+
+Test case passed: Input(L
+..) => Output(//)
+

@@ -1,0 +1,57 @@
+Test case passed: Input(9 3
+ACAABCCAB) => Output(6)
+
+Test case passed: Input(9 4
+ABCABCABC) => Output(0)
+
+Test case passed: Input(1 26
+A) => Output(0)
+
+Test case passed: Input(22 1
+AAAAAAAAAAAAAAAAAAAAAA) => Output(22)
+
+Test case passed: Input(15 26
+WEYYDIADTLCOUEG) => Output(0)
+
+Test case passed: Input(2 2
+BA) => Output(2)
+
+Test case passed: Input(6 3
+AABBCC) => Output(6)
+
+Test case passed: Input(1 5
+A) => Output(0)
+
+Test case passed: Input(10 2
+ABBBBBBBBB) => Output(2)
+
+Test case passed: Input(1 1
+A) => Output(1)
+
+Test case passed: Input(6 3
+ABBCCC) => Output(3)
+
+Test case passed: Input(7 2
+AABBBBB) => Output(4)
+
+Test case passed: Input(76 26
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYABCDEFGHIJKLMNOPQRSTUVWXY) => Output(26)
+
+Test case passed: Input(5 3
+AABBC) => Output(3)
+
+Test case passed: Input(3 3
+AAC) => Output(0)
+
+Test case passed: Input(1 4
+D) => Output(0)
+
+Test case passed: Input(3 2
+BBB) => Output(0)
+
+Test case passed: Input(3 3
+CBA) => Output(3)
+
+Test case passed: Input(3 5
+ABC) => Output(0)
+

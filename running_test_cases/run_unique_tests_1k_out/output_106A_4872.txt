@@ -1,0 +1,234 @@
+Test case passed: Input(H
+QH 9S) => Output(YES)
+
+Test case passed: Input(S
+8D 6D) => Output(YES)
+
+Test case passed: Input(C
+7H AS) => Output(NO)
+
+Test case passed: Input(C
+KC 9C) => Output(YES)
+
+Test case passed: Input(D
+7D KD) => Output(NO)
+
+Test case passed: Input(H
+7H KD) => Output(YES)
+
+Test case passed: Input(D
+AS AH) => Output(NO)
+
+Test case passed: Input(H
+KH KS) => Output(YES)
+
+Test case passed: Input(C
+9H 6C) => Output(NO)
+
+Test case passed: Input(C
+9H JC) => Output(NO)
+
+Test case passed: Input(D
+TD JD) => Output(NO)
+
+Test case passed: Input(H
+6S 7S) => Output(NO)
+
+Test case passed: Input(D
+7S 8S) => Output(NO)
+
+Test case passed: Input(S
+8H 9H) => Output(NO)
+
+Test case passed: Input(C
+9D TD) => Output(NO)
+
+Test case passed: Input(H
+TC JC) => Output(NO)
+
+Test case passed: Input(C
+JH QH) => Output(NO)
+
+Test case passed: Input(H
+QD KD) => Output(NO)
+
+Test case passed: Input(D
+KS AS) => Output(NO)
+
+Test case passed: Input(S
+AH 6H) => Output(YES)
+
+Test case passed: Input(H
+7D 6D) => Output(YES)
+
+Test case passed: Input(S
+8H 7H) => Output(YES)
+
+Test case passed: Input(D
+9S 8S) => Output(YES)
+
+Test case passed: Input(S
+TC 9C) => Output(YES)
+
+Test case passed: Input(H
+JS TS) => Output(YES)
+
+Test case passed: Input(S
+QD JD) => Output(YES)
+
+Test case passed: Input(D
+KH QH) => Output(YES)
+
+Test case passed: Input(H
+AD KD) => Output(YES)
+
+Test case passed: Input(H
+QS QD) => Output(NO)
+
+Test case passed: Input(C
+TS TH) => Output(NO)
+
+Test case passed: Input(C
+6C 6D) => Output(YES)
+
+Test case passed: Input(H
+8H 8D) => Output(YES)
+
+Test case passed: Input(S
+7D 7S) => Output(NO)
+
+Test case passed: Input(H
+JC JH) => Output(NO)
+
+Test case passed: Input(H
+8H 9C) => Output(YES)
+
+Test case passed: Input(D
+9D 6S) => Output(YES)
+
+Test case passed: Input(C
+JC AH) => Output(YES)
+
+Test case passed: Input(S
+AS KD) => Output(YES)
+
+Test case passed: Input(S
+7S JS) => Output(NO)
+
+Test case passed: Input(H
+TH 8H) => Output(YES)
+
+Test case passed: Input(S
+7S QS) => Output(NO)
+
+Test case passed: Input(C
+KC QC) => Output(YES)
+
+Test case passed: Input(S
+AD 9S) => Output(NO)
+
+Test case passed: Input(D
+7H 8D) => Output(NO)
+
+Test case passed: Input(H
+JC 9H) => Output(NO)
+
+Test case passed: Input(C
+7S AC) => Output(NO)
+
+Test case passed: Input(C
+8C 7C) => Output(YES)
+
+Test case passed: Input(H
+9D 8S) => Output(NO)
+
+Test case passed: Input(D
+AC KS) => Output(NO)
+
+Test case passed: Input(H
+8C QH) => Output(NO)
+
+Test case passed: Input(S
+7S TS) => Output(NO)
+
+Test case passed: Input(C
+AH 6S) => Output(NO)
+
+Test case passed: Input(S
+KS QS) => Output(YES)
+
+Test case passed: Input(H
+AC QC) => Output(YES)
+
+Test case passed: Input(S
+9H 8D) => Output(NO)
+
+Test case passed: Input(S
+TS JS) => Output(NO)
+
+Test case passed: Input(S
+8H 7C) => Output(NO)
+
+Test case passed: Input(C
+AH 6S) => Output(NO)
+
+Test case passed: Input(S
+7S QS) => Output(NO)
+
+Test case passed: Input(C
+AH 6S) => Output(NO)
+
+Test case passed: Input(S
+TS KS) => Output(NO)
+
+Test case passed: Input(C
+TH KH) => Output(NO)
+
+Test case passed: Input(H
+9C 6D) => Output(NO)
+
+Test case passed: Input(H
+9C 8D) => Output(NO)
+
+Test case passed: Input(H
+TH AH) => Output(NO)
+
+Test case passed: Input(H
+TH JH) => Output(NO)
+
+Test case passed: Input(H
+QS 9C) => Output(NO)
+
+Test case passed: Input(H
+KC AC) => Output(NO)
+
+Test case passed: Input(H
+AH KH) => Output(YES)
+
+Test case passed: Input(H
+KS QS) => Output(YES)
+
+Test case passed: Input(C
+AD KS) => Output(NO)
+
+Test case passed: Input(H
+QS 9C) => Output(NO)
+
+Test case passed: Input(H
+9D 7S) => Output(NO)
+
+Test case passed: Input(D
+6D 9S) => Output(YES)
+
+Test case passed: Input(H
+AH KH) => Output(YES)
+
+Test case passed: Input(H
+KC AC) => Output(NO)
+
+Test case passed: Input(D
+8S 6C) => Output(NO)
+
+Test case passed: Input(S
+AC KC) => Output(YES)
+

@@ -1,0 +1,38 @@
+Test case passed: Input(2 5 4 0 4) => Output(3)
+
+Test case passed: Input(4 5 9 2 1) => Output(-1)
+
+Test case passed: Input(0 0 0 0 0) => Output(-1)
+
+Test case passed: Input(1 2 1 2 3) => Output(-1)
+
+Test case passed: Input(100 0 0 0 0) => Output(20)
+
+Test case passed: Input(2 3 4 5 6) => Output(4)
+
+Test case passed: Input(1 1 1 1 1) => Output(1)
+
+Test case passed: Input(0 1 2 3 4) => Output(2)
+
+Test case passed: Input(100 100 100 100 100) => Output(100)
+
+Test case passed: Input(93 100 99 90 98) => Output(96)
+
+Test case passed: Input(99 99 99 99 99) => Output(99)
+
+Test case passed: Input(99 98 98 99 100) => Output(-1)
+
+Test case passed: Input(43 83 1 0 23) => Output(30)
+
+Test case passed: Input(43 83 1 100 23) => Output(50)
+
+Test case passed: Input(57 83 11 4 93) => Output(-1)
+
+Test case passed: Input(87 38 19 33 100) => Output(-1)
+
+Test case passed: Input(56 0 0 0 4) => Output(12)
+
+Test case passed: Input(0 0 0 0 1) => Output(-1)
+
+Test case passed: Input(99 100 100 100 100) => Output(-1)
+

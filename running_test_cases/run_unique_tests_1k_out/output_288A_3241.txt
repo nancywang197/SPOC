@@ -1,0 +1,40 @@
+Test case passed: Input(7 4) => Output(ababacd)
+
+Test case passed: Input(4 7) => Output(-1)
+
+Test case passed: Input(10 5) => Output(abababacde)
+
+Test case passed: Input(47 2) => Output(abababababababababababababababababababababababa)
+
+Test case passed: Input(10 7) => Output(ababacdefg)
+
+Test case passed: Input(20 7) => Output(abababababababacdefg)
+
+Test case passed: Input(26 26) => Output(abcdefghijklmnopqrstuvwxyz)
+
+Test case passed: Input(47 1) => Output(-1)
+
+Test case passed: Input(128 26) => Output(ababababababababababababababababababababababababababababababababababababababababababababababababababababcdefghijklmnopqrstuvwxyz)
+
+Test case passed: Input(4585 1) => Output(-1)
+
+Test case passed: Input(1000000 1) => Output(-1)
+
+Test case passed: Input(6795 1) => Output(-1)
+
+Test case passed: Input(12 17) => Output(-1)
+
+Test case passed: Input(1 1) => Output(a)
+
+Test case passed: Input(2 2) => Output(ab)
+
+Test case passed: Input(1 2) => Output(-1)
+
+Test case passed: Input(1 26) => Output(-1)
+
+Test case passed: Input(26 2) => Output(ababababababababababababab)
+
+Test case passed: Input(123 21) => Output(ababababababababababababababababababababababababababababababababababababababababababababababababababababcdefghijklmnopqrstu)
+
+Test case passed: Input(3 3) => Output(abc)
+

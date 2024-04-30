@@ -1,0 +1,336 @@
+Test case passed: Input(2
+5
+7) => Output(7)
+
+Test case passed: Input(4
+7
+13) => Output(21)
+
+Test case passed: Input(2
+3
+2) => Output(0)
+
+Test case passed: Input(1
+1
+1) => Output(0)
+
+Test case passed: Input(1
+2
+4) => Output(7)
+
+Test case passed: Input(1000
+1000
+1000) => Output(1750)
+
+Test case passed: Input(1
+1
+4) => Output(0)
+
+Test case passed: Input(1
+2
+3) => Output(0)
+
+Test case passed: Input(1
+1000
+1000) => Output(7)
+
+Test case passed: Input(1000
+1
+1000) => Output(0)
+
+Test case passed: Input(1000
+2
+1000) => Output(7)
+
+Test case passed: Input(1000
+500
+1000) => Output(1750)
+
+Test case passed: Input(1000
+1000
+4) => Output(7)
+
+Test case passed: Input(1000
+1000
+3) => Output(0)
+
+Test case passed: Input(4
+8
+12) => Output(21)
+
+Test case passed: Input(10
+20
+40) => Output(70)
+
+Test case passed: Input(100
+200
+399) => Output(693)
+
+Test case passed: Input(200
+400
+800) => Output(1400)
+
+Test case passed: Input(199
+400
+800) => Output(1393)
+
+Test case passed: Input(201
+400
+800) => Output(1400)
+
+Test case passed: Input(200
+399
+800) => Output(1393)
+
+Test case passed: Input(200
+401
+800) => Output(1400)
+
+Test case passed: Input(200
+400
+799) => Output(1393)
+
+Test case passed: Input(200
+400
+801) => Output(1400)
+
+Test case passed: Input(139
+252
+871) => Output(882)
+
+Test case passed: Input(109
+346
+811) => Output(763)
+
+Test case passed: Input(237
+487
+517) => Output(903)
+
+Test case passed: Input(161
+331
+725) => Output(1127)
+
+Test case passed: Input(39
+471
+665) => Output(273)
+
+Test case passed: Input(9
+270
+879) => Output(63)
+
+Test case passed: Input(137
+422
+812) => Output(959)
+
+Test case passed: Input(15
+313
+525) => Output(105)
+
+Test case passed: Input(189
+407
+966) => Output(1323)
+
+Test case passed: Input(18
+268
+538) => Output(126)
+
+Test case passed: Input(146
+421
+978) => Output(1022)
+
+Test case passed: Input(70
+311
+685) => Output(490)
+
+Test case passed: Input(244
+405
+625) => Output(1092)
+
+Test case passed: Input(168
+454
+832) => Output(1176)
+
+Test case passed: Input(46
+344
+772) => Output(322)
+
+Test case passed: Input(174
+438
+987) => Output(1218)
+
+Test case passed: Input(144
+387
+693) => Output(1008)
+
+Test case passed: Input(22
+481
+633) => Output(154)
+
+Test case passed: Input(196
+280
+848) => Output(980)
+
+Test case passed: Input(190
+454
+699) => Output(1218)
+
+Test case passed: Input(231
+464
+928) => Output(1617)
+
+Test case passed: Input(151
+308
+616) => Output(1057)
+
+Test case passed: Input(88
+182
+364) => Output(616)
+
+Test case passed: Input(12
+26
+52) => Output(84)
+
+Test case passed: Input(204
+412
+824) => Output(1428)
+
+Test case passed: Input(127
+256
+512) => Output(889)
+
+Test case passed: Input(224
+446
+896) => Output(1561)
+
+Test case passed: Input(146
+291
+584) => Output(1015)
+
+Test case passed: Input(83
+164
+332) => Output(574)
+
+Test case passed: Input(20
+38
+80) => Output(133)
+
+Test case passed: Input(198
+393
+792) => Output(1372)
+
+Test case passed: Input(120
+239
+480) => Output(833)
+
+Test case passed: Input(208
+416
+831) => Output(1449)
+
+Test case passed: Input(130
+260
+517) => Output(903)
+
+Test case passed: Input(67
+134
+267) => Output(462)
+
+Test case passed: Input(245
+490
+979) => Output(1708)
+
+Test case passed: Input(182
+364
+727) => Output(1267)
+
+Test case passed: Input(104
+208
+413) => Output(721)
+
+Test case passed: Input(10
+2
+100) => Output(7)
+
+Test case passed: Input(2
+100
+100) => Output(14)
+
+Test case passed: Input(2
+3
+8) => Output(7)
+
+Test case passed: Input(1
+2
+8) => Output(7)
+
+Test case passed: Input(1
+2
+200) => Output(7)
+
+Test case passed: Input(5
+4
+16) => Output(14)
+
+Test case passed: Input(1
+10
+10) => Output(7)
+
+Test case passed: Input(1
+4
+8) => Output(7)
+
+Test case passed: Input(100
+4
+1000) => Output(14)
+
+Test case passed: Input(2
+6
+12) => Output(14)
+
+Test case passed: Input(10
+7
+4) => Output(7)
+
+Test case passed: Input(2
+10
+100) => Output(14)
+
+Test case passed: Input(2
+3
+4) => Output(7)
+
+Test case passed: Input(1
+2
+999) => Output(7)
+
+Test case passed: Input(1
+10
+20) => Output(7)
+
+Test case passed: Input(100
+18
+20) => Output(35)
+
+Test case passed: Input(100
+1
+100) => Output(0)
+
+Test case passed: Input(3
+7
+80) => Output(21)
+
+Test case passed: Input(2
+8
+24) => Output(14)
+
+Test case passed: Input(1
+100
+100) => Output(7)
+
+Test case passed: Input(2
+1
+8) => Output(0)
+
+Test case passed: Input(10
+5
+23) => Output(14)
+

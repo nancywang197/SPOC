@@ -1,0 +1,156 @@
+Test case passed: Input(1 10) => Output(2)
+
+Test case passed: Input(3 8) => Output(2)
+
+Test case passed: Input(8 12) => Output(8)
+
+Test case passed: Input(4 84) => Output(80)
+
+Test case passed: Input(9 95) => Output(17)
+
+Test case timed out: Input(331358794 820674098)
+
+Test case passed: Input(5 56) => Output(18)
+
+Test case passed: Input(10 22) => Output(0)
+
+Test case passed: Input(8 73) => Output(63)
+
+Test case passed: Input(7 63) => Output(44)
+
+Test case passed: Input(1 57) => Output(2)
+
+Test case passed: Input(6 5) => Output(3)
+
+Test case passed: Input(6 25) => Output(3)
+
+Test case passed: Input(1 39) => Output(2)
+
+Test case passed: Input(3 60) => Output(26)
+
+Test case passed: Input(2 81) => Output(8)
+
+Test case passed: Input(5 35) => Output(32)
+
+Test case passed: Input(8 100) => Output(60)
+
+Test case passed: Input(6 29) => Output(3)
+
+Test case passed: Input(7 90) => Output(26)
+
+Test case passed: Input(1 37) => Output(2)
+
+Test case passed: Input(7 34) => Output(10)
+
+Test case passed: Input(3 49) => Output(26)
+
+Test case passed: Input(1 38) => Output(2)
+
+Test case passed: Input(7 88) => Output(74)
+
+Test case passed: Input(9 30) => Output(2)
+
+Test case timed out: Input(333734901 647005907)
+
+Test case passed: Input(140068687 419634856) => Output(40442298)
+
+Test case timed out: Input(725891944 969448805)
+
+Test case timed out: Input(792362041 423498933)
+
+Test case passed: Input(108260816 609551797) => Output(237749529)
+
+Test case timed out: Input(593511479 711449475)
+
+Test case timed out: Input(853906091 809812670)
+
+Test case timed out: Input(549662082 945236243)
+
+Test case timed out: Input(296519935 960061928)
+
+Test case timed out: Input(854939092 4244941)
+
+Test case timed out: Input(519976508 777084731)
+
+Test case passed: Input(264926775 887044705) => Output(448954191)
+
+Test case timed out: Input(602799218 494169337)
+
+Test case timed out: Input(880162386 653879733)
+
+Test case timed out: Input(868095112 994962872)
+
+Test case timed out: Input(622152471 448257864)
+
+Test case timed out: Input(523061914 144515354)
+
+Test case timed out: Input(596386879 356583466)
+
+Test case timed out: Input(592821498 42617080)
+
+Test case timed out: Input(647732356 84460643)
+
+Test case timed out: Input(451688701 6561)
+
+Test case timed out: Input(661983283 9)
+
+Test case timed out: Input(474026177 729)
+
+Test case timed out: Input(822957727 6561)
+
+Test case timed out: Input(286996517 27)
+
+Test case timed out: Input(321823343 19683)
+
+Test case timed out: Input(422262807 3)
+
+Test case timed out: Input(624216668 19683)
+
+Test case timed out: Input(514853447 9)
+
+Test case timed out: Input(916546405 6561)
+
+Test case passed: Input(238972792 59049) => Output(59048)
+
+Test case timed out: Input(450526186 6561)
+
+Test case timed out: Input(591892483 729)
+
+Test case timed out: Input(357780112 9)
+
+Test case timed out: Input(528551307 729)
+
+Test case passed: Input(199154351 3) => Output(2)
+
+Test case passed: Input(234899623 6561) => Output(6560)
+
+Test case timed out: Input(576449056 59049)
+
+Test case timed out: Input(508185014 3)
+
+Test case timed out: Input(969271595 9)
+
+Test case passed: Input(1 1) => Output(0)
+
+Test case passed: Input(2 9) => Output(8)
+
+Test case passed: Input(3 27) => Output(26)
+
+Test case passed: Input(2 3) => Output(2)
+
+Test case passed: Input(1 3) => Output(2)
+
+Test case passed: Input(3 9) => Output(8)
+
+Test case passed: Input(10 3) => Output(2)
+
+Test case passed: Input(4 81) => Output(80)
+
+Test case passed: Input(1 2) => Output(0)
+
+Test case passed: Input(4 27) => Output(26)
+
+Test case passed: Input(3 1) => Output(0)
+
+Test case passed: Input(3 3) => Output(2)
+

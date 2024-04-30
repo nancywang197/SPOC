@@ -112,15 +112,36 @@ def run_test_cases(code_file, test_cases_file, output_file_path):
             else:
                 outfile.write(f"Test case failed: Input({input_data}) => Output({output}), Expected({expected_output})\n\n")
 
+def include_header_in_cpp_file(cpp_file_path, header_file="CommonLibs.h"):
+    with open(cpp_file_path, 'r+') as file:
+        content = file.readlines()
+        
+        # Check if the header is already included
+        header_include = f'#include "{header_file}"\n'
+        if header_include in content:
+            print(f"The file {header_file} is already included.")
+            return
+        else:
+            content.insert(0, header_include)
+            
+        # Go to the start of the file to write the updated content
+        file.seek(0)
+        file.writelines(content)
+        print(f"Added {header_file} to {cpp_file_path}.")
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Run test cases for a given program.")
-    parser.add_argument("code_file", help="The path to the C++ code file.")
-    parser.add_argument("test_cases_file", help="The path to the test cases file.")
-    parser.add_argument("output_file", help="The path where the output will be saved.")
+    # parser = argparse.ArgumentParser(description="Run test cases for a given program.")
+    # parser.add_argument("code_file", help="The path to the C++ code file.")
+    # parser.add_argument("test_cases_file", help="The path to the test cases file.")
+    # parser.add_argument("output_file", help="The path where the output will be saved.")
 
-    args = parser.parse_args()
+    # args = parser.parse_args()
 
-    run_test_cases(args.code_file, args.test_cases_file, args.output_file)
+    # run_test_cases(args.code_file, args.test_cases_file, args.output_file)
+
+    # Replace 'path/to/your/code2.cpp' with the actual path to your cpp file
+    include_header_in_cpp_file('/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/code2_no_fix.cpp')
+
 ##########################
 
 # import subprocess

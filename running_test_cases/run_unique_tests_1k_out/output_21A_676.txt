@@ -1,0 +1,196 @@
+Test case passed: Input(mike@codeforces.com) => Output(YES)
+
+Test case passed: Input(john.smith@codeforces.ru/contest.icpc/12) => Output(NO)
+
+Test case passed: Input(test@test.ri/abacaba) => Output(YES)
+
+Test case passed: Input(@ops) => Output(NO)
+
+Test case passed: Input(this-is-the-test) => Output(NO)
+
+Test case passed: Input(mike@codeforces.commike@codeforces.com) => Output(NO)
+
+Test case passed: Input(oooop/oooop) => Output(NO)
+
+Test case passed: Input(w@S8/XU.5._R7fHq.@../e.WP!54Ey1L.9jv) => Output(NO)
+
+Test case passed: Input(lNC9D1L5U@.L!_!CcAOEEx.0z.aiW/S430sbQT) => Output(NO)
+
+Test case passed: Input(@/YTd.K1@lD) => Output(NO)
+
+Test case passed: Input(Fyi!d1l@.OesGopTnRn.81xdSb8q./MzuI) => Output(NO)
+
+Test case passed: Input(_TlPy65w/@.Vl@.8k) => Output(NO)
+
+Test case passed: Input(xpS@._s8.e0lJci/.LdiT) => Output(NO)
+
+Test case passed: Input(lGwo8.D2@.3) => Output(NO)
+
+Test case passed: Input(Ccz9T5rKZQuEerGo@6l.) => Output(NO)
+
+Test case passed: Input(Y@5nh@8.9P.Bx5AaY.1g.Tc_MK7.g_..0.) => Output(NO)
+
+Test case passed: Input(Q2/6y!SP9sG@7zIGr.Du_nR8.) => Output(NO)
+
+Test case passed: Input(eWfLL@gW!BEJUxFh@dghf.d4.FiYp/2.Pr7a/5O6zXdAkikjCEDrb) => Output(NO)
+
+Test case passed: Input(8oI/a@Q) => Output(NO)
+
+Test case passed: Input(J@Y9Gz550l@PqVZdQ!u) => Output(NO)
+
+Test case passed: Input(VTE6aTTta@DHe4xeG@6.c2R.J.O7sndWEEW.9j@.l..3Bs) => Output(NO)
+
+Test case passed: Input(aeo2XkK@UX.nQJN!Tg..wGN5YOi68U.oP2Yl3/) => Output(NO)
+
+Test case passed: Input(m13zREg8LbPr@T2.Z9@g.9u.v.A..XNH/1/tloIceXydZf3) => Output(NO)
+
+Test case passed: Input(4@@..f3ZT./oUGZ@) => Output(NO)
+
+Test case passed: Input(G.rVAxwDx@a.PVSe!KtpX4tzs/0yQGzZCPJPJoda) => Output(NO)
+
+Test case passed: Input(SV9T5RR425Sl0b@kzj.XT.PFWc..ho/VE7gjf) => Output(NO)
+
+Test case passed: Input(bgko@1../xwSj_J) => Output(NO)
+
+Test case passed: Input(n5ymLC.bE@ukio.im2../.) => Output(NO)
+
+Test case passed: Input(zr.KB_6ZMSwI2GA5@R/4iP1ZKHpszW!YN/) => Output(NO)
+
+Test case passed: Input(@alK@pR) => Output(NO)
+
+Test case passed: Input(al_Y2I4IKp@A_N.ruCw0VL/hRzJtx.S7sp/r!c.n9ffh) => Output(NO)
+
+Test case passed: Input(C1rE26_rTAVzLm@6@X5OGX.ibJ9./kkBEVlcU) => Output(NO)
+
+Test case passed: Input(feGSXP@eyUfr8.x4Re.JL.6B.r/fX_) => Output(NO)
+
+Test case passed: Input(Ht15T@50eo.E@.) => Output(NO)
+
+Test case passed: Input(k9MITs_Ar.JL2RRs4@VRq.wCuJ.6..amF.fE4.5I.6fJ7gz7) => Output(NO)
+
+Test case passed: Input(MiWPE8@fc./IViqq4T4PSUuMdhH) => Output(NO)
+
+Test case passed: Input(pxSCmv!NbMvz2@pTQ.t!.Ntz/QEh_sl) => Output(NO)
+
+Test case passed: Input(s@mH@RO_/iWD) => Output(NO)
+
+Test case passed: Input(UP51i49wX@pvx@2LWm8w/G4M3J./9L6Szy) => Output(NO)
+
+Test case passed: Input(xC_5Vx8NgF..ln@X1.drRTX..1vx.Xb3of@/PQYPeq@_y8!h_iF) => Output(NO)
+
+Test case passed: Input(qG3@LKp) => Output(YES)
+
+Test case passed: Input(flTq1knyb@2!Mtfss) => Output(NO)
+
+Test case passed: Input(/pqi7WXQPJFM4q1@hxUyUy/_pWo0n) => Output(NO)
+
+Test case passed: Input(zXme@.Dq.TWBs.fB.M) => Output(NO)
+
+Test case passed: Input(o3EaAnc3K6@h) => Output(YES)
+
+Test case passed: Input(G/AZdVMTzRLV4Ucm@eQ!..pq!..tRTi5.Ejkqa/HGpFYk) => Output(NO)
+
+Test case passed: Input(.c_V@L.1v!AFAEk7glMq.ag8Sy8@0.Qm/OLKoJpZlac) => Output(NO)
+
+Test case passed: Input(WKxNIM79u@I.RM) => Output(NO)
+
+Test case passed: Input(POTjlYcxAZsbyZPDh@sPm.z6aVaO.H1wEUhD9YvROQFUk/M_jTHS_6!) => Output(NO)
+
+Test case passed: Input(pbRIiuA@KZ2hVed2fMikA.@ebd.tE2Y) => Output(NO)
+
+Test case passed: Input(OlS_OwxYhH@im.0A7o/juNlxB) => Output(YES)
+
+Test case passed: Input(xkjHHDRBEFwgNP@G9TGStEs2Lu.BJge3EBXw3c9EfE) => Output(YES)
+
+Test case passed: Input(bK@8X7tQO.pXBHJpDewD) => Output(YES)
+
+Test case passed: Input(kKUXy6@0WefbXz39ywP.Q3r7uF) => Output(YES)
+
+Test case passed: Input(SllbRLdZ6@.T.E3x.BE2nIv.5db_.38./zgVGNjpldr) => Output(NO)
+
+Test case passed: Input(4lBJkY8c097oa@ZYmVbtiyyYN.gbj) => Output(YES)
+
+Test case passed: Input(F@JX4.SI1/0EY3XmYatfY) => Output(YES)
+
+Test case passed: Input(oLo01@B77Pu.9R.vtAZG0.HQSunv0J.) => Output(NO)
+
+Test case passed: Input(xLEctap0T@22U9W_fA/7iQeJGFu1lSgMZ) => Output(YES)
+
+Test case passed: Input(WYh@yUWfOQiF.gOK9k8aEa) => Output(YES)
+
+Test case passed: Input(BPxNVANhtEh@Oh_go.) => Output(NO)
+
+Test case passed: Input(mGIY@cHRNC8GlJ/2pcl3LYxpi3PaKGs) => Output(YES)
+
+Test case passed: Input(x6yfn7BGwqWd@.N/UXC) => Output(NO)
+
+Test case passed: Input(cUIr@cP.eGQC2xJXvI1X7) => Output(YES)
+
+Test case passed: Input(MLZ6e1vgZ4hOI@ktWk.Ro.o6C4/i8cnKHT) => Output(YES)
+
+Test case passed: Input(XCJIa@jFaP.Eu28YaoT9Z.Epk.Z/4TBzLWf724zE1r) => Output(YES)
+
+Test case passed: Input(Cz1U1xjg6iW0U@.97HoVA.YG.Qd.eI.DCXxtibi6HG.GV/0sN) => Output(NO)
+
+Test case passed: Input(nrKbWV@P0irxQoRxDsNvG/69WxCwCsfB) => Output(YES)
+
+Test case passed: Input(yI1nRv3FbuhgaI@.Y9vKe.8oc.BLi.6JfYT/tT5d36) => Output(NO)
+
+Test case passed: Input(IGsma3L6YTJRrXS@1g.yR3mC.c.xoCns7Wo1.9C.Oe.5ebkR/_97Ltj3) => Output(YES)
+
+Test case passed: Input(Uu538LDu9Bye@Gu0W0P5a.b9zA9nSaNhzB_TQ2.z/qfi5CZrH) => Output(YES)
+
+Test case passed: Input(bdHl525me@XzR_iO23v.YFXbnHUybbgw.i/WVEhm) => Output(YES)
+
+Test case passed: Input(NQsZ0K@eE8VMB.w2nYtKImB.4nUF) => Output(YES)
+
+Test case passed: Input(186@E.MmBaKLj.WYpt4wPZkzv93) => Output(YES)
+
+Test case passed: Input(hmhYxkGtWYRJFtBU@Drg3L7WKujE.lU61Ljqxv./FJ4X) => Output(NO)
+
+Test case passed: Input(t1RIUz9l3FA15@tOL9.rv.NjhouD.) => Output(NO)
+
+Test case passed: Input(_I4ytjyccT@q.WIc.Cqn) => Output(YES)
+
+Test case passed: Input(LwHHRYq@whOoq.e9b6i0xnoWBl7z.SGJiJe/iUij1x7) => Output(YES)
+
+Test case passed: Input(Yesx@9_KiJq2cBI6.) => Output(NO)
+
+Test case passed: Input(Zu5VFUtSbIw@ner5e) => Output(YES)
+
+Test case passed: Input(test@test.) => Output(NO)
+
+Test case passed: Input(test@.test) => Output(NO)
+
+Test case passed: Input(est.@test) => Output(NO)
+
+Test case passed: Input(test@test.ru/) => Output(NO)
+
+Test case passed: Input(asd@asd@) => Output(NO)
+
+Test case passed: Input(@) => Output(NO)
+
+Test case passed: Input(/) => Output(NO)
+
+Test case passed: Input(.) => Output(NO)
+
+Test case passed: Input(mike@) => Output(NO)
+
+Test case passed: Input(@mike) => Output(NO)
+
+Test case passed: Input(@mail.ru) => Output(NO)
+
+Test case passed: Input(test.me) => Output(NO)
+
+Test case passed: Input($@ru) => Output(NO)
+
+Test case passed: Input(testme@o.o.o.o.o/ooooo) => Output(YES)
+
+Test case passed: Input(oooop/oooop) => Output(NO)
+
+Test case passed: Input(mail.ru/a) => Output(NO)
+
+Test case passed: Input(mike@mail.ru/aaa) => Output(YES)
+
+Test case passed: Input(mike@mike.mike) => Output(YES)
+

@@ -1,0 +1,15 @@
+Test case passed: Input(5
+a aa aaa ab abb) => Output(2)
+
+Test case passed: Input(3
+amer arem mrea) => Output(1)
+
+Test case passed: Input(10
+bda bbb cda dca dda dcb bcd dcb ada ddd) => Output(6)
+
+Test case passed: Input(2
+fhjlqs aceginpr) => Output(2)
+
+Test case passed: Input(2
+bcdfghimn efghijlmo) => Output(2)
+

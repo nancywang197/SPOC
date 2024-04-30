@@ -1,0 +1,126 @@
+Test case passed: Input(VK) => Output(1)
+
+Test case passed: Input(VV) => Output(1)
+
+Test case passed: Input(V) => Output(0)
+
+Test case passed: Input(VKKKKKKKKKVVVVVVVVVK) => Output(3)
+
+Test case passed: Input(KVKV) => Output(1)
+
+Test case passed: Input(VKKVVVKVKVK) => Output(5)
+
+Test case passed: Input(VKVVKVKVVKVKKKKVVVVVVVVKVKVVVVVVKKVKKVKVVKVKKVVVVKV) => Output(14)
+
+Test case passed: Input(VVKKVKKVVKKVKKVKVVKKVKKVVKKVKVVKKVKKVKVVKKVVKKVKVVKKVKVVKKVVKVVKKVKKVKKVKKVKKVKVVKKVKKVKKVKKVKKVVKVK) => Output(32)
+
+Test case passed: Input(KVVKKVKVKVKVKVKKVKVKVVKVKVVKVVKVKKVKVKVKVKVKVKVKVKVKVKVKVKVKVKVVKVKVVKKVKVKK) => Output(32)
+
+Test case passed: Input(KVVVVVKKVKVVKVVVKVVVKKKVKKKVVKVKKKVKKKKVKVVVVVKKKVVVVKKVVVVKKKVKVVVVVVVKKVKVKKKVVKVVVKVVKK) => Output(21)
+
+Test case passed: Input(VVVVVKKVKVKVKVVKVVKKVVKVKKKKKKKVKKKVVVVVVKKVVVKVKVVKVKKVVKVVVKKKKKVVVVVKVVVVKVVVKKVKKVKKKVKKVKKVVKKV) => Output(25)
+
+Test case passed: Input(KKVVKVVKVVKKVVKKVKVVKKV) => Output(7)
+
+Test case passed: Input(KKVVKKVVVKKVKKVKKVVVKVVVKKVKKVVVKKVVVKVVVKVVVKKVVVKKVVVKVVVKKVVVKVVKKVVVKKVVVKKVVKVVVKKVVKKVKKVVVKKV) => Output(24)
+
+Test case passed: Input(KVKVKVKVKVKVKVKVKVKVVKVKVKVKVKVKVKVVKVKVKKVKVKVKVKVVKVKVKVKVKVKVKVKVKKVKVKVV) => Output(35)
+
+Test case passed: Input(VKVVVKKKVKVVKVKVKVKVKVV) => Output(9)
+
+Test case passed: Input(KKKKVKKVKVKVKKKVVVVKK) => Output(6)
+
+Test case passed: Input(KVKVKKVVVVVVKKKVKKKKVVVVKVKKVKVVK) => Output(9)
+
+Test case passed: Input(KKVKKVKKKVKKKVKKKVKVVVKKVVVVKKKVKKVVKVKKVKVKVKVVVKKKVKKKKKVVKVVKVVVKKVVKVVKKKKKVK) => Output(22)
+
+Test case passed: Input(VVVKVKVKVVVVVKVVVKKVVVKVVVVVKKVVKVVVKVVVKVKKKVVKVVVVVKVVVVKKVVKVKKVVKKKVKVVKVKKKKVVKVVVKKKVKVKKKKKK) => Output(25)
+
+Test case passed: Input(VKVVKVVKKKVVKVKKKVVKKKVVKVVKVVKKVKKKVKVKKKVVKVKKKVVKVVKKKVVKKKVKKKVVKKVVKKKVKVKKKVKKKVKKKVKVKKKVVKVK) => Output(29)
+
+Test case passed: Input(KKVKVVVKKVV) => Output(3)
+
+Test case passed: Input(VKVKVKVKVKVKVKVKVKVKVVKVKVKVKVKVK) => Output(16)
+
+Test case passed: Input(VVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVVKKKVV) => Output(13)
+
+Test case passed: Input(VVKKVKVKKKVVVKVVVKVKKVKKKVVVKVVKVKKVKKVKVKVVKKVVKKVKVVKKKVVKKVVVKVKVVVKVKVVKVKKVKKV) => Output(26)
+
+Test case passed: Input(VVKVKKVVKKVVKKVVKKVVKKVKKVVKVKKVVKKVVKKVVKKVVKKVVKVVKKVVKVVKKVVKVVKKVVKKVKKVVKVVKKVVKVVKKVV) => Output(26)
+
+Test case passed: Input(K) => Output(0)
+
+Test case passed: Input(VKVK) => Output(2)
+
+Test case passed: Input(VKVV) => Output(2)
+
+Test case passed: Input(KV) => Output(0)
+
+Test case passed: Input(KK) => Output(1)
+
+Test case passed: Input(KKVK) => Output(2)
+
+Test case passed: Input(KKKK) => Output(1)
+
+Test case passed: Input(KKV) => Output(1)
+
+Test case passed: Input(KKVKVK) => Output(3)
+
+Test case passed: Input(VKKVK) => Output(2)
+
+Test case passed: Input(VKKK) => Output(2)
+
+Test case passed: Input(KKK) => Output(1)
+
+Test case passed: Input(KVV) => Output(1)
+
+Test case passed: Input(KKVKV) => Output(2)
+
+Test case passed: Input(VVK) => Output(1)
+
+Test case passed: Input(VVVKVKVKVKVKVKVK) => Output(8)
+
+Test case passed: Input(KVVVK) => Output(2)
+
+Test case passed: Input(VVVKK) => Output(2)
+
+Test case passed: Input(KKVV) => Output(1)
+
+Test case passed: Input(KKKKKKK) => Output(1)
+
+Test case passed: Input(VKKKVK) => Output(3)
+
+Test case passed: Input(KKVVV) => Output(1)
+
+Test case passed: Input(VVVVVV) => Output(1)
+
+Test case passed: Input(KKKV) => Output(1)
+
+Test case passed: Input(VVKVV) => Output(2)
+
+Test case passed: Input(VKVKKK) => Output(3)
+
+Test case passed: Input(VKKV) => Output(1)
+
+Test case passed: Input(VKKVV) => Output(2)
+
+Test case passed: Input(VVKKVV) => Output(2)
+
+Test case passed: Input(KKVVKKV) => Output(2)
+
+Test case passed: Input(KKKKK) => Output(1)
+
+Test case passed: Input(VKVVKKVKKVVKVKKVKKKVKKVKVKK) => Output(10)
+
+Test case passed: Input(VKVKVV) => Output(3)
+
+Test case passed: Input(VKVVKVV) => Output(3)
+
+Test case passed: Input(VVV) => Output(1)
+
+Test case passed: Input(VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV) => Output(1)
+
+Test case passed: Input(VVKKKKKKVKK) => Output(3)
+
+Test case passed: Input(KVKVKVV) => Output(3)
+

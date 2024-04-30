@@ -1,0 +1,132 @@
+Test case passed: Input(2 2
+C M
+Y Y) => Output(#Color)
+
+Test case passed: Input(3 2
+W W
+W W
+B B) => Output(#Black&White)
+
+Test case passed: Input(1 1
+W) => Output(#Black&White)
+
+Test case passed: Input(2 3
+W W W
+B G Y) => Output(#Color)
+
+Test case passed: Input(1 1
+W) => Output(#Black&White)
+
+Test case passed: Input(5 5
+W G B Y M
+G B Y M C
+B Y M C W
+Y M C W G
+M C W G B) => Output(#Color)
+
+Test case passed: Input(1 6
+C M Y W G B) => Output(#Color)
+
+Test case passed: Input(1 3
+W G B) => Output(#Black&White)
+
+Test case passed: Input(1 1
+W) => Output(#Black&White)
+
+Test case passed: Input(5 5
+W G B W G
+G B W G B
+B W G B W
+W G B W G
+G B W G B) => Output(#Black&White)
+
+Test case passed: Input(2 3
+W W W
+B G C) => Output(#Color)
+
+Test case passed: Input(2 3
+W W W
+B G M) => Output(#Color)
+
+Test case passed: Input(3 3
+C B W
+B Y M
+B B W) => Output(#Color)
+
+Test case passed: Input(1 3
+W C W) => Output(#Color)
+
+Test case passed: Input(3 3
+B W B
+B C W
+B W W) => Output(#Color)
+
+Test case passed: Input(1 2
+W Y) => Output(#Color)
+
+Test case passed: Input(1 1
+G) => Output(#Black&White)
+
+Test case passed: Input(1 3
+B G W) => Output(#Black&White)
+
+Test case passed: Input(2 2
+W W
+B C) => Output(#Color)
+
+Test case passed: Input(1 1
+M) => Output(#Color)
+
+Test case passed: Input(1 2
+W C) => Output(#Color)
+
+Test case passed: Input(2 3
+W W M
+W W M) => Output(#Color)
+
+Test case passed: Input(3 2
+W W
+W W
+B C) => Output(#Color)
+
+Test case passed: Input(2 3
+W W C
+W W W) => Output(#Color)
+
+Test case passed: Input(1 3
+G G G) => Output(#Black&White)
+
+Test case passed: Input(1 1
+C) => Output(#Color)
+
+Test case passed: Input(1 2
+C W) => Output(#Color)
+
+Test case passed: Input(1 3
+W W C) => Output(#Color)
+
+Test case passed: Input(2 2
+W B
+B G) => Output(#Black&White)
+
+Test case passed: Input(2 2
+B B
+Y Y) => Output(#Color)
+
+Test case passed: Input(2 2
+G G
+C C) => Output(#Color)
+
+Test case passed: Input(1 2
+B C) => Output(#Color)
+
+Test case passed: Input(1 4
+G G G C) => Output(#Color)
+
+Test case passed: Input(1 1
+B) => Output(#Black&White)
+
+Test case passed: Input(2 1
+Y
+B) => Output(#Color)
+

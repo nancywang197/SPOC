@@ -1,0 +1,87 @@
+Test case passed: Input(7
+NonZERO) => Output(5)
+
+Test case passed: Input(24
+this is zero answer text) => Output(0)
+
+Test case passed: Input(24
+Harbour Space University) => Output(1)
+
+Test case passed: Input(2
+WM) => Output(2)
+
+Test case passed: Input(200
+LBmJKQLCKUgtTxMoDsEerwvLOXsxASSydOqWyULsRcjMYDWdDCgaDvBfATIWPVSXlbcCLHPYahhxMEYUiaxoCebghJqvmRnaNHYTKLeOiaLDnATPZAOgSNfBzaxLymTGjfzvTegbXsAthTxyDTcmBUkqyGlVGZhoazQzVSoKbTFcCRvYsgSCwjGMxBfWEwMHuagTBxkz) => Output(105)
+
+Test case passed: Input(199
+o A r v H e J q k J k v w Q F p O R y R Z o a K R L Z E H t X y X N y y p b x B m r R S q i A x V S u i c L y M n N X c C W Z m S j e w C w T r I S X T D F l w o k f t X u n W w p Z r A k I Y E h s g) => Output(1)
+
+Test case passed: Input(200
+hCyIdivIiISmmYIsCLbpKcTyHaOgTUQEwnQACXnrLdHAVFLtvliTEMlzBVzTesQbhXmcqvwPDeojglBMIjOXANfyQxCSjOJyO SIqOTnRzVzseGIDDYNtrwIusScWSuEhPyEmgQIVEzXofRptjeMzzhtUQxJgcUWILUhEaaRmYRBVsjoqgmyPIKwSajdlNPccOOtWrez) => Output(50)
+
+Test case passed: Input(1
+e) => Output(0)
+
+Test case passed: Input(1
+A) => Output(1)
+
+Test case passed: Input(200
+ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ ABCDEFGHIJ KLMNOPRSTU KLMNOPRSTU KLMNOPRSTU VWXYZABCDE KLMNOPRSTU KLMNOPRSTU KLMNOPRSTU KLMNOPRSTU KZ) => Output(10)
+
+Test case passed: Input(200
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA) => Output(200)
+
+Test case passed: Input(200
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff) => Output(0)
+
+Test case passed: Input(24
+Harbour Space UniversitY) => Output(2)
+
+Test case passed: Input(5
+aA AA) => Output(2)
+
+Test case passed: Input(10
+as AS ASDA) => Output(4)
+
+Test case passed: Input(10
+as AS ASDZ) => Output(4)
+
+Test case passed: Input(3
+a A) => Output(1)
+
+Test case passed: Input(24
+Harbour space UniversitY) => Output(2)
+
+Test case passed: Input(10
+as AS ASAa) => Output(3)
+
+Test case passed: Input(15
+aAb ABCDFGRHTJS) => Output(11)
+
+Test case passed: Input(53
+sdfAZEZR AZE dfdf dsdRFGSDF ZZDZSD dfsd ERBGF dsfsdfR) => Output(6)
+
+Test case passed: Input(10
+ABC ABc AB) => Output(3)
+
+Test case passed: Input(10
+A c de CDE) => Output(3)
+
+Test case passed: Input(4
+A AB) => Output(2)
+
+Test case passed: Input(18
+HARbour Space UNIV) => Output(4)
+
+Test case passed: Input(13
+a b c d e f A) => Output(1)
+
+Test case passed: Input(6
+A B CA) => Output(2)
+
+Test case passed: Input(4
+aa A) => Output(1)
+
+Test case passed: Input(3
+A a) => Output(1)
+

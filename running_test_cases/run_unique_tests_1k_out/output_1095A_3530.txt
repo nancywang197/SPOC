@@ -1,0 +1,24 @@
+Test case passed: Input(6
+baabbb) => Output(bab)
+
+Test case passed: Input(10
+ooopppssss) => Output(oops)
+
+Test case passed: Input(1
+z) => Output(z)
+
+Test case passed: Input(3
+zww) => Output(zw)
+
+Test case passed: Input(55
+cooooonnnnttttteeeeeeeeeeeeessssssssttttttttttttttttttt) => Output(coonteestt)
+
+Test case passed: Input(21
+coodddeeeecccccoooooo) => Output(codeco)
+
+Test case passed: Input(55
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(aaaaaaaaaa)
+
+Test case passed: Input(36
+abbcccddddeeeeeffffffggggggghhhhhhhh) => Output(abcdefgh)
+

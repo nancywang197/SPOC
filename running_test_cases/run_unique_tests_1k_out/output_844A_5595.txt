@@ -1,0 +1,96 @@
+Test case passed: Input(yandex
+6) => Output(0)
+
+Test case passed: Input(yahoo
+5) => Output(1)
+
+Test case passed: Input(google
+7) => Output(impossible)
+
+Test case passed: Input(a
+1) => Output(0)
+
+Test case passed: Input(z
+2) => Output(impossible)
+
+Test case passed: Input(fwgfrwgkuwghfiruhewgirueguhergiqrbvgrgf
+26) => Output(14)
+
+Test case passed: Input(nfevghreuoghrueighoqghbnebvnejbvnbgneluqe
+26) => Output(12)
+
+Test case passed: Input(a
+3) => Output(impossible)
+
+Test case passed: Input(smaxpqplaqqbxuqxalqmbmmgubbpspxhawbxsuqhhegpmmpebqmqpbbeplwaepxmsahuepuhuhwxeqmmlgqubuaxehwuwasgxpqmugbmuawuhwqlswllssueglbxepbmwgs
+1) => Output(0)
+
+Test case passed: Input(cuguccgcugcugucgggggcgcgucgucugcuuuccccuugccg
+4) => Output(1)
+
+Test case passed: Input(fcfccfcfccfcfcffcffffffcfccfccfcffccccfcffffccfccfcffcfcccccffcfffcccffcfccfffffcccfccffffffccfccccf
+20) => Output(18)
+
+Test case passed: Input(swmkwaruyv
+5) => Output(0)
+
+Test case passed: Input(tnbqpsuhkczmejirvyfdolxwga
+22) => Output(0)
+
+Test case passed: Input(abcde
+3) => Output(0)
+
+Test case passed: Input(abb
+1) => Output(0)
+
+Test case passed: Input(aaaa
+1) => Output(0)
+
+Test case passed: Input(abcde
+2) => Output(0)
+
+Test case passed: Input(yandex
+4) => Output(0)
+
+Test case passed: Input(aaabbbccc
+1) => Output(0)
+
+Test case passed: Input(abcd
+2) => Output(0)
+
+Test case passed: Input(asdfgh
+2) => Output(0)
+
+Test case passed: Input(aab
+1) => Output(0)
+
+Test case passed: Input(mynameissako
+5) => Output(0)
+
+Test case passed: Input(abcde
+1) => Output(0)
+
+Test case passed: Input(abcd
+3) => Output(0)
+
+Test case passed: Input(abcdef
+2) => Output(0)
+
+Test case passed: Input(abcdefg
+4) => Output(0)
+
+Test case passed: Input(abc
+1) => Output(0)
+
+Test case passed: Input(asdafjsgljdllgjdgkl
+5) => Output(0)
+
+Test case passed: Input(yaay
+3) => Output(1)
+
+Test case passed: Input(yaay
+4) => Output(2)
+
+Test case passed: Input(zzzzzz
+2) => Output(1)
+

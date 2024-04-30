@@ -1,0 +1,76 @@
+Test case passed: Input(ee) => Output(2)
+
+Test case passed: Input(z) => Output(0)
+
+Test case passed: Input(0ay1) => Output(2)
+
+Test case passed: Input(0abcdefghijklmnopqrstuvwxyz1234567896) => Output(10)
+
+Test case passed: Input(0a0a9e9e2i2i9o9o6u6u9z9z4x4x9b9b) => Output(18)
+
+Test case passed: Input(01234567890123456789012345678901234567890123456789) => Output(25)
+
+Test case passed: Input(qwertyuioplkjhgfdsazxcvbnmqwertyuioplkjhgfdsazxcvb) => Output(10)
+
+Test case passed: Input(cjw2dwmr10pku4yxohe0wglktd) => Output(4)
+
+Test case passed: Input(6z2tx805jie8cfybwtfqvmlveec3iak5z5u3lu62vbxyqht6) => Output(13)
+
+Test case passed: Input(kaq7jyialrfp4ilkni90eq8v3amcbygon7py0hb8z26fbl8ss1) => Output(13)
+
+Test case passed: Input(hpwn50zgbmct80k9rizjqg40nycgs0acwikjqt11nr6m61krfs) => Output(8)
+
+Test case passed: Input(l3rw91a4m25l8iytxyeuixsegzcbm4h41ornf3pixkrmwznrzc) => Output(14)
+
+Test case passed: Input(2222) => Output(0)
+
+Test case passed: Input(13579) => Output(5)
+
+Test case passed: Input(1) => Output(1)
+
+Test case passed: Input(0) => Output(0)
+
+Test case passed: Input(a) => Output(1)
+
+Test case passed: Input(y) => Output(0)
+
+Test case passed: Input(w) => Output(0)
+
+Test case passed: Input(oo) => Output(2)
+
+Test case passed: Input(oy) => Output(1)
+
+Test case passed: Input(yo) => Output(1)
+
+Test case passed: Input(yy) => Output(0)
+
+Test case passed: Input(a0) => Output(1)
+
+Test case passed: Input(a9) => Output(2)
+
+Test case passed: Input(y0) => Output(0)
+
+Test case passed: Input(y7) => Output(1)
+
+Test case passed: Input(0a) => Output(1)
+
+Test case passed: Input(3a) => Output(2)
+
+Test case passed: Input(06) => Output(0)
+
+Test case passed: Input(07) => Output(1)
+
+Test case passed: Input(70) => Output(1)
+
+Test case passed: Input(77) => Output(2)
+
+Test case passed: Input(13570) => Output(4)
+
+Test case passed: Input(0000000000011111) => Output(5)
+
+Test case passed: Input(1357) => Output(4)
+
+Test case passed: Input(uuuuuuuuuuuuuuuuuu) => Output(18)
+
+Test case passed: Input(gabieurat) => Output(5)
+

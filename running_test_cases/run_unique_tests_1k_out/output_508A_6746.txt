@@ -1,0 +1,104 @@
+Test case passed: Input(2 2 4
+1 1
+1 2
+2 1
+2 2) => Output(4)
+
+Test case passed: Input(2 3 6
+2 3
+2 2
+1 3
+2 2
+1 2
+1 1) => Output(5)
+
+Test case passed: Input(5 3 7
+2 3
+1 2
+1 1
+4 1
+3 1
+5 3
+3 2) => Output(0)
+
+Test case passed: Input(3 3 11
+2 1
+3 1
+1 1
+1 3
+1 2
+2 3
+3 3
+3 2
+2 2
+1 3
+3 3) => Output(9)
+
+Test case passed: Input(2 2 5
+1 1
+2 1
+2 1
+1 2
+2 2) => Output(5)
+
+Test case passed: Input(518 518 10
+37 97
+47 278
+17 467
+158 66
+483 351
+83 123
+285 219
+513 187
+380 75
+304 352) => Output(0)
+
+Test case passed: Input(1 1 5
+1 1
+1 1
+1 1
+1 1
+1 1) => Output(0)
+
+Test case passed: Input(1 5 5
+1 1
+1 2
+1 3
+1 4
+1 5) => Output(0)
+
+Test case passed: Input(5 1 5
+1 1
+2 1
+3 1
+4 1
+5 1) => Output(0)
+
+Test case passed: Input(1 1 1
+1 1) => Output(0)
+
+Test case passed: Input(10 10 4
+5 9
+6 9
+6 10
+5 10) => Output(4)
+
+Test case passed: Input(1000 1000 4
+999 999
+999 1000
+1000 999
+1000 1000) => Output(4)
+
+Test case passed: Input(2 3 5
+2 3
+1 3
+1 2
+1 1
+2 2) => Output(5)
+
+Test case passed: Input(1000 1000 4
+1000 1000
+999 999
+1000 999
+999 1000) => Output(4)
+

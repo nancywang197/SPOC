@@ -1,0 +1,108 @@
+Test case passed: Input(rock
+rock
+rock) => Output(?)
+
+Test case passed: Input(paper
+rock
+rock) => Output(F)
+
+Test case passed: Input(scissors
+rock
+rock) => Output(?)
+
+Test case passed: Input(scissors
+paper
+rock) => Output(?)
+
+Test case passed: Input(paper
+paper
+rock) => Output(?)
+
+Test case passed: Input(rock
+paper
+rock) => Output(M)
+
+Test case passed: Input(rock
+scissors
+rock) => Output(?)
+
+Test case passed: Input(paper
+scissors
+rock) => Output(?)
+
+Test case passed: Input(scissors
+scissors
+rock) => Output(S)
+
+Test case passed: Input(rock
+rock
+paper) => Output(S)
+
+Test case passed: Input(paper
+rock
+paper) => Output(?)
+
+Test case passed: Input(scissors
+rock
+paper) => Output(?)
+
+Test case passed: Input(rock
+paper
+paper) => Output(?)
+
+Test case passed: Input(paper
+paper
+paper) => Output(?)
+
+Test case passed: Input(scissors
+paper
+paper) => Output(F)
+
+Test case passed: Input(rock
+scissors
+paper) => Output(?)
+
+Test case passed: Input(paper
+scissors
+paper) => Output(M)
+
+Test case passed: Input(scissors
+scissors
+paper) => Output(?)
+
+Test case passed: Input(rock
+rock
+scissors) => Output(?)
+
+Test case passed: Input(paper
+rock
+scissors) => Output(?)
+
+Test case passed: Input(scissors
+rock
+scissors) => Output(M)
+
+Test case passed: Input(rock
+paper
+scissors) => Output(?)
+
+Test case passed: Input(paper
+paper
+scissors) => Output(S)
+
+Test case passed: Input(scissors
+paper
+scissors) => Output(?)
+
+Test case passed: Input(rock
+scissors
+scissors) => Output(F)
+
+Test case passed: Input(paper
+scissors
+scissors) => Output(?)
+
+Test case passed: Input(scissors
+scissors
+scissors) => Output(?)
+

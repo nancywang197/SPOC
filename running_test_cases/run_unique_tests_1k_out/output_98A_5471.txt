@@ -1,0 +1,96 @@
+Test case passed: Input(YYYYYY) => Output(1)
+
+Test case passed: Input(BOOOOB) => Output(2)
+
+Test case passed: Input(ROYGBV) => Output(30)
+
+Test case passed: Input(RRRRRR) => Output(1)
+
+Test case passed: Input(BOOOOO) => Output(1)
+
+Test case passed: Input(GOGGVG) => Output(2)
+
+Test case passed: Input(GRBYVO) => Output(30)
+
+Test case passed: Input(BYOVRR) => Output(15)
+
+Test case passed: Input(VOVRBV) => Output(5)
+
+Test case passed: Input(GVGBVO) => Output(8)
+
+Test case passed: Input(BOBGBB) => Output(2)
+
+Test case passed: Input(OOYYBY) => Output(3)
+
+Test case passed: Input(VVRVVV) => Output(1)
+
+Test case passed: Input(YBBVVY) => Output(6)
+
+Test case passed: Input(GYYGGG) => Output(2)
+
+Test case passed: Input(BRRBRB) => Output(2)
+
+Test case passed: Input(OOOOOO) => Output(1)
+
+Test case passed: Input(OVBRYG) => Output(30)
+
+Test case passed: Input(VOBYGO) => Output(15)
+
+Test case passed: Input(VRRYGR) => Output(5)
+
+Test case passed: Input(VOBVYB) => Output(8)
+
+Test case passed: Input(YYYYRB) => Output(2)
+
+Test case passed: Input(RYYYVV) => Output(3)
+
+Test case passed: Input(YYYYYG) => Output(1)
+
+Test case passed: Input(OBORBR) => Output(6)
+
+Test case passed: Input(RRRGRG) => Output(2)
+
+Test case passed: Input(VYYYVV) => Output(2)
+
+Test case passed: Input(YYYYYY) => Output(1)
+
+Test case passed: Input(YROVBG) => Output(30)
+
+Test case passed: Input(RYGOBG) => Output(15)
+
+Test case passed: Input(BGRGGV) => Output(5)
+
+Test case passed: Input(BVRYBV) => Output(8)
+
+Test case passed: Input(RRBYRR) => Output(2)
+
+Test case passed: Input(GGGYYB) => Output(3)
+
+Test case passed: Input(BBBBBY) => Output(1)
+
+Test case passed: Input(RRYYOO) => Output(6)
+
+Test case passed: Input(YYYRRY) => Output(2)
+
+Test case passed: Input(OGGOOG) => Output(2)
+
+Test case passed: Input(GYYBRO) => Output(15)
+
+Test case passed: Input(VORBOR) => Output(8)
+
+Test case passed: Input(RRRGGB) => Output(3)
+
+Test case passed: Input(BBOOYY) => Output(6)
+
+Test case passed: Input(YYBBOO) => Output(6)
+
+Test case passed: Input(OBRRYY) => Output(8)
+
+Test case passed: Input(ROYYGG) => Output(8)
+
+Test case passed: Input(RRGGYY) => Output(6)
+
+Test case passed: Input(RROOYY) => Output(6)
+
+Test case passed: Input(RRYOGB) => Output(15)
+

@@ -1,0 +1,191 @@
+Test case passed: Input(3 4
+S...
+....
+..S.) => Output(8)
+
+Test case passed: Input(2 2
+..
+..) => Output(4)
+
+Test case passed: Input(2 2
+SS
+SS) => Output(0)
+
+Test case passed: Input(7 3
+S..
+S..
+S..
+S..
+S..
+S..
+S..) => Output(14)
+
+Test case passed: Input(3 5
+..S..
+SSSSS
+..S..) => Output(0)
+
+Test case passed: Input(10 10
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS
+SSSSSSSSSS) => Output(0)
+
+Test case passed: Input(10 10
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS
+S...SSSSSS) => Output(30)
+
+Test case passed: Input(10 10
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..
+....S..S..) => Output(80)
+
+Test case passed: Input(9 5
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS) => Output(0)
+
+Test case passed: Input(9 9
+...S.....
+S.S.....S
+.S....S..
+.S.....SS
+.........
+..S.S..S.
+.SS......
+....S....
+..S...S..) => Output(17)
+
+Test case passed: Input(5 6
+SSSSSS
+SSSSSS
+SSSSSS
+SS.S..
+S.S.SS) => Output(0)
+
+Test case passed: Input(9 8
+........
+.......S
+........
+S.......
+........
+........
+S.......
+........
+.......S) => Output(64)
+
+Test case passed: Input(9 7
+......S
+......S
+S.S.S..
+.......
+.......
+.S.....
+.S....S
+..S....
+.S....S) => Output(28)
+
+Test case passed: Input(10 10
+.....S....
+....SS..S.
+.S...S....
+........SS
+.S.......S
+SS..S.....
+.SS.....SS
+S..S......
+.......SSS
+SSSSS....S) => Output(10)
+
+Test case passed: Input(6 7
+..S.SS.
+......S
+....S.S
+SS..S..
+S..SS.S
+.....S.) => Output(0)
+
+Test case passed: Input(10 6
+.SSSSS
+SSS.SS
+SSSSSS
+S.SSSS
+SSSSS.
+S.SSSS
+SS.SSS
+.SSS.S
+.SSS..
+SS..SS) => Output(0)
+
+Test case passed: Input(2 2
+..
+..) => Output(4)
+
+Test case passed: Input(3 2
+S.
+.S
+S.) => Output(0)
+
+Test case passed: Input(3 2
+S.
+.S
+S.) => Output(0)
+
+Test case passed: Input(4 3
+.S.
+S.S
+.S.
+S.S) => Output(0)
+
+Test case passed: Input(2 3
+...
+SSS) => Output(3)
+
+Test case passed: Input(2 4
+S.SS
+S.SS) => Output(2)
+
+Test case passed: Input(2 2
+..
+.S) => Output(3)
+
+Test case passed: Input(3 2
+.S
+.S
+SS) => Output(0)
+
+Test case passed: Input(2 4
+SS.S
+..S.) => Output(0)
+
+Test case passed: Input(2 3
+...
+S..) => Output(5)
+

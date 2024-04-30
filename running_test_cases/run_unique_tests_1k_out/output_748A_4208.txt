@@ -1,0 +1,92 @@
+Test case passed: Input(4 3 9) => Output(2 2 L)
+
+Test case passed: Input(4 3 24) => Output(4 3 R)
+
+Test case passed: Input(2 4 4) => Output(1 2 R)
+
+Test case passed: Input(3 10 24) => Output(2 2 R)
+
+Test case passed: Input(10 3 59) => Output(10 3 L)
+
+Test case passed: Input(10000 10000 160845880) => Output(8043 2940 R)
+
+Test case passed: Input(1 1 1) => Output(1 1 L)
+
+Test case passed: Input(1 1 2) => Output(1 1 R)
+
+Test case passed: Input(1 10000 1) => Output(1 1 L)
+
+Test case passed: Input(1 10000 20000) => Output(1 10000 R)
+
+Test case passed: Input(10000 1 1) => Output(1 1 L)
+
+Test case passed: Input(10000 1 10000) => Output(5000 1 R)
+
+Test case passed: Input(10000 1 20000) => Output(10000 1 R)
+
+Test case passed: Input(3 2 1) => Output(1 1 L)
+
+Test case passed: Input(3 2 2) => Output(1 1 R)
+
+Test case passed: Input(3 2 3) => Output(1 2 L)
+
+Test case passed: Input(3 2 4) => Output(1 2 R)
+
+Test case passed: Input(3 2 5) => Output(2 1 L)
+
+Test case passed: Input(3 2 6) => Output(2 1 R)
+
+Test case passed: Input(3 2 7) => Output(2 2 L)
+
+Test case passed: Input(3 2 8) => Output(2 2 R)
+
+Test case passed: Input(3 2 9) => Output(3 1 L)
+
+Test case passed: Input(3 2 10) => Output(3 1 R)
+
+Test case passed: Input(3 2 11) => Output(3 2 L)
+
+Test case passed: Input(3 2 12) => Output(3 2 R)
+
+Test case passed: Input(300 2000 1068628) => Output(268 314 R)
+
+Test case passed: Input(300 2000 584756) => Output(147 378 R)
+
+Test case passed: Input(300 2000 268181) => Output(68 91 L)
+
+Test case passed: Input(10000 9999 186450844) => Output(9324 4745 R)
+
+Test case passed: Input(10000 9999 197114268) => Output(9857 6990 R)
+
+Test case passed: Input(10000 9999 112390396) => Output(5621 818 R)
+
+Test case passed: Input(10000 10000 1) => Output(1 1 L)
+
+Test case passed: Input(10000 10000 2) => Output(1 1 R)
+
+Test case passed: Input(10000 10000 100000001) => Output(5001 1 L)
+
+Test case passed: Input(10000 10000 199999999) => Output(10000 10000 L)
+
+Test case passed: Input(10000 10000 200000000) => Output(10000 10000 R)
+
+Test case passed: Input(1 2 1) => Output(1 1 L)
+
+Test case passed: Input(1 2 2) => Output(1 1 R)
+
+Test case passed: Input(1 2 3) => Output(1 2 L)
+
+Test case passed: Input(1 2 4) => Output(1 2 R)
+
+Test case passed: Input(2 1 1) => Output(1 1 L)
+
+Test case passed: Input(2 1 2) => Output(1 1 R)
+
+Test case passed: Input(2 1 3) => Output(2 1 L)
+
+Test case passed: Input(2 1 4) => Output(2 1 R)
+
+Test case passed: Input(4 3 7) => Output(2 1 L)
+
+Test case passed: Input(1 1 1) => Output(1 1 L)
+

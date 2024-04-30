@@ -1,0 +1,102 @@
+Test case passed: Input(2
+aazz) => Output(azaz)
+
+Test case passed: Input(3
+abcabcabz) => Output(-1)
+
+Test case passed: Input(1
+a) => Output(a)
+
+Test case passed: Input(2
+abba) => Output(abab)
+
+Test case passed: Input(2
+aaab) => Output(-1)
+
+Test case passed: Input(7
+abacaba) => Output(-1)
+
+Test case passed: Input(5
+aaaaa) => Output(aaaaa)
+
+Test case passed: Input(3
+aabaaaaabb) => Output(-1)
+
+Test case passed: Input(2
+aaab) => Output(-1)
+
+Test case passed: Input(2
+babac) => Output(-1)
+
+Test case passed: Input(3
+bbbccc) => Output(bcbcbc)
+
+Test case passed: Input(2
+aa) => Output(aa)
+
+Test case passed: Input(250
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece) => Output(cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece)
+
+Test case passed: Input(15
+abaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaaabaabbbcababaaa) => Output(aaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbcaaaaaaaabbbbbbc)
+
+Test case passed: Input(1
+aaa) => Output(aaa)
+
+Test case passed: Input(1
+aabaab) => Output(aaaabb)
+
+Test case passed: Input(2
+aabbbbccccccdddddddd) => Output(abbcccddddabbcccdddd)
+
+Test case passed: Input(3
+aaaaaaaaacccdddddd) => Output(aaacddaaacddaaacdd)
+
+Test case passed: Input(3
+aaaaaaaaacccbbbbbb) => Output(aaabbcaaabbcaaabbc)
+
+Test case passed: Input(2
+aazzzz) => Output(azzazz)
+
+Test case passed: Input(2
+aaaa) => Output(aaaa)
+
+Test case passed: Input(2
+aaaazz) => Output(aazaaz)
+
+Test case passed: Input(2
+aaaabb) => Output(aabaab)
+
+Test case passed: Input(2
+aabbbb) => Output(abbabb)
+
+Test case passed: Input(2
+aaaazzzz) => Output(aazzaazz)
+
+Test case passed: Input(2
+aaazz) => Output(-1)
+
+Test case passed: Input(2
+bbbbaa) => Output(abbabb)
+
+Test case passed: Input(2
+aaaaaabbbb) => Output(aaabbaaabb)
+
+Test case passed: Input(2
+aaaaaazz) => Output(aaazaaaz)
+
+Test case passed: Input(2
+aaaabbbb) => Output(aabbaabb)
+
+Test case passed: Input(2
+aabaab) => Output(aabaab)
+
+Test case passed: Input(1
+aaaaa) => Output(aaaaa)
+
+Test case passed: Input(2
+bbaaaa) => Output(aabaab)
+
+Test case passed: Input(2
+acaccc) => Output(accacc)
+

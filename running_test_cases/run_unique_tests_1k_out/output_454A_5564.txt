@@ -1,0 +1,68 @@
+Test case passed: Input(3) => Output(*D*
+DDD
+*D*)
+
+Test case passed: Input(5) => Output(**D**
+*DDD*
+DDDDD
+*DDD*
+**D**)
+
+Test case passed: Input(7) => Output(***D***
+**DDD**
+*DDDDD*
+DDDDDDD
+*DDDDD*
+**DDD**
+***D***)
+
+Test case passed: Input(11) => Output(*****D*****
+****DDD****
+***DDDDD***
+**DDDDDDD**
+*DDDDDDDDD*
+DDDDDDDDDDD
+*DDDDDDDDD*
+**DDDDDDD**
+***DDDDD***
+****DDD****
+*****D*****)
+
+Test case passed: Input(15) => Output(*******D*******
+******DDD******
+*****DDDDD*****
+****DDDDDDD****
+***DDDDDDDDD***
+**DDDDDDDDDDD**
+*DDDDDDDDDDDDD*
+DDDDDDDDDDDDDDD
+*DDDDDDDDDDDDD*
+**DDDDDDDDDDD**
+***DDDDDDDDD***
+****DDDDDDD****
+*****DDDDD*****
+******DDD******
+*******D*******)
+
+Test case passed: Input(21) => Output(**********D**********
+*********DDD*********
+********DDDDD********
+*******DDDDDDD*******
+******DDDDDDDDD******
+*****DDDDDDDDDDD*****
+****DDDDDDDDDDDDD****
+***DDDDDDDDDDDDDDD***
+**DDDDDDDDDDDDDDDDD**
+*DDDDDDDDDDDDDDDDDDD*
+DDDDDDDDDDDDDDDDDDDDD
+*DDDDDDDDDDDDDDDDDDD*
+**DDDDDDDDDDDDDDDDD**
+***DDDDDDDDDDDDDDD***
+****DDDDDDDDDDDDD****
+*****DDDDDDDDDDD*****
+******DDDDDDDDD******
+*******DDDDDDD*******
+********DDDDD********
+*********DDD*********
+**********D**********)
+

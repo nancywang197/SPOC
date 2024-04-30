@@ -1,0 +1,105 @@
+Test case passed: Input([]()[]8<
+8<[]()8<) => Output(TEAM 2 WINS)
+
+Test case passed: Input(8<8<()
+[]8<[]) => Output(TIE)
+
+Test case passed: Input(()
+[]) => Output(TEAM 2 WINS)
+
+Test case passed: Input(()
+8<) => Output(TEAM 1 WINS)
+
+Test case passed: Input(8<
+[]) => Output(TEAM 1 WINS)
+
+Test case passed: Input([]8<()()()()8<8<8<[]
+()()[][][]8<[]()8<8<) => Output(TEAM 2 WINS)
+
+Test case passed: Input(()[]()()()
+[]()[][]8<) => Output(TEAM 2 WINS)
+
+Test case passed: Input(()
+8<) => Output(TEAM 1 WINS)
+
+Test case passed: Input(()[][]()()[][]()8<8<
+8<[]()()()8<[][]()()) => Output(TEAM 2 WINS)
+
+Test case passed: Input(()[][]8<
+8<()8<()) => Output(TIE)
+
+Test case passed: Input(8<()8<8<8<8<()8<
+[]()()8<()[][][]) => Output(TIE)
+
+Test case passed: Input([][]8<8<8<8<
+8<[][]()8<()) => Output(TEAM 2 WINS)
+
+Test case passed: Input([]
+()) => Output(TEAM 1 WINS)
+
+Test case passed: Input(8<8<8<[]
+[][][][]) => Output(TEAM 1 WINS)
+
+Test case passed: Input([][]8<[][]8<[]()()()
+()()[][]8<[]()8<[][]) => Output(TEAM 1 WINS)
+
+Test case passed: Input([]8<8<[]
+[]8<()[]) => Output(TEAM 2 WINS)
+
+Test case passed: Input([]
+[]) => Output(TIE)
+
+Test case passed: Input([]8<[]()()()[]
+8<[]8<()8<()8<) => Output(TEAM 2 WINS)
+
+Test case passed: Input([]()()()8<[]8<[]
+[][]8<[]()[][][]) => Output(TEAM 2 WINS)
+
+Test case passed: Input(8<()8<[]
+()[][]()) => Output(TIE)
+
+Test case passed: Input(()[]()()8<[]8<[]
+()()()8<8<()8<[]) => Output(TEAM 1 WINS)
+
+Test case passed: Input(8<()()()8<8<
+[]8<()()[][]) => Output(TEAM 1 WINS)
+
+Test case passed: Input(()[]()()
+()()[]()) => Output(TIE)
+
+Test case passed: Input([]8<[]8<[]()
+8<[]8<8<[]8<) => Output(TIE)
+
+Test case passed: Input(8<()()[]()[]
+8<8<8<8<[][]) => Output(TIE)
+
+Test case passed: Input([][]()[]
+[]8<8<[]) => Output(TIE)
+
+Test case passed: Input([]()
+()()) => Output(TEAM 1 WINS)
+
+Test case passed: Input(()()()()8<()()()8<
+()[][][]8<()[][][]) => Output(TEAM 2 WINS)
+
+Test case passed: Input([]8<
+8<()) => Output(TEAM 2 WINS)
+
+Test case passed: Input(8<8<8<
+[]()8<) => Output(TIE)
+
+Test case passed: Input([]
+[]) => Output(TIE)
+
+Test case passed: Input(()
+()) => Output(TIE)
+
+Test case passed: Input(8<
+8<) => Output(TIE)
+
+Test case passed: Input(()
+[]) => Output(TEAM 2 WINS)
+
+Test case passed: Input(8<
+[]) => Output(TEAM 1 WINS)
+

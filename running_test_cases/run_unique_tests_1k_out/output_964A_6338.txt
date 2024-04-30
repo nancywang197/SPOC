@@ -1,0 +1,126 @@
+Test case passed: Input(7) => Output(4)
+
+Test case passed: Input(8) => Output(5)
+
+Test case passed: Input(9) => Output(5)
+
+Test case passed: Input(1) => Output(1)
+
+Test case passed: Input(286) => Output(144)
+
+Test case passed: Input(48) => Output(25)
+
+Test case passed: Input(941) => Output(471)
+
+Test case passed: Input(45154) => Output(22578)
+
+Test case passed: Input(60324) => Output(30163)
+
+Test case passed: Input(91840) => Output(45921)
+
+Test case passed: Input(41909) => Output(20955)
+
+Test case passed: Input(58288) => Output(29145)
+
+Test case passed: Input(91641) => Output(45821)
+
+Test case passed: Input(62258) => Output(31130)
+
+Test case passed: Input(79811) => Output(39906)
+
+Test case passed: Input(88740) => Output(44371)
+
+Test case passed: Input(12351) => Output(6176)
+
+Test case passed: Input(1960) => Output(981)
+
+Test case passed: Input(29239) => Output(14620)
+
+Test case passed: Input(85801) => Output(42901)
+
+Test case passed: Input(43255) => Output(21628)
+
+Test case passed: Input(13439) => Output(6720)
+
+Test case passed: Input(35668) => Output(17835)
+
+Test case passed: Input(19122) => Output(9562)
+
+Test case passed: Input(60169) => Output(30085)
+
+Test case passed: Input(50588) => Output(25295)
+
+Test case passed: Input(2467) => Output(1234)
+
+Test case passed: Input(39315) => Output(19658)
+
+Test case passed: Input(29950) => Output(14976)
+
+Test case passed: Input(17286) => Output(8644)
+
+Test case passed: Input(7359066) => Output(3679534)
+
+Test case passed: Input(1016391) => Output(508196)
+
+Test case passed: Input(7928871) => Output(3964436)
+
+Test case passed: Input(3968891) => Output(1984446)
+
+Test case passed: Input(2636452) => Output(1318227)
+
+Test case passed: Input(5076901) => Output(2538451)
+
+Test case passed: Input(9870265) => Output(4935133)
+
+Test case passed: Input(2453786) => Output(1226894)
+
+Test case passed: Input(7263670) => Output(3631836)
+
+Test case passed: Input(1890845) => Output(945423)
+
+Test case passed: Input(574128507) => Output(287064254)
+
+Test case passed: Input(648476655) => Output(324238328)
+
+Test case passed: Input(97349542) => Output(48674772)
+
+Test case passed: Input(716489761) => Output(358244881)
+
+Test case passed: Input(858771038) => Output(429385520)
+
+Test case passed: Input(520778784) => Output(260389393)
+
+Test case passed: Input(439004204) => Output(219502103)
+
+Test case passed: Input(589992198) => Output(294996100)
+
+Test case passed: Input(371106544) => Output(185553273)
+
+Test case passed: Input(894241590) => Output(447120796)
+
+Test case passed: Input(123957268) => Output(61978635)
+
+Test case passed: Input(234149297) => Output(117074649)
+
+Test case passed: Input(789954052) => Output(394977027)
+
+Test case passed: Input(667978920) => Output(333989461)
+
+Test case passed: Input(154647261) => Output(77323631)
+
+Test case passed: Input(751453521) => Output(375726761)
+
+Test case passed: Input(848862308) => Output(424431155)
+
+Test case passed: Input(323926781) => Output(161963391)
+
+Test case passed: Input(576768825) => Output(288384413)
+
+Test case passed: Input(31293802) => Output(15646902)
+
+Test case passed: Input(2) => Output(2)
+
+Test case passed: Input(1000000000) => Output(500000001)
+
+Test case passed: Input(3) => Output(2)
+

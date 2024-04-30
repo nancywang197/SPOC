@@ -1,0 +1,180 @@
+Test case passed: Input(5 1
+10 5) => Output(YES)
+
+Test case passed: Input(4 5
+3 3) => Output(YES)
+
+Test case passed: Input(1 2
+11 6) => Output(NO)
+
+Test case passed: Input(1 1
+1 1) => Output(YES)
+
+Test case passed: Input(2 2
+1 1) => Output(YES)
+
+Test case passed: Input(3 3
+1 1) => Output(NO)
+
+Test case passed: Input(4 4
+1 1) => Output(NO)
+
+Test case passed: Input(100 100
+50 50) => Output(NO)
+
+Test case passed: Input(100 3
+4 1) => Output(YES)
+
+Test case passed: Input(100 5
+1 1) => Output(NO)
+
+Test case passed: Input(100 4
+1 1) => Output(NO)
+
+Test case passed: Input(100 1
+4 1) => Output(YES)
+
+Test case passed: Input(1 100
+1 4) => Output(YES)
+
+Test case passed: Input(1 100
+5 4) => Output(YES)
+
+Test case passed: Input(1 100
+1 5) => Output(NO)
+
+Test case passed: Input(43 100
+65 24) => Output(NO)
+
+Test case passed: Input(4 2
+12 1) => Output(NO)
+
+Test case passed: Input(6 11
+13 11) => Output(YES)
+
+Test case passed: Input(2 6
+12 12) => Output(YES)
+
+Test case passed: Input(14 7
+2 9) => Output(NO)
+
+Test case passed: Input(1 14
+7 14) => Output(NO)
+
+Test case passed: Input(6 11
+2 10) => Output(YES)
+
+Test case passed: Input(5 12
+13 11) => Output(YES)
+
+Test case passed: Input(15 1
+11 9) => Output(NO)
+
+Test case passed: Input(7 12
+10 6) => Output(YES)
+
+Test case passed: Input(15 7
+15 15) => Output(YES)
+
+Test case passed: Input(1 5
+14 1) => Output(YES)
+
+Test case passed: Input(2 4
+6 6) => Output(YES)
+
+Test case passed: Input(12 8
+4 12) => Output(YES)
+
+Test case passed: Input(6 14
+5 5) => Output(YES)
+
+Test case passed: Input(19 17
+5 8) => Output(NO)
+
+Test case passed: Input(9 21
+13 16) => Output(YES)
+
+Test case passed: Input(11 2
+11 22) => Output(YES)
+
+Test case passed: Input(15 3
+12 16) => Output(YES)
+
+Test case passed: Input(13 2
+13 5) => Output(NO)
+
+Test case passed: Input(21 1
+5 19) => Output(NO)
+
+Test case passed: Input(9 15
+16 2) => Output(YES)
+
+Test case passed: Input(7 18
+23 19) => Output(YES)
+
+Test case passed: Input(13 17
+19 1) => Output(YES)
+
+Test case passed: Input(5 15
+13 9) => Output(YES)
+
+Test case passed: Input(11 17
+6 4) => Output(NO)
+
+Test case passed: Input(18 3
+16 15) => Output(NO)
+
+Test case passed: Input(5 23
+12 17) => Output(NO)
+
+Test case passed: Input(25 8
+14 24) => Output(YES)
+
+Test case passed: Input(18 22
+22 19) => Output(YES)
+
+Test case passed: Input(2 25
+8 24) => Output(NO)
+
+Test case passed: Input(7 25
+18 15) => Output(YES)
+
+Test case passed: Input(8 22
+2 3) => Output(NO)
+
+Test case passed: Input(25 9
+16 12) => Output(YES)
+
+Test case passed: Input(19 4
+25 17) => Output(NO)
+
+Test case passed: Input(24 43
+96 39) => Output(YES)
+
+Test case passed: Input(13 23
+19 63) => Output(NO)
+
+Test case passed: Input(93 12
+87 54) => Output(NO)
+
+Test case passed: Input(94 35
+53 79) => Output(YES)
+
+Test case passed: Input(65 8
+73 25) => Output(NO)
+
+Test case passed: Input(25 14
+19 91) => Output(YES)
+
+Test case passed: Input(58 86
+40 46) => Output(NO)
+
+Test case passed: Input(82 60
+100 38) => Output(YES)
+
+Test case passed: Input(36 62
+81 12) => Output(YES)
+
+Test case passed: Input(30 38
+12 100) => Output(NO)
+

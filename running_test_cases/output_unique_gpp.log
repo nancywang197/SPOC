@@ -1,0 +1,50 @@
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmptvlfflfv.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmp6vjz8vhs.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmps9m61siu.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpztucf9ay.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpa3ixqigo.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmptk26rvl_.cpp.
+clang++ Compilation Error: In file included from /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmptk26rvl_.cpp:1:
+/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h:4:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+/var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmptk26rvl_.cpp:13:7: error: use of undeclared identifier '__gcd'
+  l = __gcd(sum, n - 2);
+      ^
+1 warning and 1 error generated.
+
+Attempting compilation with g++...
+g++ Compilation Error: In file included from /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmptk26rvl_.cpp:1:
+/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h:4:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+/var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmptk26rvl_.cpp:13:7: error: use of undeclared identifier '__gcd'
+  l = __gcd(sum, n - 2);
+      ^
+1 warning and 1 error generated.
+
+Compilation failed for Problem ID 13A.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpd3lqh4h7.cpp.
+clang++ Compilation Error: In file included from /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpd3lqh4h7.cpp:1:
+/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h:4:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+/var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpd3lqh4h7.cpp:13:7: error: use of undeclared identifier '__gcd'
+  l = __gcd(sum, n - 2);
+      ^
+1 warning and 1 error generated.
+
+Attempting compilation with g++...
+g++ Compilation Error: In file included from /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpd3lqh4h7.cpp:1:
+/Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h:4:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+/var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpd3lqh4h7.cpp:13:7: error: use of undeclared identifier '__gcd'
+  l = __gcd(sum, n - 2);
+      ^
+1 warning and 1 error generated.
+
+Compilation failed for Problem ID 13A.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmppc3o3g14.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmp8n6ptxi9.cpp.
+Added /Users/dsanagaram/Documents/GitHub/SPOC/running_test_cases/CommonLibs.h to /var/folders/c7/ldnpwfjs527673nhk4f7zklm0000gn/T/tmpmywf2uoy.cpp.

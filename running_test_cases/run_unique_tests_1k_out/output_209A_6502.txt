@@ -1,0 +1,100 @@
+Test case passed: Input(3) => Output(6)
+
+Test case passed: Input(4) => Output(11)
+
+Test case passed: Input(1) => Output(1)
+
+Test case passed: Input(2) => Output(3)
+
+Test case passed: Input(5) => Output(19)
+
+Test case passed: Input(6) => Output(32)
+
+Test case passed: Input(7) => Output(53)
+
+Test case passed: Input(8) => Output(87)
+
+Test case passed: Input(9) => Output(142)
+
+Test case passed: Input(10) => Output(231)
+
+Test case passed: Input(11) => Output(375)
+
+Test case passed: Input(12) => Output(608)
+
+Test case passed: Input(13) => Output(985)
+
+Test case passed: Input(14) => Output(1595)
+
+Test case passed: Input(15) => Output(2582)
+
+Test case passed: Input(16) => Output(4179)
+
+Test case passed: Input(17) => Output(6763)
+
+Test case passed: Input(18) => Output(10944)
+
+Test case passed: Input(19) => Output(17709)
+
+Test case passed: Input(20) => Output(28655)
+
+Test case passed: Input(21) => Output(46366)
+
+Test case passed: Input(22) => Output(75023)
+
+Test case passed: Input(30) => Output(3524576)
+
+Test case passed: Input(40) => Output(433494435)
+
+Test case passed: Input(35) => Output(39088167)
+
+Test case passed: Input(747) => Output(864986803)
+
+Test case passed: Input(811) => Output(121575679)
+
+Test case passed: Input(523) => Output(810594171)
+
+Test case passed: Input(939) => Output(834252191)
+
+Test case passed: Input(7218) => Output(124017976)
+
+Test case passed: Input(6578) => Output(105202924)
+
+Test case passed: Input(4994) => Output(909729063)
+
+Test case passed: Input(3410) => Output(995527079)
+
+Test case passed: Input(9122) => Output(424682518)
+
+Test case passed: Input(11500) => Output(123418864)
+
+Test case passed: Input(37212) => Output(991850249)
+
+Test case passed: Input(95628) => Output(265542306)
+
+Test case passed: Input(21341) => Output(913329411)
+
+Test case passed: Input(63405) => Output(206564501)
+
+Test case passed: Input(670293) => Output(922731630)
+
+Test case passed: Input(12357) => Output(808648710)
+
+Test case passed: Input(838069) => Output(536545985)
+
+Test case passed: Input(696485) => Output(467961960)
+
+Test case passed: Input(1000000) => Output(986892583)
+
+Test case passed: Input(999999) => Output(452491920)
+
+Test case passed: Input(999998) => Output(534400661)
+
+Test case passed: Input(999997) => Output(918091264)
+
+Test case passed: Input(999996) => Output(616309402)
+
+Test case passed: Input(999000) => Output(47031574)
+
+Test case passed: Input(100) => Output(252403354)
+

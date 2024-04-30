@@ -1,0 +1,40 @@
+Test case passed: Input(1) => Output(Ehab)
+
+Test case passed: Input(2) => Output(Mahmoud)
+
+Test case passed: Input(10000) => Output(Mahmoud)
+
+Test case passed: Input(33333) => Output(Ehab)
+
+Test case passed: Input(5) => Output(Ehab)
+
+Test case passed: Input(1000000000) => Output(Mahmoud)
+
+Test case passed: Input(999999999) => Output(Ehab)
+
+Test case passed: Input(123123123) => Output(Ehab)
+
+Test case passed: Input(22222221) => Output(Ehab)
+
+Test case passed: Input(22222220) => Output(Mahmoud)
+
+Test case passed: Input(3) => Output(Ehab)
+
+Test case passed: Input(4) => Output(Mahmoud)
+
+Test case passed: Input(6) => Output(Mahmoud)
+
+Test case passed: Input(7) => Output(Ehab)
+
+Test case passed: Input(8) => Output(Mahmoud)
+
+Test case passed: Input(9) => Output(Ehab)
+
+Test case passed: Input(10) => Output(Mahmoud)
+
+Test case passed: Input(536870912) => Output(Mahmoud)
+
+Test case passed: Input(536870913) => Output(Ehab)
+
+Test case passed: Input(536870911) => Output(Ehab)
+

@@ -1,0 +1,21 @@
+Test case passed: Input(10 5
+somer
+andom
+noise
+mayth
+eforc
+ebewi
+thyou
+hctwo
+again
+noise
+somermayth
+andomeforc
+noiseebewi
+againthyou
+noisehctwo) => Output(4 6)
+
+Test case passed: Input(1 1
+g
+g) => Output(1 1)
+

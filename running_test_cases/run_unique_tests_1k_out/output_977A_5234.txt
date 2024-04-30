@@ -1,0 +1,22 @@
+Test case passed: Input(512 4) => Output(50)
+
+Test case passed: Input(1000000000 9) => Output(1)
+
+Test case passed: Input(131203 11) => Output(12)
+
+Test case passed: Input(999999999 50) => Output(9999)
+
+Test case passed: Input(999999999 49) => Output(99990)
+
+Test case passed: Input(131203 9) => Output(130)
+
+Test case passed: Input(900000000 16) => Output(1)
+
+Test case passed: Input(909090909 50) => Output(3)
+
+Test case passed: Input(1001 2) => Output(100)
+
+Test case passed: Input(5 2) => Output(3)
+
+Test case passed: Input(2 1) => Output(1)
+

@@ -1,0 +1,20 @@
+Test case passed: Input(1) => Output(I hate it)
+
+Test case passed: Input(2) => Output(I hate that I love it)
+
+Test case passed: Input(3) => Output(I hate that I love that I hate it)
+
+Test case passed: Input(4) => Output(I hate that I love that I hate that I love it)
+
+Test case passed: Input(5) => Output(I hate that I love that I hate that I love that I hate it)
+
+Test case passed: Input(10) => Output(I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love it)
+
+Test case passed: Input(18) => Output(I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love it)
+
+Test case passed: Input(19) => Output(I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate it)
+
+Test case passed: Input(33) => Output(I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate it)
+
+Test case passed: Input(34) => Output(I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love that I hate that I love it)
+

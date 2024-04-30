@@ -1,0 +1,120 @@
+Test case passed: Input(Bulbbasaur) => Output(1)
+
+Test case passed: Input(F) => Output(0)
+
+Test case passed: Input(aBddulbasaurrgndgbualdBdsagaurrgndbb) => Output(2)
+
+Test case passed: Input(BBBBBBBBBBbbbbbbbbbbuuuuuuuuuullllllllllssssssssssaaaaaaaaaarrrrrrrrrr) => Output(5)
+
+Test case passed: Input(BBBBBBBBBBbbbbbbbbbbbbbbbbbbbbuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuussssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(0)
+
+Test case passed: Input(BBBBBBBBBBssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrr) => Output(0)
+
+Test case passed: Input(BBBBBBBBBBbbbbbbbbbbbbbbbbbbbbuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuullllllllllllllllllllssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrr) => Output(10)
+
+Test case passed: Input(BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBbbbbbbbbbbbbbbbbbbbbuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuullllllllllllllllllllssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrr) => Output(20)
+
+Test case passed: Input(CeSlSwec) => Output(0)
+
+Test case passed: Input(PnMrWPBGzVcmRcO) => Output(0)
+
+Test case passed: Input(hHPWBQeEmCuhdCnzrqYtuFtwxokGhdGkFtsFICVqYfJeUrSBtSxEbzMCblOgqOvjXURhSKivPcseqgiNuUgIboEYMvVeRBbpzCGCfVydDvZNFGSFidwUtNbmPSfSYdMNmHgchIsiVswzFsGQewlMVEzicOagpWMdCWrCdPmexfnM) => Output(0)
+
+Test case passed: Input(BBBBBBBBBBbbbbbbbbbbbbuuuuuuuuuuuullllllllllllssssssssssssaaaaaaaaaaaarrrrrrrrrrrrZBphUC) => Output(6)
+
+Test case passed: Input(bulsar) => Output(0)
+
+Test case passed: Input(Bblsar) => Output(0)
+
+Test case passed: Input(Bbusar) => Output(0)
+
+Test case passed: Input(Bbular) => Output(0)
+
+Test case passed: Input(Bbulsr) => Output(0)
+
+Test case passed: Input(Bbulsa) => Output(0)
+
+Test case passed: Input(Bbulsar) => Output(0)
+
+Test case passed: Input(Bbulsar) => Output(0)
+
+Test case passed: Input(CaQprCjTiQACZjUJjSmMHVTDorSUugvTtksEjptVzNLhClWaVVWszIixBlqFkvjDmbRjarQoUWhXHoCgYNNjvEgRTgKpbdEMFsmqcTyvJzupKgYiYMtrZWXIAGVhmDURtddbBZIMgIgXqQUmXpssLSaVCDGZDHimNthwiAWabjtcraAQugMCpBPQZbBGZyqUZmzDVSvJZmDWfZEUHGJVtiJANAIbvjTxtvvTbjWRpNQZlxAqpLCLRVwYWqLaHOTvzgeNGdxiBwsAVKKsewXMTwZUUfxYwrwsiaRBwEdvDDoPsQUtinvajBoRzLBUuQekhjsfDAOQzIABSVPitRuhvvqeAahsSELTGbCPh) => Output(2)
+
+Test case passed: Input(Bulbasaur) => Output(1)
+
+Test case passed: Input(BulbasaurBulbasaur) => Output(2)
+
+Test case passed: Input(Bulbbasar) => Output(0)
+
+Test case passed: Input(Bulbasur) => Output(0)
+
+Test case passed: Input(Bulbsaur) => Output(0)
+
+Test case passed: Input(BulbsurBulbsurBulbsurBulbsur) => Output(0)
+
+Test case passed: Input(Blbbasar) => Output(0)
+
+Test case passed: Input(Bulbasar) => Output(0)
+
+Test case passed: Input(BBullllbbaassaauurr) => Output(1)
+
+Test case passed: Input(BulbasaurBulbasar) => Output(1)
+
+Test case passed: Input(BulbasaurBulbsaur) => Output(1)
+
+Test case passed: Input(Bubasaur) => Output(0)
+
+Test case passed: Input(ulbasaurulbasaur) => Output(0)
+
+Test case passed: Input(Bulbasr) => Output(0)
+
+Test case passed: Input(BBBuuulllbbbaaasssaaauuurrr) => Output(3)
+
+Test case passed: Input(BBuuuullbbaaaassrr) => Output(2)
+
+Test case passed: Input(BBBBBBBuuuuuuuullllllllllllbbbbaaaaaassssssssssssssssaaaaauuuuuuuuuuuuurrrrrrrrrrrrrrrr) => Output(4)
+
+Test case passed: Input(BBuullbbaassaarr) => Output(1)
+
+Test case passed: Input(Bulbasau) => Output(0)
+
+Test case passed: Input(BBuullbbaassaauurr) => Output(2)
+
+Test case passed: Input(BulbasauBulbasauBulbasauBulbasauBulbasauBulbasauBulbasauBulbasau) => Output(0)
+
+Test case passed: Input(Blbasaur) => Output(0)
+
+Test case passed: Input(BulbasaurBulbasaurd) => Output(2)
+
+Test case passed: Input(ulbasaur) => Output(0)
+
+Test case passed: Input(Bulbaaur) => Output(0)
+
+Test case passed: Input(BBuuuullbbbbbbbbbbbbbbbaassrr) => Output(1)
+
+Test case passed: Input(Bulbasua) => Output(0)
+
+Test case passed: Input(Bubbasaur) => Output(0)
+
+Test case passed: Input(BulbasauBulbasauBulbasauBulbasauBulbasauBulbasaurrr) => Output(3)
+
+Test case passed: Input(BulbasaurBubasaur) => Output(1)
+
+Test case passed: Input(Baab) => Output(0)
+
+Test case passed: Input(BulbasaurBulbasau) => Output(1)
+
+Test case passed: Input(Bulbasauu) => Output(0)
+
+Test case passed: Input(BulbasauBulbasau) => Output(0)
+
+Test case passed: Input(BBBBBBBBBBB) => Output(0)
+
+Test case passed: Input(Bulbbasau) => Output(0)
+
+Test case passed: Input(BulbbasaurBulbbasar) => Output(1)
+
+Test case passed: Input(Bulaaaasaur) => Output(0)
+
+Test case passed: Input(BulbasaurBulbasauBulbasauBulbasau) => Output(1)
+

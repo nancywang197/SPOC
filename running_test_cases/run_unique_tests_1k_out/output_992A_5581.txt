@@ -1,0 +1,120 @@
+Test case passed: Input(5
+1 1 1 1 1) => Output(1)
+
+Test case passed: Input(3
+2 0 -1) => Output(2)
+
+Test case passed: Input(4
+5 -6 -5 1) => Output(4)
+
+Test case passed: Input(1
+0) => Output(0)
+
+Test case passed: Input(2
+21794 -79194) => Output(2)
+
+Test case passed: Input(3
+-63526 95085 -5239) => Output(3)
+
+Test case passed: Input(3
+0 53372 -20572) => Output(2)
+
+Test case passed: Input(13
+-2075 -32242 27034 -37618 -96962 82203 64846 48249 -71761 28908 -21222 -61370 46899) => Output(13)
+
+Test case passed: Input(5
+806 0 1308 1954 683) => Output(4)
+
+Test case passed: Input(8
+-26 0 -249 -289 -126 -206 288 -11) => Output(7)
+
+Test case passed: Input(10
+2 2 2 1 2 -1 0 2 -1 1) => Output(3)
+
+Test case passed: Input(1
+8) => Output(1)
+
+Test case passed: Input(3
+0 0 0) => Output(0)
+
+Test case passed: Input(10
+1 2 3 4 5 6 7 8 9 10) => Output(10)
+
+Test case passed: Input(5
+2 0 -1 0 0) => Output(2)
+
+Test case passed: Input(2
+0 0) => Output(0)
+
+Test case passed: Input(5
+0 0 0 0 0) => Output(0)
+
+Test case passed: Input(2
+1 0) => Output(1)
+
+Test case passed: Input(2
+-1 0) => Output(1)
+
+Test case passed: Input(4
+0 0 0 0) => Output(0)
+
+Test case passed: Input(8
+10 9 -1 0 0 3 2 3) => Output(5)
+
+Test case passed: Input(5
+5 0 1 2 3) => Output(4)
+
+Test case passed: Input(3
+1 1 0) => Output(1)
+
+Test case passed: Input(1
+-1) => Output(1)
+
+Test case passed: Input(5
+1 2 0 0 0) => Output(2)
+
+Test case passed: Input(5
+1 0 0 0 0) => Output(1)
+
+Test case passed: Input(5
+4 5 6 0 0) => Output(3)
+
+Test case passed: Input(4
+-1 0 0 1) => Output(2)
+
+Test case passed: Input(5
+3 0 0 4 5) => Output(3)
+
+Test case passed: Input(3
+0 0 2) => Output(1)
+
+Test case passed: Input(3
+1 0 0) => Output(1)
+
+Test case passed: Input(4
+0 0 0 4) => Output(1)
+
+Test case passed: Input(5
+-1 0 0 0 0) => Output(1)
+
+Test case passed: Input(2
+0 1) => Output(1)
+
+Test case passed: Input(3
+1 2 3) => Output(3)
+
+Test case passed: Input(1
+5) => Output(1)
+
+Test case passed: Input(10
+0 0 0 0 0 1 2 3 0 0) => Output(3)
+
+Test case passed: Input(4
+0 1 2 3) => Output(3)
+
+Test case passed: Input(3
+0 1 2) => Output(2)
+
+Test case passed: Input(4
+2 0 0 -1) => Output(2)
+

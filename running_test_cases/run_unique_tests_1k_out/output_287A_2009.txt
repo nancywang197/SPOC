@@ -1,0 +1,125 @@
+Test case passed: Input(###.
+...#
+###.
+...#) => Output(NO)
+
+Test case passed: Input(.##.
+#..#
+.##.
+#..#) => Output(NO)
+
+Test case passed: Input(.#.#
+#.#.
+.#.#
+#.#.) => Output(NO)
+
+Test case passed: Input(##..
+..##
+##..
+..##) => Output(NO)
+
+Test case passed: Input(#.#.
+#.#.
+.#.#
+.#.#) => Output(NO)
+
+Test case passed: Input(.#.#
+#.#.
+#.#.
+#.#.) => Output(NO)
+
+Test case passed: Input(.#.#
+#.#.
+#.#.
+.#.#) => Output(NO)
+
+Test case passed: Input(#.#.
+#.#.
+#.#.
+#.#.) => Output(NO)
+
+Test case passed: Input(.#.#
+.#.#
+.#.#
+.#.#) => Output(NO)
+
+Test case passed: Input(#..#
+.##.
+####
+####) => Output(YES)
+
+Test case passed: Input(#.#.
+.###
+#.#.
+.###) => Output(YES)
+
+Test case passed: Input(#..#
+.##.
+.##.
+#..#) => Output(YES)
+
+Test case passed: Input(.##.
+.#..
+##.#
+#..#) => Output(YES)
+
+Test case passed: Input(.##.
+##..
+#..#
+..##) => Output(YES)
+
+Test case passed: Input(##..
+##..
+..##
+..##) => Output(YES)
+
+Test case passed: Input(.#..
+###.
+.#.#
+..#.) => Output(YES)
+
+Test case passed: Input(###.
+###.
+...#
+...#) => Output(YES)
+
+Test case passed: Input(#.##
+##.#
+#.##
+##.#) => Output(YES)
+
+Test case passed: Input(.#.#
+#.#.
+.#.#
+#.##) => Output(YES)
+
+Test case passed: Input(##..
+..##
+##..
+...#) => Output(YES)
+
+Test case passed: Input(.#..
+..##
+##..
+..##) => Output(YES)
+
+Test case passed: Input(##..
+...#
+##..
+...#) => Output(YES)
+
+Test case passed: Input(.#..
+..#.
+.#..
+..#.) => Output(YES)
+
+Test case passed: Input(....
+....
+....
+.#.#) => Output(YES)
+
+Test case passed: Input(....
+....
+....
+...#) => Output(YES)
+

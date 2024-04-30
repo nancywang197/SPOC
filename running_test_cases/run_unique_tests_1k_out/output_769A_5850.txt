@@ -1,0 +1,135 @@
+Test case passed: Input(3
+2014 2016 2015) => Output(2015)
+
+Test case passed: Input(1
+2050) => Output(2050)
+
+Test case passed: Input(1
+2010) => Output(2010)
+
+Test case passed: Input(1
+2011) => Output(2011)
+
+Test case passed: Input(3
+2010 2011 2012) => Output(2011)
+
+Test case passed: Input(3
+2049 2047 2048) => Output(2048)
+
+Test case passed: Input(5
+2043 2042 2041 2044 2040) => Output(2042)
+
+Test case passed: Input(5
+2012 2013 2014 2015 2016) => Output(2014)
+
+Test case passed: Input(1
+2045) => Output(2045)
+
+Test case passed: Input(1
+2046) => Output(2046)
+
+Test case passed: Input(1
+2099) => Output(2099)
+
+Test case passed: Input(1
+2100) => Output(2100)
+
+Test case passed: Input(3
+2011 2010 2012) => Output(2011)
+
+Test case passed: Input(3
+2011 2012 2010) => Output(2011)
+
+Test case passed: Input(3
+2012 2011 2010) => Output(2011)
+
+Test case passed: Input(3
+2010 2012 2011) => Output(2011)
+
+Test case passed: Input(3
+2012 2010 2011) => Output(2011)
+
+Test case passed: Input(3
+2047 2048 2049) => Output(2048)
+
+Test case passed: Input(3
+2047 2049 2048) => Output(2048)
+
+Test case passed: Input(3
+2048 2047 2049) => Output(2048)
+
+Test case passed: Input(3
+2048 2049 2047) => Output(2048)
+
+Test case passed: Input(3
+2049 2048 2047) => Output(2048)
+
+Test case passed: Input(5
+2011 2014 2012 2013 2010) => Output(2012)
+
+Test case passed: Input(5
+2014 2013 2011 2012 2015) => Output(2013)
+
+Test case passed: Input(5
+2021 2023 2024 2020 2022) => Output(2022)
+
+Test case passed: Input(5
+2081 2079 2078 2080 2077) => Output(2079)
+
+Test case passed: Input(5
+2095 2099 2097 2096 2098) => Output(2097)
+
+Test case passed: Input(5
+2097 2099 2100 2098 2096) => Output(2098)
+
+Test case passed: Input(5
+2012 2010 2014 2011 2013) => Output(2012)
+
+Test case passed: Input(5
+2012 2011 2013 2015 2014) => Output(2013)
+
+Test case passed: Input(5
+2023 2024 2022 2021 2020) => Output(2022)
+
+Test case passed: Input(5
+2077 2078 2080 2079 2081) => Output(2079)
+
+Test case passed: Input(5
+2099 2096 2095 2097 2098) => Output(2097)
+
+Test case passed: Input(5
+2097 2100 2098 2096 2099) => Output(2098)
+
+Test case passed: Input(5
+2011 2014 2013 2010 2012) => Output(2012)
+
+Test case passed: Input(5
+2013 2011 2015 2012 2014) => Output(2013)
+
+Test case passed: Input(5
+2024 2020 2021 2023 2022) => Output(2022)
+
+Test case passed: Input(5
+2079 2080 2077 2081 2078) => Output(2079)
+
+Test case passed: Input(5
+2095 2097 2096 2098 2099) => Output(2097)
+
+Test case passed: Input(5
+2099 2096 2100 2097 2098) => Output(2098)
+
+Test case passed: Input(5
+2034 2033 2036 2032 2035) => Output(2034)
+
+Test case passed: Input(5
+2030 2031 2033 2032 2029) => Output(2031)
+
+Test case passed: Input(5
+2093 2092 2094 2096 2095) => Output(2094)
+
+Test case passed: Input(5
+2012 2015 2014 2013 2011) => Output(2013)
+
+Test case passed: Input(5
+2056 2057 2058 2059 2060) => Output(2058)
+

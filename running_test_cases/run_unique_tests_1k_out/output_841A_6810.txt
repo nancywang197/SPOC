@@ -1,0 +1,342 @@
+Test case passed: Input(4 2
+aabb) => Output(YES)
+
+Test case passed: Input(6 3
+aacaab) => Output(NO)
+
+Test case passed: Input(2 2
+lu) => Output(YES)
+
+Test case passed: Input(5 3
+ovvoo) => Output(YES)
+
+Test case passed: Input(36 13
+bzbzcffczzcbcbzzfzbbfzfzzbfbbcbfccbf) => Output(YES)
+
+Test case passed: Input(81 3
+ooycgmvvrophvcvpoupepqllqttwcocuilvyxbyumdmmfapvpnxhjhxfuagpnntonibicaqjvwfhwxhbv) => Output(NO)
+
+Test case passed: Input(100 100
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx) => Output(YES)
+
+Test case passed: Input(100 1
+nubcvvjvbjgnjsdkajimdcxvewbcytvfkihunycdrlconddlwgzjasjlsrttlrzsumzpyumpveglfqzmaofbshbojmwuwoxxvrod) => Output(NO)
+
+Test case passed: Input(100 13
+vyldolgryldqrvoldvzvrdrgorlorszddtgqvrlisxxrxdxlqtvtgsrqlzixoyrozxzogqxlsgzdddzqrgitxxritoolzolgrtvl) => Output(YES)
+
+Test case passed: Input(18 6
+jzwtnkvmscqhmdlsxy) => Output(YES)
+
+Test case passed: Input(21 2
+fscegcqgzesefghhwcexs) => Output(NO)
+
+Test case passed: Input(32 22
+cduamsptaklqtxlyoutlzepxgyfkvngc) => Output(YES)
+
+Test case passed: Input(49 27
+oxyorfnkzwsfllnyvdhdanppuzrnbxehugvmlkgeymqjlmfxd) => Output(YES)
+
+Test case passed: Input(50 24
+xxutzjwbggcwvxztttkmzovtmuwttzcbwoztttohzzxghuuthv) => Output(YES)
+
+Test case passed: Input(57 35
+glxshztrqqfyxthqamagvtmrdparhelnzrqvcwqxjytkbuitovkdxueul) => Output(YES)
+
+Test case passed: Input(75 23
+ittttiiuitutuiiuuututiuttiuiuutuuuiuiuuuuttuuttuutuiiuiuiiuiitttuututuiuuii) => Output(NO)
+
+Test case passed: Input(81 66
+feqevfqfebhvubhuuvfuqheuqhbeeuebehuvhffvbqvqvfbqqvvhevqffbqqhvvqhfeehuhqeqhueuqqq) => Output(YES)
+
+Test case passed: Input(93 42
+pqeiafraiavfcteumflpcbpozcomlvpovlzdbldvoopnhdoeqaopzthiuzbzmeieiatthdeqovaqfipqlddllmfcrrnhb) => Output(YES)
+
+Test case passed: Input(100 53
+izszyqyndzwzyzgsdagdwdazadiawizinagqqgczaqqnawgijziziawzszdjdcqjdjqiwgadydcnqisaayjiqqsscwwzjzaycwwc) => Output(YES)
+
+Test case passed: Input(100 14
+vkrdcqbvkwuckpmnbydmczdxoagdsgtqxvhaxntdcxhjcrjyvukhugoglbmyoaqexgtcfdgemmizoniwtmisqqwcwfusmygollab) => Output(YES)
+
+Test case passed: Input(100 42
+aaaaaiiiiaiiiaaiaiiaaiiiiiaaaaaiaiiiaiiiiaiiiaaaaaiiiaaaiiaaiiiaiiiaiaaaiaiiiiaaiiiaiiaiaiiaiiiaaaia) => Output(NO)
+
+Test case passed: Input(100 89
+tjbkmydejporbqhcbztkcumxjjgsrvxpuulbhzeeckkbchpbxwhedrlhjsabcexcohgdzouvsgphjdthpuqrlkgzxvqbuhqxdsmf) => Output(YES)
+
+Test case passed: Input(100 100
+jhpyiuuzizhubhhpxbbhpyxzhbpjphzppuhiahihiappbhuypyauhizpbibzixjbzxzpbphuiaypyujappuxiyuyaajaxjupbahb) => Output(YES)
+
+Test case passed: Input(100 3
+sszoovvzysavsvzsozzvoozvysozsaszayaszasaysszzzysosyayyvzozovavzoyavsooaoyvoozvvozsaosvayyovazzszzssa) => Output(NO)
+
+Test case passed: Input(100 44
+dluthkxwnorabqsukgnxnvhmsmzilyulpursnxkdsavgemiuizbyzebhyjejgqrvuckhaqtuvdmpziesmpmewpvozdanjyvwcdgo) => Output(YES)
+
+Test case passed: Input(100 90
+tljonbnwnqounictqqctgonktiqoqlocgoblngijqokuquoolciqwnctgoggcbojtwjlculoikbggquqncittwnjbkgkgubnioib) => Output(YES)
+
+Test case passed: Input(100 79
+ykxptzgvbqxlregvkvucewtydvnhqhuggdsyqlvcfiuaiddnrrnstityyehiamrggftsqyduwxpuldztyzgmfkehprrneyvtknmf) => Output(YES)
+
+Test case passed: Input(100 79
+aagwekyovbviiqeuakbqbqifwavkfkutoriovgfmittulhwojaptacekdirgqoovlleeoqkkdukpadygfwavppohgdrmymmulgci) => Output(YES)
+
+Test case passed: Input(100 93
+earrehrehenaddhdnrdddhdahnadndheeennrearrhraharddreaeraddhehhhrdnredanndneheddrraaneerreedhnadnerhdn) => Output(YES)
+
+Test case passed: Input(100 48
+bmmaebaebmmmbbmxvmammbvvebvaemvbbaxvbvmaxvvmveaxmbbxaaemxmxvxxxvxbmmxaaaevvaxmvamvvmaxaxavexbmmbmmev) => Output(YES)
+
+Test case passed: Input(100 55
+hsavbkehaaesffaeeffakhkhfehbbvbeasahbbbvkesbfvkefeesesevbsvfkbffakvshsbkahfkfakebsvafkbvsskfhfvaasss) => Output(YES)
+
+Test case passed: Input(100 2
+cscffcffsccffsfsfffccssfsscfsfsssffcffsscfccssfffcfscfsscsccccfsssffffcfcfsfffcsfsccffscffcfccccfffs) => Output(NO)
+
+Test case passed: Input(100 3
+zrgznxgdpgfoiifrrrsjfuhvtqxjlgochhyemismjnanfvvpzzvsgajcbsulxyeoepjfwvhkqogiiwqxjkrpsyaqdlwffoockxnc) => Output(NO)
+
+Test case passed: Input(100 5
+jbltyyfjakrjeodqepxpkjideulofbhqzxjwlarufwzwsoxhaexpydpqjvhybmvjvntuvhvflokhshpicbnfgsqsmrkrfzcrswwi) => Output(NO)
+
+Test case passed: Input(100 1
+fnslnqktlbmxqpvcvnemxcutebdwepoxikifkzaaixzzydffpdxodmsxjribmxuqhueifdlwzytxkklwhljswqvlejedyrgguvah) => Output(NO)
+
+Test case passed: Input(100 21
+ddjenetwgwmdtjbpzssyoqrtirvoygkjlqhhdcjgeurqpunxpupwaepcqkbjjfhnvgpyqnozhhrmhfwararmlcvpgtnopvjqsrka) => Output(YES)
+
+Test case passed: Input(100 100
+njrhiauqlgkkpkuvciwzivjbbplipvhslqgdkfnmqrxuxnycmpheenmnrglotzuyxycosfediqcuadklsnzjqzfxnbjwvfljnlvq) => Output(YES)
+
+Test case passed: Input(100 100
+bbbbbbbtbbttbtbbbttbttbtbbttttbbbtbttbbbtbttbtbbttttbbbbbtbbttbtbbtbttbbbtbtbtbtbtbtbbbttbbtbtbtbbtb) => Output(YES)
+
+Test case passed: Input(14 5
+fssmmsfffmfmmm) => Output(NO)
+
+Test case passed: Input(2 1
+ff) => Output(NO)
+
+Test case passed: Input(2 1
+hw) => Output(YES)
+
+Test case passed: Input(2 2
+ss) => Output(YES)
+
+Test case passed: Input(1 1
+l) => Output(YES)
+
+Test case passed: Input(100 50
+fffffttttttjjjuuuvvvvvdddxxxxwwwwgggbsssncccczzyyyyyhhhhhkrreeeeeeaaaaaiiillllllllooooqqqqqqmmpppppp) => Output(YES)
+
+Test case passed: Input(100 50
+bbbbbbbbgggggggggggaaaaaaaahhhhhhhhhhpppppppppsssssssrrrrrrrrllzzzzzzzeeeeeeekkkkkkkwwwwwwwwjjjjjjjj) => Output(YES)
+
+Test case passed: Input(100 50
+wwwwwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxzzzzzzzzzzzzzzzzzzbbbbbbbbbbbbbbbbbbbbjjjjjjjjjjjjjjjjjjjjjjjj) => Output(YES)
+
+Test case passed: Input(100 80
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm) => Output(YES)
+
+Test case passed: Input(100 10
+bbttthhhhiiiiiiijjjjjvvvvpppssssseeeeeeewwwwgggkkkkkkkkmmmddddduuuzzzzllllnnnnnxxyyyffffccraaaaooooq) => Output(YES)
+
+Test case passed: Input(100 20
+ssssssssssbbbbbbbhhhhhhhyyyyyyyzzzzzzzzzzzzcccccxxxxxxxxxxddddmmmmmmmeeeeeeejjjjjjjjjwwwwwwwtttttttt) => Output(YES)
+
+Test case passed: Input(1 2
+a) => Output(YES)
+
+Test case passed: Input(3 1
+abb) => Output(NO)
+
+Test case passed: Input(2 1
+aa) => Output(NO)
+
+Test case passed: Input(2 1
+ab) => Output(YES)
+
+Test case passed: Input(6 2
+aaaaaa) => Output(NO)
+
+Test case passed: Input(8 4
+aaaaaaaa) => Output(NO)
+
+Test case passed: Input(4 2
+aaaa) => Output(NO)
+
+Test case passed: Input(4 3
+aaaa) => Output(NO)
+
+Test case passed: Input(1 3
+a) => Output(YES)
+
+Test case passed: Input(4 3
+zzzz) => Output(NO)
+
+Test case passed: Input(4 1
+aaaa) => Output(NO)
+
+Test case passed: Input(3 4
+abc) => Output(YES)
+
+Test case passed: Input(2 5
+ab) => Output(YES)
+
+Test case passed: Input(2 4
+ab) => Output(YES)
+
+Test case passed: Input(1 10
+a) => Output(YES)
+
+Test case passed: Input(5 2
+zzzzz) => Output(NO)
+
+Test case passed: Input(53 26
+aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb) => Output(NO)
+
+Test case passed: Input(4 1
+abab) => Output(NO)
+
+Test case passed: Input(4 1
+abcb) => Output(NO)
+
+Test case passed: Input(4 2
+abbb) => Output(NO)
+
+Test case passed: Input(5 2
+abccc) => Output(NO)
+
+Test case passed: Input(2 3
+ab) => Output(YES)
+
+Test case passed: Input(4 3
+bbbs) => Output(YES)
+
+Test case passed: Input(10 2
+azzzzzzzzz) => Output(NO)
+
+Test case passed: Input(1 2
+b) => Output(YES)
+
+Test case passed: Input(1 3
+b) => Output(YES)
+
+Test case passed: Input(4 5
+abcd) => Output(YES)
+
+Test case passed: Input(4 6
+aabb) => Output(YES)
+
+Test case passed: Input(5 2
+aaaab) => Output(NO)
+
+Test case passed: Input(3 5
+aaa) => Output(YES)
+
+Test case passed: Input(5 3
+azzzz) => Output(NO)
+
+Test case passed: Input(4 100
+aabb) => Output(YES)
+
+Test case passed: Input(3 10
+aaa) => Output(YES)
+
+Test case passed: Input(3 4
+aaa) => Output(YES)
+
+Test case passed: Input(12 5
+aaaaabbbbbbb) => Output(NO)
+
+Test case passed: Input(5 2
+aabbb) => Output(NO)
+
+Test case passed: Input(10 5
+zzzzzzzzzz) => Output(NO)
+
+Test case passed: Input(2 4
+aa) => Output(YES)
+
+Test case passed: Input(1 5
+a) => Output(YES)
+
+Test case passed: Input(10 5
+aaaaaaaaaa) => Output(NO)
+
+Test case passed: Input(6 3
+aaaaaa) => Output(NO)
+
+Test case passed: Input(7 1
+abcdeee) => Output(NO)
+
+Test case passed: Input(18 3
+aaaaaabbbbbbcccccc) => Output(NO)
+
+Test case passed: Input(8 2
+aabbccdd) => Output(YES)
+
+Test case passed: Input(4 2
+zzzz) => Output(NO)
+
+Test case passed: Input(4 2
+abaa) => Output(NO)
+
+Test case passed: Input(3 2
+aaa) => Output(NO)
+
+Test case passed: Input(3 1
+zzz) => Output(NO)
+
+Test case passed: Input(5 4
+zzzzz) => Output(NO)
+
+Test case passed: Input(6 2
+aabbbc) => Output(NO)
+
+Test case passed: Input(3 6
+aaa) => Output(YES)
+
+Test case passed: Input(2 1
+zz) => Output(NO)
+
+Test case passed: Input(10 3
+aaaeeeeeee) => Output(NO)
+
+Test case passed: Input(4 5
+aabb) => Output(YES)
+
+Test case passed: Input(3 1
+aaa) => Output(NO)
+
+Test case passed: Input(5 2
+aazzz) => Output(NO)
+
+Test case passed: Input(6 2
+abbbbc) => Output(NO)
+
+Test case passed: Input(4 2
+xxxx) => Output(NO)
+
+Test case passed: Input(6 3
+zzzzzz) => Output(NO)
+
+Test case passed: Input(3 2
+abb) => Output(YES)
+
+Test case passed: Input(3 2
+zzz) => Output(NO)
+
+Test case passed: Input(6 5
+zzzzzz) => Output(NO)
+
+Test case passed: Input(6 3
+bcaaaa) => Output(NO)
+
+Test case passed: Input(100 100
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(YES)
+
+Test case passed: Input(3 6
+abc) => Output(YES)
+

@@ -1,0 +1,87 @@
+Test case passed: Input(5 3
+xyabd) => Output(29)
+
+Test case passed: Input(7 4
+problem) => Output(34)
+
+Test case passed: Input(2 2
+ab) => Output(-1)
+
+Test case passed: Input(12 1
+abaabbaaabbb) => Output(1)
+
+Test case passed: Input(50 13
+qwertyuiopasdfghjklzxcvbnmaaaaaaaaaaaaaaaaaaaaaaaa) => Output(169)
+
+Test case passed: Input(50 14
+qwertyuiopasdfghjklzxcvbnmaaaaaaaaaaaaaaaaaaaaaaaa) => Output(-1)
+
+Test case passed: Input(1 1
+a) => Output(1)
+
+Test case passed: Input(50 1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(1)
+
+Test case passed: Input(50 2
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(-1)
+
+Test case passed: Input(13 13
+uwgmkyqeiaocs) => Output(169)
+
+Test case passed: Input(13 13
+hzdxpbfvrltnj) => Output(182)
+
+Test case passed: Input(1 1
+n) => Output(14)
+
+Test case passed: Input(10 8
+smzeblyjqw) => Output(113)
+
+Test case passed: Input(20 20
+tzmvhskkyugkuuxpvtbh) => Output(-1)
+
+Test case passed: Input(30 15
+wjzolzzkfulwgioksfxmcxmnnjtoav) => Output(-1)
+
+Test case passed: Input(40 30
+xumfrflllrrgswehqtsskefixhcxjrxbjmrpsshv) => Output(-1)
+
+Test case passed: Input(50 31
+ahbyyoxltryqdmvenemaqnbakglgqolxnaifnqtoclnnqiabpz) => Output(-1)
+
+Test case passed: Input(10 7
+iuiukrxcml) => Output(99)
+
+Test case passed: Input(38 2
+vjzarfykmrsrvwbwfwldsulhxtykmjbnwmdufa) => Output(5)
+
+Test case passed: Input(12 6
+fwseyrarkwcd) => Output(61)
+
+Test case passed: Input(2 2
+ac) => Output(4)
+
+Test case passed: Input(1 1
+c) => Output(3)
+
+Test case passed: Input(2 2
+ad) => Output(5)
+
+Test case passed: Input(2 1
+ac) => Output(1)
+
+Test case passed: Input(4 3
+adjz) => Output(15)
+
+Test case passed: Input(3 3
+aoz) => Output(42)
+
+Test case passed: Input(3 1
+zzz) => Output(26)
+
+Test case passed: Input(2 1
+xz) => Output(24)
+
+Test case passed: Input(5 1
+aaddd) => Output(1)
+

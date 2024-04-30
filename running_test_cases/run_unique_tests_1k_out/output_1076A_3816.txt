@@ -1,0 +1,117 @@
+Test case passed: Input(3
+aaa) => Output(aa)
+
+Test case passed: Input(5
+abcda) => Output(abca)
+
+Test case passed: Input(2
+zz) => Output(z)
+
+Test case passed: Input(2
+ok) => Output(k)
+
+Test case passed: Input(4
+abcd) => Output(abc)
+
+Test case passed: Input(5
+aabbb) => Output(aabb)
+
+Test case passed: Input(2
+as) => Output(a)
+
+Test case passed: Input(7
+abcdeef) => Output(abcdee)
+
+Test case passed: Input(2
+ab) => Output(a)
+
+Test case passed: Input(3
+abc) => Output(ab)
+
+Test case passed: Input(26
+lolthisiscoolfreehackforya) => Output(llthisiscoolfreehackforya)
+
+Test case passed: Input(5
+abcde) => Output(abcd)
+
+Test case passed: Input(5
+bbbbd) => Output(bbbb)
+
+Test case passed: Input(6
+abcdef) => Output(abcde)
+
+Test case passed: Input(5
+aaccd) => Output(aacc)
+
+Test case passed: Input(2
+ae) => Output(a)
+
+Test case passed: Input(2
+cq) => Output(c)
+
+Test case passed: Input(5
+abccc) => Output(abcc)
+
+Test case passed: Input(6
+aaaabb) => Output(aaaab)
+
+Test case passed: Input(3
+abb) => Output(ab)
+
+Test case passed: Input(4
+agpq) => Output(agp)
+
+Test case passed: Input(4
+aabb) => Output(aab)
+
+Test case passed: Input(4
+aabc) => Output(aab)
+
+Test case passed: Input(5
+aaaab) => Output(aaaa)
+
+Test case passed: Input(2
+az) => Output(a)
+
+Test case passed: Input(7
+aaaaaad) => Output(aaaaaa)
+
+Test case passed: Input(3
+bcc) => Output(bc)
+
+Test case passed: Input(18
+fjwhrwehrjwhjewhrr) => Output(fjhrwehrjwhjewhrr)
+
+Test case passed: Input(5
+bcdef) => Output(bcde)
+
+Test case passed: Input(3
+aba) => Output(aa)
+
+Test case passed: Input(4
+aaaz) => Output(aaa)
+
+Test case passed: Input(3
+aab) => Output(aa)
+
+Test case passed: Input(6
+abcdee) => Output(abcde)
+
+Test case passed: Input(2
+cb) => Output(b)
+
+Test case passed: Input(10
+aaaaaaaaab) => Output(aaaaaaaaa)
+
+Test case passed: Input(5
+abccd) => Output(abcc)
+
+Test case passed: Input(4
+abbd) => Output(abb)
+
+Test case passed: Input(5
+bbcde) => Output(bbcd)
+
+Test case passed: Input(2
+pq) => Output(p)
+

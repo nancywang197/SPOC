@@ -1,0 +1,246 @@
+Test case passed: Input(a8
+h1) => Output(7
+RD
+RD
+RD
+RD
+RD
+RD
+RD)
+
+Test case passed: Input(b2
+b4) => Output(2
+U
+U)
+
+Test case passed: Input(a5
+a5) => Output(0)
+
+Test case passed: Input(h1
+b2) => Output(6
+LU
+L
+L
+L
+L
+L)
+
+Test case passed: Input(c5
+h2) => Output(5
+RD
+RD
+RD
+R
+R)
+
+Test case passed: Input(e1
+f2) => Output(1
+RU)
+
+Test case passed: Input(g4
+d2) => Output(3
+LD
+LD
+L)
+
+Test case passed: Input(a8
+b2) => Output(6
+RD
+D
+D
+D
+D
+D)
+
+Test case passed: Input(d4
+h2) => Output(4
+RD
+RD
+R
+R)
+
+Test case passed: Input(c5
+a2) => Output(3
+LD
+LD
+D)
+
+Test case passed: Input(h5
+f8) => Output(3
+LU
+LU
+U)
+
+Test case passed: Input(e6
+b6) => Output(3
+L
+L
+L)
+
+Test case passed: Input(a6
+g4) => Output(6
+RD
+RD
+R
+R
+R
+R)
+
+Test case passed: Input(f7
+c2) => Output(5
+LD
+LD
+LD
+D
+D)
+
+Test case passed: Input(b7
+h8) => Output(6
+RU
+R
+R
+R
+R
+R)
+
+Test case passed: Input(g7
+d6) => Output(3
+LD
+L
+L)
+
+Test case passed: Input(c8
+a3) => Output(5
+LD
+LD
+D
+D
+D)
+
+Test case passed: Input(h8
+f1) => Output(7
+LD
+LD
+D
+D
+D
+D
+D)
+
+Test case passed: Input(d1
+b7) => Output(6
+LU
+LU
+U
+U
+U
+U)
+
+Test case passed: Input(a7
+e5) => Output(4
+RD
+RD
+R
+R)
+
+Test case passed: Input(d6
+b1) => Output(5
+LD
+LD
+D
+D
+D)
+
+Test case passed: Input(f5
+g5) => Output(1
+R)
+
+Test case passed: Input(h4
+d1) => Output(4
+LD
+LD
+LD
+L)
+
+Test case passed: Input(b3
+a5) => Output(2
+LU
+U)
+
+Test case passed: Input(d2
+f1) => Output(2
+RD
+R)
+
+Test case passed: Input(f1
+c5) => Output(4
+LU
+LU
+LU
+U)
+
+Test case passed: Input(a8
+h1) => Output(7
+RD
+RD
+RD
+RD
+RD
+RD
+RD)
+
+Test case passed: Input(c7
+e5) => Output(2
+RD
+RD)
+
+Test case passed: Input(e7
+b1) => Output(6
+LD
+LD
+LD
+D
+D
+D)
+
+Test case passed: Input(g8
+a8) => Output(6
+L
+L
+L
+L
+L
+L)
+
+Test case passed: Input(g6
+f2) => Output(4
+LD
+D
+D
+D)
+
+Test case passed: Input(g4
+c4) => Output(4
+L
+L
+L
+L)
+
+Test case passed: Input(g2
+a6) => Output(6
+LU
+LU
+LU
+LU
+L
+L)
+
+Test case passed: Input(f8
+f8) => Output(0)
+
+Test case passed: Input(f5
+d2) => Output(3
+LD
+LD
+D)
+

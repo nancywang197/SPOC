@@ -1,0 +1,251 @@
+Test case passed: Input(1 2
+SW) => Output(NO)
+
+Test case passed: Input(10 10
+....W.W.W.
+.........S
+.S.S...S..
+W.......SS
+.W..W.....
+.W...W....
+S..S...S.S
+....W...S.
+..S..S.S.S
+SS.......S) => Output(YES
+DDDDWDWDWD
+DDDDDDDDDS
+DSDSDDDSDD
+WDDDDDDDSS
+DWDDWDDDDD
+DWDDDWDDDD
+SDDSDDDSDS
+DDDDWDDDSD
+DDSDDSDSDS
+SSDDDDDDDS)
+
+Test case passed: Input(10 10
+....W.W.W.
+...W.....S
+.S.S...S..
+W......WSS
+.W..W.....
+.W...W....
+S..S...S.S
+...WWW..S.
+..S..S.S.S
+SS.......S) => Output(NO)
+
+Test case passed: Input(1 50
+W...S..............W.....S..S...............S...W.) => Output(YES
+WDDDSDDDDDDDDDDDDDDWDDDDDSDDSDDDDDDDDDDDDDDDSDDDWD)
+
+Test case passed: Input(2 4
+...S
+...W) => Output(NO)
+
+Test case passed: Input(4 2
+..
+..
+..
+SW) => Output(NO)
+
+Test case passed: Input(4 2
+..
+..
+..
+WS) => Output(NO)
+
+Test case passed: Input(2 4
+...W
+...S) => Output(NO)
+
+Test case passed: Input(50 1
+S
+.
+.
+.
+.
+.
+.
+S
+.
+.
+.
+.
+.
+.
+.
+.
+S
+.
+W
+.
+S
+.
+.
+.
+.
+S
+.
+.
+.
+.
+.
+.
+.
+W
+.
+.
+.
+W
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.) => Output(YES
+S
+D
+D
+D
+D
+D
+D
+S
+D
+D
+D
+D
+D
+D
+D
+D
+S
+D
+W
+D
+S
+D
+D
+D
+D
+S
+D
+D
+D
+D
+D
+D
+D
+W
+D
+D
+D
+W
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D)
+
+Test case passed: Input(4 4
+W..S
+W..S
+W..S
+W..S) => Output(YES
+WDDS
+WDDS
+WDDS
+WDDS)
+
+Test case passed: Input(4 4
+SSSS
+....
+....
+WWWW) => Output(YES
+SSSS
+DDDD
+DDDD
+WWWW)
+
+Test case passed: Input(4 4
+WWWW
+....
+....
+SSSS) => Output(YES
+WWWW
+DDDD
+DDDD
+SSSS)
+
+Test case passed: Input(4 4
+S..W
+S..W
+S..W
+S..W) => Output(YES
+SDDW
+SDDW
+SDDW
+SDDW)
+
+Test case passed: Input(1 1
+.) => Output(YES
+D)
+
+Test case passed: Input(1 1
+W) => Output(YES
+W)
+
+Test case passed: Input(1 1
+S) => Output(YES
+S)
+
+Test case passed: Input(4 2
+..
+..
+.W
+.S) => Output(NO)
+
+Test case passed: Input(4 2
+..
+..
+.S
+.W) => Output(NO)
+
+Test case passed: Input(4 2
+..
+..
+W.
+S.) => Output(NO)
+
+Test case passed: Input(4 2
+..
+..
+S.
+W.) => Output(NO)
+
+Test case passed: Input(2 4
+....
+..SW) => Output(NO)
+
+Test case passed: Input(2 4
+....
+..WS) => Output(NO)
+
+Test case passed: Input(1 2
+S.) => Output(YES
+SD)
+

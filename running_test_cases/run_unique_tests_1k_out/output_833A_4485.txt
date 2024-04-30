@@ -1,0 +1,53 @@
+Test case passed: Input(6
+2 4
+75 45
+8 8
+16 16
+247 994
+1000000000 1000000) => Output(Yes
+Yes
+Yes
+No
+No
+Yes)
+
+Test case passed: Input(3
+1 1
+8 27
+1000 1331) => Output(Yes
+No
+No)
+
+Test case passed: Input(1
+12004 18012002) => Output(Yes)
+
+Test case passed: Input(1
+3331 11095561) => Output(Yes)
+
+Test case passed: Input(1
+2 3) => Output(No)
+
+Test case passed: Input(1
+1062961 1031) => Output(Yes)
+
+Test case passed: Input(1
+6 12) => Output(No)
+
+Test case passed: Input(1
+3 1) => Output(No)
+
+Test case passed: Input(1
+3 10) => Output(No)
+
+Test case passed: Input(1
+31159 970883281) => Output(Yes)
+
+Test case passed: Input(1
+9907 98148649) => Output(Yes)
+
+Test case passed: Input(1
+16 8) => Output(No)
+
+Test case passed: Input(1
+90 72) => Output(No)
+

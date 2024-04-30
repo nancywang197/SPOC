@@ -1,0 +1,68 @@
+Test case passed: Input(1 1
+.) => Output(B)
+
+Test case passed: Input(2 2
+..
+..) => Output(BW
+WB)
+
+Test case passed: Input(3 3
+.-.
+---
+--.) => Output(B-B
+---
+--B)
+
+Test case passed: Input(3 1
+-
+.
+.) => Output(-
+W
+B)
+
+Test case passed: Input(11 11
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------) => Output(-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------
+-----------)
+
+Test case passed: Input(1 1
+-) => Output(-)
+
+Test case passed: Input(4 2
+..
+..
+..
+..) => Output(BW
+WB
+BW
+WB)
+
+Test case passed: Input(5 1
+.
+.
+.
+.
+.) => Output(B
+W
+B
+W
+B)
+

@@ -1,0 +1,98 @@
+Test case passed: Input(3
+UR
+UL
+ULDR) => Output(9)
+
+Test case passed: Input(2
+DR
+DL) => Output(4)
+
+Test case passed: Input(4
+UL
+UR
+DR
+DL) => Output(9)
+
+Test case passed: Input(10
+UL
+UL
+UL
+UL
+UL
+UL
+UL
+UL
+UL
+UL) => Output(11)
+
+Test case passed: Input(6
+UL
+DL
+DL
+UL
+UL
+DL) => Output(16)
+
+Test case passed: Input(1
+UL) => Output(2)
+
+Test case passed: Input(1
+UR) => Output(2)
+
+Test case passed: Input(1
+DR) => Output(2)
+
+Test case passed: Input(1
+DL) => Output(2)
+
+Test case passed: Input(1
+ULDR) => Output(4)
+
+Test case passed: Input(2
+UL
+ULDR) => Output(6)
+
+Test case passed: Input(4
+ULDR
+UR
+ULDR
+UR) => Output(15)
+
+Test case passed: Input(10
+UR
+DR
+UL
+DR
+UL
+ULDR
+UR
+UL
+ULDR
+UL) => Output(45)
+
+Test case passed: Input(4
+UL
+UR
+DR
+DL) => Output(9)
+
+Test case passed: Input(10
+UL
+UR
+UR
+DR
+DR
+DR
+DL
+DL
+DL
+DL) => Output(35)
+
+Test case passed: Input(6
+UR
+DL
+UR
+DL
+UR
+DL) => Output(7)
+

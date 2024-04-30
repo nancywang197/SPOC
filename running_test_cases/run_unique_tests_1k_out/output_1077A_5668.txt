@@ -1,0 +1,22 @@
+Test case passed: Input(6
+5 2 3
+100 1 4
+1 10 5
+1000000000 1 6
+1 1 1000000000
+1 1 999999999) => Output(8
+198
+-17
+2999999997
+0
+1)
+
+Test case passed: Input(1
+19280817 1 1) => Output(19280817)
+
+Test case passed: Input(1
+598 56 799) => Output(216856)
+
+Test case passed: Input(1
+599 56 799) => Output(217256)
+

@@ -1,0 +1,52 @@
+Test case passed: Input(21) => Output(1
+15)
+
+Test case passed: Input(20) => Output(0)
+
+Test case passed: Input(1) => Output(0)
+
+Test case passed: Input(2) => Output(1
+1)
+
+Test case passed: Input(3) => Output(0)
+
+Test case passed: Input(100000001) => Output(2
+99999937
+100000000)
+
+Test case passed: Input(1000000000) => Output(1
+999999932)
+
+Test case passed: Input(999999979) => Output(2
+999999899
+999999908)
+
+Test case passed: Input(9) => Output(0)
+
+Test case passed: Input(10) => Output(1
+5)
+
+Test case passed: Input(11) => Output(1
+10)
+
+Test case passed: Input(39) => Output(1
+33)
+
+Test case passed: Input(66) => Output(1
+60)
+
+Test case passed: Input(75) => Output(0)
+
+Test case passed: Input(100) => Output(1
+86)
+
+Test case passed: Input(101) => Output(2
+91
+100)
+
+Test case passed: Input(2014) => Output(2
+1988
+2006)
+
+Test case passed: Input(999999994) => Output(0)
+

@@ -1,0 +1,332 @@
+Test case passed: Input(100000 2) => Output(2 50000)
+
+Test case passed: Input(100000 20) => Output(-1)
+
+Test case passed: Input(1024 5) => Output(2 2 2 2 64)
+
+Test case passed: Input(100000 10) => Output(2 2 2 2 2 5 5 5 5 5)
+
+Test case passed: Input(99999 3) => Output(3 3 11111)
+
+Test case passed: Input(99999 4) => Output(3 3 41 271)
+
+Test case passed: Input(99999 5) => Output(-1)
+
+Test case passed: Input(1024 10) => Output(2 2 2 2 2 2 2 2 2 2)
+
+Test case passed: Input(1024 11) => Output(-1)
+
+Test case passed: Input(2048 11) => Output(2 2 2 2 2 2 2 2 2 2 2)
+
+Test case passed: Input(2 1) => Output(2)
+
+Test case passed: Input(2 2) => Output(-1)
+
+Test case passed: Input(2 3) => Output(-1)
+
+Test case passed: Input(2 4) => Output(-1)
+
+Test case passed: Input(2 5) => Output(-1)
+
+Test case passed: Input(2 1) => Output(2)
+
+Test case passed: Input(3 1) => Output(3)
+
+Test case passed: Input(3 2) => Output(-1)
+
+Test case passed: Input(349 2) => Output(-1)
+
+Test case passed: Input(8 1) => Output(8)
+
+Test case passed: Input(66049 2) => Output(257 257)
+
+Test case passed: Input(6557 2) => Output(79 83)
+
+Test case passed: Input(9 2) => Output(3 3)
+
+Test case passed: Input(4 2) => Output(2 2)
+
+Test case passed: Input(2 2) => Output(-1)
+
+Test case passed: Input(4 4) => Output(-1)
+
+Test case passed: Input(12 1) => Output(12)
+
+Test case passed: Input(17 1) => Output(17)
+
+Test case passed: Input(8 2) => Output(2 4)
+
+Test case passed: Input(14 2) => Output(2 7)
+
+Test case passed: Input(99991 1) => Output(99991)
+
+Test case passed: Input(30 2) => Output(2 15)
+
+Test case passed: Input(97 1) => Output(97)
+
+Test case passed: Input(92 2) => Output(2 46)
+
+Test case passed: Input(4 1) => Output(4)
+
+Test case passed: Input(4 3) => Output(-1)
+
+Test case passed: Input(30 4) => Output(-1)
+
+Test case passed: Input(2 6) => Output(-1)
+
+Test case passed: Input(3 1) => Output(3)
+
+Test case passed: Input(3 2) => Output(-1)
+
+Test case passed: Input(3 3) => Output(-1)
+
+Test case passed: Input(3 4) => Output(-1)
+
+Test case passed: Input(3 5) => Output(-1)
+
+Test case passed: Input(3 6) => Output(-1)
+
+Test case passed: Input(4 1) => Output(4)
+
+Test case passed: Input(4 2) => Output(2 2)
+
+Test case passed: Input(4 3) => Output(-1)
+
+Test case passed: Input(4 4) => Output(-1)
+
+Test case passed: Input(4 5) => Output(-1)
+
+Test case passed: Input(4 6) => Output(-1)
+
+Test case passed: Input(5 1) => Output(5)
+
+Test case passed: Input(5 2) => Output(-1)
+
+Test case passed: Input(5 3) => Output(-1)
+
+Test case passed: Input(5 4) => Output(-1)
+
+Test case passed: Input(5 5) => Output(-1)
+
+Test case passed: Input(5 6) => Output(-1)
+
+Test case passed: Input(6 1) => Output(6)
+
+Test case passed: Input(6 2) => Output(2 3)
+
+Test case passed: Input(6 3) => Output(-1)
+
+Test case passed: Input(6 4) => Output(-1)
+
+Test case passed: Input(6 5) => Output(-1)
+
+Test case passed: Input(6 6) => Output(-1)
+
+Test case passed: Input(7 1) => Output(7)
+
+Test case passed: Input(7 2) => Output(-1)
+
+Test case passed: Input(7 3) => Output(-1)
+
+Test case passed: Input(7 4) => Output(-1)
+
+Test case passed: Input(7 5) => Output(-1)
+
+Test case passed: Input(7 6) => Output(-1)
+
+Test case passed: Input(8 1) => Output(8)
+
+Test case passed: Input(8 2) => Output(2 4)
+
+Test case passed: Input(8 3) => Output(2 2 2)
+
+Test case passed: Input(8 4) => Output(-1)
+
+Test case passed: Input(8 5) => Output(-1)
+
+Test case passed: Input(8 6) => Output(-1)
+
+Test case passed: Input(9 1) => Output(9)
+
+Test case passed: Input(9 2) => Output(3 3)
+
+Test case passed: Input(9 3) => Output(-1)
+
+Test case passed: Input(9 4) => Output(-1)
+
+Test case passed: Input(9 5) => Output(-1)
+
+Test case passed: Input(9 6) => Output(-1)
+
+Test case passed: Input(10 1) => Output(10)
+
+Test case passed: Input(10 2) => Output(2 5)
+
+Test case passed: Input(10 3) => Output(-1)
+
+Test case passed: Input(10 4) => Output(-1)
+
+Test case passed: Input(10 5) => Output(-1)
+
+Test case passed: Input(10 6) => Output(-1)
+
+Test case passed: Input(11 1) => Output(11)
+
+Test case passed: Input(11 2) => Output(-1)
+
+Test case passed: Input(11 3) => Output(-1)
+
+Test case passed: Input(11 4) => Output(-1)
+
+Test case passed: Input(11 5) => Output(-1)
+
+Test case passed: Input(11 6) => Output(-1)
+
+Test case passed: Input(12 1) => Output(12)
+
+Test case passed: Input(12 2) => Output(2 6)
+
+Test case passed: Input(12 3) => Output(2 2 3)
+
+Test case passed: Input(12 4) => Output(-1)
+
+Test case passed: Input(12 5) => Output(-1)
+
+Test case passed: Input(12 6) => Output(-1)
+
+Test case passed: Input(13 1) => Output(13)
+
+Test case passed: Input(13 2) => Output(-1)
+
+Test case passed: Input(13 3) => Output(-1)
+
+Test case passed: Input(13 4) => Output(-1)
+
+Test case passed: Input(13 5) => Output(-1)
+
+Test case passed: Input(13 6) => Output(-1)
+
+Test case passed: Input(14 1) => Output(14)
+
+Test case passed: Input(14 2) => Output(2 7)
+
+Test case passed: Input(14 3) => Output(-1)
+
+Test case passed: Input(14 4) => Output(-1)
+
+Test case passed: Input(14 5) => Output(-1)
+
+Test case passed: Input(14 6) => Output(-1)
+
+Test case passed: Input(15 1) => Output(15)
+
+Test case passed: Input(15 2) => Output(3 5)
+
+Test case passed: Input(15 3) => Output(-1)
+
+Test case passed: Input(15 4) => Output(-1)
+
+Test case passed: Input(15 5) => Output(-1)
+
+Test case passed: Input(15 6) => Output(-1)
+
+Test case passed: Input(16 1) => Output(16)
+
+Test case passed: Input(16 2) => Output(2 8)
+
+Test case passed: Input(16 3) => Output(2 2 4)
+
+Test case passed: Input(16 4) => Output(2 2 2 2)
+
+Test case passed: Input(16 5) => Output(-1)
+
+Test case passed: Input(16 6) => Output(-1)
+
+Test case passed: Input(17 1) => Output(17)
+
+Test case passed: Input(17 2) => Output(-1)
+
+Test case passed: Input(17 3) => Output(-1)
+
+Test case passed: Input(17 4) => Output(-1)
+
+Test case passed: Input(17 5) => Output(-1)
+
+Test case passed: Input(17 6) => Output(-1)
+
+Test case passed: Input(18 1) => Output(18)
+
+Test case passed: Input(18 2) => Output(2 9)
+
+Test case passed: Input(18 3) => Output(2 3 3)
+
+Test case passed: Input(18 4) => Output(-1)
+
+Test case passed: Input(18 5) => Output(-1)
+
+Test case passed: Input(18 6) => Output(-1)
+
+Test case passed: Input(19 1) => Output(19)
+
+Test case passed: Input(19 2) => Output(-1)
+
+Test case passed: Input(19 3) => Output(-1)
+
+Test case passed: Input(19 4) => Output(-1)
+
+Test case passed: Input(19 5) => Output(-1)
+
+Test case passed: Input(19 6) => Output(-1)
+
+Test case passed: Input(20 1) => Output(20)
+
+Test case passed: Input(20 2) => Output(2 10)
+
+Test case passed: Input(20 3) => Output(2 2 5)
+
+Test case passed: Input(20 4) => Output(-1)
+
+Test case passed: Input(20 5) => Output(-1)
+
+Test case passed: Input(20 6) => Output(-1)
+
+Test case passed: Input(94249 1) => Output(94249)
+
+Test case passed: Input(94249 2) => Output(307 307)
+
+Test case passed: Input(94249 3) => Output(-1)
+
+Test case passed: Input(94249 4) => Output(-1)
+
+Test case passed: Input(94249 5) => Output(-1)
+
+Test case passed: Input(95477 1) => Output(95477)
+
+Test case passed: Input(95477 2) => Output(307 311)
+
+Test case passed: Input(95477 3) => Output(-1)
+
+Test case passed: Input(95477 4) => Output(-1)
+
+Test case passed: Input(95477 5) => Output(-1)
+
+Test case passed: Input(35557 1) => Output(35557)
+
+Test case passed: Input(35557 2) => Output(31 1147)
+
+Test case passed: Input(35557 3) => Output(31 31 37)
+
+Test case passed: Input(35557 4) => Output(-1)
+
+Test case passed: Input(35557 5) => Output(-1)
+
+Test case passed: Input(42439 1) => Output(42439)
+
+Test case passed: Input(42439 2) => Output(31 1369)
+
+Test case passed: Input(42439 3) => Output(31 37 37)
+
+Test case passed: Input(42439 4) => Output(-1)
+
+Test case passed: Input(42439 5) => Output(-1)
+

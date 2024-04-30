@@ -1,0 +1,145 @@
+Test case passed: Input(3
+2
+2
+1) => Output(3)
+
+Test case passed: Input(4
+1
+2
+3
+4) => Output(1680)
+
+Test case timed out: Input(10
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100)
+
+Test case passed: Input(5
+10
+10
+10
+10
+10) => Output(425711769)
+
+Test case passed: Input(11
+291
+381
+126
+39
+19
+20
+3
+1
+20
+45
+2) => Output(902382672)
+
+Test case passed: Input(1
+1) => Output(1)
+
+Test case passed: Input(13
+67
+75
+76
+80
+69
+86
+75
+86
+81
+84
+73
+72
+76) => Output(232242896)
+
+Test case passed: Input(25
+35
+43
+38
+33
+47
+44
+40
+36
+41
+42
+33
+30
+49
+42
+62
+39
+40
+35
+43
+31
+42
+46
+42
+34
+33) => Output(362689152)
+
+Test case passed: Input(47
+20
+21
+16
+18
+24
+20
+25
+13
+20
+22
+26
+24
+17
+18
+21
+22
+21
+23
+17
+15
+24
+19
+18
+21
+20
+19
+26
+25
+20
+17
+17
+17
+26
+32
+20
+21
+25
+28
+24
+21
+21
+17
+28
+20
+20
+31
+19) => Output(295545118)
+
+Test case passed: Input(3
+343
+317
+337) => Output(691446102)
+
+Test case passed: Input(1
+5) => Output(1)
+

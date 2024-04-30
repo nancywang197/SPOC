@@ -1,0 +1,102 @@
+Test case passed: Input(3
+RRG) => Output(1)
+
+Test case passed: Input(5
+RRRRR) => Output(4)
+
+Test case passed: Input(4
+BRBG) => Output(0)
+
+Test case passed: Input(1
+B) => Output(0)
+
+Test case passed: Input(2
+BG) => Output(0)
+
+Test case passed: Input(3
+BGB) => Output(0)
+
+Test case passed: Input(4
+RBBR) => Output(1)
+
+Test case passed: Input(5
+RGGBG) => Output(1)
+
+Test case passed: Input(10
+GGBRBRGGRB) => Output(2)
+
+Test case passed: Input(50
+GRBGGRBRGRBGGBBBBBGGGBBBBRBRGBRRBRGBBBRBBRRGBGGGRB) => Output(18)
+
+Test case passed: Input(15
+BRRBRGGBBRRRRGR) => Output(6)
+
+Test case passed: Input(20
+RRGBBRBRGRGBBGGRGRRR) => Output(6)
+
+Test case passed: Input(25
+BBGBGRBGGBRRBGRRBGGBBRBRB) => Output(6)
+
+Test case passed: Input(30
+GRGGGBGGRGBGGRGRBGBGBRRRRRRGRB) => Output(9)
+
+Test case passed: Input(35
+GBBGBRGBBGGRBBGBRRGGRRRRRRRBRBBRRGB) => Output(14)
+
+Test case passed: Input(40
+GBBRRGBGGGRGGGRRRRBRBGGBBGGGBGBBBBBRGGGG) => Output(20)
+
+Test case passed: Input(45
+GGGBBRBBRRGRBBGGBGRBRGGBRBRGBRRGBGRRBGRGRBRRG) => Output(11)
+
+Test case passed: Input(50
+RBGGBGGRBGRBBBGBBGRBBBGGGRBBBGBBBGRGGBGGBRBGBGRRGG) => Output(17)
+
+Test case passed: Input(50
+GGGBBRGGGGGRRGGRBGGRGBBRBRRBGRGBBBGBRBGRGBBGRGGBRB) => Output(16)
+
+Test case passed: Input(50
+GBGRGRRBRRRRRGGBBGBRRRBBBRBBBRRGRBBRGBRBGGRGRBBGGG) => Output(19)
+
+Test case passed: Input(10
+GRRBRBRBGR) => Output(1)
+
+Test case passed: Input(10
+BRBGBGRRBR) => Output(1)
+
+Test case passed: Input(20
+GBGBGGRRRRGRBBGRGRGR) => Output(5)
+
+Test case passed: Input(20
+RRGGRBBGBBRBGRRBRRBG) => Output(6)
+
+Test case passed: Input(30
+BGBRGBBBGRGBBRGBGRBBBRGGRRGRRB) => Output(8)
+
+Test case passed: Input(30
+BBBBGGBRBGBBGBGBGBGGGRGRRGGBBB) => Output(11)
+
+Test case passed: Input(40
+GBRRGRBGBRRGBRGGGBRGBGBRGBBRRGRGGBBGBGBB) => Output(9)
+
+Test case passed: Input(40
+BRGRGGRGGRBBRRRBRBBGGGRRGBGBBGRBBRGBRRGG) => Output(13)
+
+Test case passed: Input(50
+RBGBGGRRGGRGGBGBGRRBGGBGBRRBBGBBGBBBGBBRBBRBRBRGRG) => Output(13)
+
+Test case passed: Input(50
+RBRRGBGRRRBGRRBGRRGRBBRBBRRBRGGBRBRRBGGRBGGBRBRGRB) => Output(12)
+
+Test case passed: Input(2
+BB) => Output(1)
+
+Test case passed: Input(50
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR) => Output(49)
+
+Test case passed: Input(50
+RRRRRRRRGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR) => Output(47)
+
+Test case passed: Input(50
+RRRRRRRRRRRRGGRRRRRRRRRBRRRRRRRRRRRRRRBBRRRRRRRRRR) => Output(43)
+

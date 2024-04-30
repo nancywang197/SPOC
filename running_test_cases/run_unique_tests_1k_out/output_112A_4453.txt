@@ -1,0 +1,159 @@
+Test case passed: Input(aaaa
+aaaA) => Output(0)
+
+Test case passed: Input(abs
+Abz) => Output(-1)
+
+Test case passed: Input(abcdefg
+AbCdEfF) => Output(1)
+
+Test case passed: Input(asadasdasd
+asdwasdawd) => Output(-1)
+
+Test case passed: Input(aslkjlkasdd
+asdlkjdajwi) => Output(1)
+
+Test case passed: Input(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) => Output(0)
+
+Test case passed: Input(aAaaaAAaAaaAzZsssSsdDfeEaeqZlpP
+AaaaAaaAaaAaZzSSSSsDdFeeAeQZLpp) => Output(0)
+
+Test case passed: Input(bwuEhEveouaTECagLZiqmUdxEmhRSOzMauJRWLQMppZOumxhAmwuGeDIkvkBLvMXwUoFmpAfDprBcFtEwOULcZWRQhcTbTbX
+HhoDWbcxwiMnCNexOsKsujLiSGcLllXOkRSbnOzThAjnnliLYFFmsYkOfpTxRNEfBsoUHfoLTiqAINRPxWRqrTJhgfkKcDOH) => Output(-1)
+
+Test case passed: Input(kGWUuguKzcvxqKTNpxeDWXpXkrXDvGMFGoXKDfPBZvWSDUyIYBynbKOUonHvmZaKeirUhfmVRKtGhAdBfKMWXDUoqvbfpfHYcg
+cvOULleuIIiYVVxcLZmHVpNGXuEpzcWZZWyMOwIwbpkKPwCfkVbKkUuosvxYCKjqfVmHfJKbdrsAcatPYgrCABaFcoBuOmMfFt) => Output(1)
+
+Test case passed: Input(nCeNVIzHqPceNhjHeHvJvgBsNFiXBATRrjSTXJzhLMDMxiJztphxBRlDlqwDFImWeEPkggZCXSRwelOdpNrYnTepiOqpvkr
+HJbjJFtlvNxIbkKlxQUwmZHJFVNMwPAPDRslIoXISBYHHfymyIaQHLgECPxAmqnOCizwXnIUBRmpYUBVPenoUKhCobKdOjL) => Output(1)
+
+Test case passed: Input(ttXjenUAlfixytHEOrPkgXmkKTSGYuyVXGIHYmWWYGlBYpHkujueqBSgjLguSgiMGJWATIGEUjjAjKXdMiVbHozZUmqQtFrT
+JziDBFBDmDJCcGqFsQwDFBYdOidLxxhBCtScznnDgnsiStlWFnEXQrJxqTXKPxZyIGfLIToETKWZBPUIBmLeImrlSBWCkTNo) => Output(1)
+
+Test case passed: Input(AjQhPqSVhwQQjcgCycjKorWBgFCRuQBwgdVuAPSMJAvTyxGVuFHjfJzkKfsmfhFbKqFrFIohSZBbpjgEHebezmVlGLTPSCTMf
+XhxWuSnMmKFrCUOwkTUmvKAfbTbHWzzOTzxJatLLCdlGnHVaBUnxDlsqpvjLHMThOPAFBggVKDyKBrZAmjnjrhHlrnSkyzBja) => Output(-1)
+
+Test case passed: Input(HCIgYtnqcMyjVngziNflxKHtdTmcRJhzMAjFAsNdWXFJYEhiTzsQUtFNkAbdrFBRmvLirkuirqTDvIpEfyiIqkrwsjvpPWTEdI
+ErqiiWKsmIjyZuzgTlTqxYZwlrpvRyaVhRTOYUqtPMVGGtWOkDCOOQRKrkkRzPftyQCkYkzKkzTPqqXmeZhvvEEiEhkdOmoMvy) => Output(1)
+
+Test case passed: Input(mtBeJYILXcECGyEVSyzLFdQJbiVnnfkbsYYsdUJSIRmyzLfTTtFwIBmRLVnwcewIqcuydkcLpflHAFyDaToLiFMgeHvQorTVbI
+ClLvyejznjbRfCDcrCzkLvqQaGzTjwmWONBdCctJAPJBcQrcYvHaSLQgPIJbmkFBhFzuQLBiRzAdNHulCjIAkBvZxxlkdzUWLR) => Output(1)
+
+Test case passed: Input(tjucSbGESVmVridTBjTmpVBCwwdWKBPeBvmgdxgIVLwQxveETnSdxkTVJpXoperWSgdpPMKNmwDiGeHfxnuqaDissgXPlMuNZIr
+HfjOOJhomqNIKHvqSgfySjlsWJQBuWYwhLQhlZYlpZwboMpoLoluGsBmhhlYgeIouwdkPfiaAIrkYRlxtiFazOPOllPsNZHcIZd) => Output(1)
+
+Test case passed: Input(AanbDfbZNlUodtBQlvPMyomStKNhgvSGhSbTdabxGFGGXCdpsJDimsAykKjfBDPMulkhBMsqLmVKLDoesHZsRAEEdEzqigueXInY
+cwfyjoppiJNrjrOLNZkqcGimrpTsiyFBVgMWEPXsMrxLJDDbtYzerXiFGuLBcQYitLdqhGHBpdjRnkUegmnwhGHAKXGyFtscWDSI) => Output(-1)
+
+Test case passed: Input(HRfxniwuJCaHOcaOVgjOGHXKrwxrDQxJpppeGDXnTAowyKbCsCQPbchCKeTWOcKbySSYnoaTJDnmRcyGPbfXJyZoPcARHBu
+xkLXvwkvGIWSQaFTznLOctUXNuzzBBOlqvzmVfTSejekTAlwidRrsxkbZTsGGeEWxCXHzqWVuLGoCyrGjKkQoHqduXwYQKC) => Output(-1)
+
+Test case passed: Input(OjYwwNuPESIazoyLFREpObIaMKhCaKAMWMfRGgucEuyNYRantwdwQkmflzfqbcFRaXBnZoIUGsFqXZHGKwlaBUXABBcQEWWPvkjW
+RxLqGcTTpBwHrHltCOllnTpRKLDofBUqqHxnOtVWPgvGaeHIevgUSOeeDOJubfqonFpVNGVbHFcAhjnyFvrrqnRgKhkYqQZmRfUl) => Output(-1)
+
+Test case passed: Input(tatuhQPIzjptlzzJpCAPXSRTKZRlwgfoCIsFjJquRoIDyZZYRSPdFUTjjUPhLBBfeEIfLQpygKXRcyQFiQsEtRtLnZErBqW
+tkHUjllbafLUWhVCnvblKjgYIEoHhsjVmrDBmAWbvtkHxDbRFvsXAjHIrujaDbYwOZmacknhZPeCcorbRgHjjgAgoJdjvLo) => Output(-1)
+
+Test case passed: Input(cymCPGqdXKUdADEWDdUaLEEMHiXHsdAZuDnJDMUvxvrLRBrPSDpXPAgMRoGplLtniFRTomDTAHXWAdgUveTxaqKVSvnOyhOwiRN
+uhmyEWzapiRNPFDisvHTbenXMfeZaHqOFlKjrfQjUBwdFktNpeiRoDWuBftZLcCZZAVfioOihZVNqiNCNDIsUdIhvbcaxpTRWoV) => Output(-1)
+
+Test case passed: Input(sSvpcITJAwghVfJaLKBmyjOkhltTGjYJVLWCYMFUomiJaKQYhXTajvZVHIMHbyckYROGQZzjWyWCcnmDmrkvTKfHSSzCIhsXgEZa
+vhCXkCwAmErGVBPBAnkSYEYvseFKbWSktoqaHYXUmYkHfOkRwuEyBRoGoBrOXBKVxXycjZGStuvDarnXMbZLWrbjrisDoJBdSvWJ) => Output(-1)
+
+Test case passed: Input(hJDANKUNBisOOINDsTixJmYgHNogtpwswwcvVMptfGwIjvqgwTYFcqTdyAqaqlnhOCMtsnWXQqtjFwQlEcBtMFAtSqnqthVb
+rNquIcjNWESjpPVWmzUJFrelpUZeGDmSvCurCqVmKHKVAAPkaHksniOlzjiKYIJtvbuQWZRufMebpTFPqyxIWWjfPaWYiNlK) => Output(-1)
+
+Test case passed: Input(ycLoapxsfsDTHMSfAAPIUpiEhQKUIXUcXEiopMBuuZLHtfPpLmCHwNMNQUwsEXxCEmKHTBSnKhtQhGWUvppUFZUgSpbeChX
+dCZhgVXofkGousCzObxZSJwXcHIaqUDSCPKzXntcVmPxtNcXmVcjsetZYxedmgQzXTZHMvzjoaXCMKsncGciSDqQWIIRlys) => Output(1)
+
+Test case passed: Input(nvUbnrywIePXcoukIhwTfUVcHUEgXcsMyNQhmMlTltZiCooyZiIKRIGVHMCnTKgzXXIuvoNDEZswKoACOBGSyVNqTNQqMhAG
+plxuGSsyyJjdvpddrSebOARSAYcZKEaKjqbCwvjhNykuaECoQVHTVFMKXwvrQXRaqXsHsBaGVhCxGRxNyGUbMlxOarMZNXxy) => Output(-1)
+
+Test case passed: Input(EncmXtAblQzcVRzMQqdDqXfAhXbtJKQwZVWyHoWUckohnZqfoCmNJDzexFgFJYrwNHGgzCJTzQQFnxGlhmvQTpicTkEeVICKac
+NIUNZoMLFMyAjVgQLITELJSodIXcGSDWfhFypRoGYuogJpnqGTotWxVqpvBHjFOWcDRDtARsaHarHaOkeNWEHGTaGOFCOFEwvK) => Output(-1)
+
+Test case passed: Input(UG
+ak) => Output(1)
+
+Test case passed: Input(JZR
+Vae) => Output(-1)
+
+Test case passed: Input(a
+Z) => Output(-1)
+
+Test case passed: Input(rk
+kv) => Output(1)
+
+Test case passed: Input(RvuT
+bJzE) => Output(1)
+
+Test case passed: Input(PPS
+ydq) => Output(-1)
+
+Test case passed: Input(q
+q) => Output(0)
+
+Test case passed: Input(peOw
+IgSJ) => Output(1)
+
+Test case passed: Input(PyK
+oKN) => Output(1)
+
+Test case passed: Input(O
+i) => Output(1)
+
+Test case passed: Input(NmGY
+pDlP) => Output(-1)
+
+Test case passed: Input(nG
+Zf) => Output(-1)
+
+Test case passed: Input(m
+a) => Output(1)
+
+Test case passed: Input(MWyB
+WZEV) => Output(-1)
+
+Test case passed: Input(Gre
+fxc) => Output(1)
+
+Test case passed: Input(Ooq
+wap) => Output(-1)
+
+Test case passed: Input(XId
+lbB) => Output(1)
+
+Test case passed: Input(lfFpECEqUMEOJhipvkZjDPcpDNJedOVXiSMgBvBZbtfzIKekcvpWPCazKAhJyHircRtgcBIJwwstpHaLAgxFOngAWUZRgCef
+LfFPEcequmeojHIpVkzjDPcpdNJEDOVXiSmGBVBZBtfZikEKcvPwpCAzKAHJyHIrCRTgCbIJWwSTphALagXfOnGAwUzRGcEF) => Output(0)
+
+Test case passed: Input(DQBdtSEDtFGiNRUeJNbOIfDZnsryUlzJHGTXGFXnwsVyxNtLgmklmFvRCzYETBVdmkpJJIvIOkMDgCFHZOTODiYrkwXd
+DQbDtsEdTFginRUEJNBOIfdZnsryulZJHGtxGFxnwSvYxnTLgmKlmFVRCzyEtBVdmKpJjiVioKMDgCFhzoTODiYrKwXD) => Output(0)
+
+Test case passed: Input(tYWRijFQSzHBpCjUzqBtNvBKyzZRnIdWEuyqnORBQTLyOQglIGfYJIRjuxnbLvkqZakNqPiGDvgpWYkfxYNXsdoKXZtRkSasfa
+TYwRiJfqsZHBPcJuZQBTnVbkyZZRnidwEuYQnorbQTLYOqGligFyjirJUxnblVKqZaknQpigDVGPwyKfxyNXSDoKxztRKSaSFA) => Output(0)
+
+Test case passed: Input(KhScXYiErQIUtmVhNTCXSLAviefIeHIIdiGhsYnPkSBaDTvMkyanfMLBOvDWgRybLtDqvXVdVjccNunDyijhhZEAKBrdz
+kHsCXyiErqIuTMVHNTCxSLaViEFIEhIIDiGHsYNpKsBAdTvMKyANFMLBovdwGRYbLtdQVxvDVJCcNUndYiJHhzeakBrdZ) => Output(0)
+
+Test case passed: Input(cpPQMpjRQJKQVXjWDYECXbagSmNcVfOuBWNZxihdERraVuiOpSVDCPgTGuSQALNoVjySceHcKXwOEpSzXrEqWwwrYeppNiWhDVg
+CPPqmPjRqJkQvxJwdyECXBAGsMNcVfOuBWNzxIhderRavUiOpSvDCpGTgusqAlNovjyScEhCKXwoePSZxrEQwWwryEPPniWHDvG) => Output(0)
+
+Test case passed: Input(SajcCGMepaLjZIWLRBGFcrZRCRvvoCsIyKsQerbrwsIamxxpRmQSZSalasJLVFbCHCuXJlubciQAvLxXYBazLsMKLHLdDQ
+saJcCgmEpaLJziWlrBgFcRzrCrVVOcSIykSQerBrwSIamxxPrMqSzSalASjLVFbChCUxjLUbCIQAVlxxybAZLsmkLhLDdQ) => Output(0)
+
+Test case passed: Input(kigPrWNTOUNDBskAfefjhHYZNYdnfZWuXWzHiBxFQryBbAkPtenFwWvCSTYGpzOntUNzNUhxRWjKmicTwLwJAnbAxj
+kigpRWntOUNdBsKaFEFjhhYZnYDNfzWuXwZhibxFQRybbakPteNfwwvcStyGPzoNTunznuHXrWjKMIctWLWJANBAxJ) => Output(0)
+
+Test case passed: Input(nTomZZuTTRTAAPoUsySVFGElrpQRNLjqvFmcYytiheQnjUhPLnqNBiYtQkljbcvmjuNAVKbvQOWpqqFlQhAhULIhquoCnjUI
+ntOmzZuttrtAAPOUSySVFgeLRPQrNLjQvfmCyYTiHEQnjuHPlNQNbIYtqKLJBCVmjunavkbvQOWPQQFlqHaHULIHQuOcnJUi) => Output(0)
+
+Test case passed: Input(abac
+adaa) => Output(-1)
+
+Test case passed: Input(Bbc
+abc) => Output(1)
+
+Test case passed: Input(aaaba
+aaaab) => Output(1)
+

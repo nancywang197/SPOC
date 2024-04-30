@@ -1,0 +1,22 @@
+Test case passed: Input(3) => Output(2
+17
+46)
+
+Test case passed: Input(2) => Output(2
+17)
+
+Test case passed: Input(4) => Output(2
+17
+46
+97)
+
+Test case passed: Input(1) => Output(2)
+
+Test case passed: Input(7) => Output(2
+17
+46
+97
+176
+289
+442)
+

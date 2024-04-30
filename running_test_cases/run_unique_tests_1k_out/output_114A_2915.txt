@@ -1,0 +1,213 @@
+Test case passed: Input(5
+25) => Output(YES
+1)
+
+Test case passed: Input(3
+8) => Output(NO)
+
+Test case passed: Input(123
+123) => Output(YES
+0)
+
+Test case passed: Input(99
+970300) => Output(NO)
+
+Test case passed: Input(1000
+6666666) => Output(NO)
+
+Test case passed: Input(59
+3571) => Output(NO)
+
+Test case passed: Input(256
+16777217) => Output(NO)
+
+Test case passed: Input(4638
+21511044) => Output(YES
+1)
+
+Test case passed: Input(24
+191102976) => Output(YES
+5)
+
+Test case passed: Input(52010
+557556453) => Output(NO)
+
+Test case passed: Input(61703211
+1750753082) => Output(NO)
+
+Test case passed: Input(137
+2571353) => Output(YES
+2)
+
+Test case passed: Input(8758
+1746157336) => Output(NO)
+
+Test case passed: Input(2
+64) => Output(YES
+5)
+
+Test case passed: Input(96
+884736) => Output(YES
+2)
+
+Test case passed: Input(1094841453
+1656354409) => Output(NO)
+
+Test case passed: Input(1154413
+1229512809) => Output(NO)
+
+Test case passed: Input(2442144
+505226241) => Output(NO)
+
+Test case passed: Input(11548057
+1033418098) => Output(NO)
+
+Test case passed: Input(581
+196122941) => Output(YES
+2)
+
+Test case passed: Input(146
+1913781536) => Output(NO)
+
+Test case passed: Input(945916
+1403881488) => Output(NO)
+
+Test case passed: Input(68269
+365689065) => Output(NO)
+
+Test case passed: Input(30
+900) => Output(YES
+1)
+
+Test case passed: Input(6
+1296) => Output(YES
+3)
+
+Test case passed: Input(1470193122
+1420950405) => Output(NO)
+
+Test case passed: Input(90750
+1793111557) => Output(NO)
+
+Test case passed: Input(1950054
+1664545956) => Output(NO)
+
+Test case passed: Input(6767692
+123762320) => Output(NO)
+
+Test case passed: Input(1437134
+1622348229) => Output(NO)
+
+Test case passed: Input(444103
+1806462642) => Output(NO)
+
+Test case passed: Input(2592
+6718464) => Output(YES
+1)
+
+Test case passed: Input(50141
+366636234) => Output(NO)
+
+Test case passed: Input(835
+582182875) => Output(YES
+2)
+
+Test case passed: Input(156604
+902492689) => Output(NO)
+
+Test case passed: Input(27385965
+1742270058) => Output(NO)
+
+Test case passed: Input(3
+9) => Output(YES
+1)
+
+Test case passed: Input(35
+1838265625) => Output(YES
+5)
+
+Test case passed: Input(8
+4096) => Output(YES
+3)
+
+Test case passed: Input(85955
+945811082) => Output(NO)
+
+Test case passed: Input(54958832
+956670209) => Output(NO)
+
+Test case passed: Input(1475381
+1348159738) => Output(NO)
+
+Test case passed: Input(7313241
+413670642) => Output(NO)
+
+Test case passed: Input(582470
+2116368165) => Output(NO)
+
+Test case passed: Input(26859739
+595086170) => Output(NO)
+
+Test case passed: Input(249766393
+1582130) => Output(NO)
+
+Test case passed: Input(11734
+137686756) => Output(YES
+1)
+
+Test case passed: Input(925093
+1098566745) => Output(NO)
+
+Test case passed: Input(40
+1600) => Output(YES
+1)
+
+Test case passed: Input(2147483647
+2147483647) => Output(YES
+0)
+
+Test case passed: Input(2147483646
+2147483647) => Output(NO)
+
+Test case passed: Input(2147483647
+2147483646) => Output(NO)
+
+Test case passed: Input(2
+2147483647) => Output(NO)
+
+Test case passed: Input(2
+1073741825) => Output(NO)
+
+Test case passed: Input(2
+1073741824) => Output(YES
+29)
+
+Test case passed: Input(10000
+10) => Output(NO)
+
+Test case passed: Input(10
+10000) => Output(YES
+3)
+
+Test case passed: Input(10
+2000000000) => Output(NO)
+
+Test case passed: Input(10
+1000000000) => Output(YES
+8)
+
+Test case passed: Input(5
+1808548329) => Output(NO)
+
+Test case passed: Input(2
+2147483646) => Output(NO)
+
+Test case passed: Input(25
+125) => Output(NO)
+
+Test case passed: Input(6
+18) => Output(NO)
+
+Test case passed: Input(5
+30) => Output(NO)
+

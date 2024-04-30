@@ -1,0 +1,512 @@
+Test case passed: Input(4
+red
+purple
+yellow
+orange) => Output(2
+Time
+Space)
+
+Test case passed: Input(0) => Output(6
+Power
+Time
+Space
+Soul
+Reality
+Mind)
+
+Test case passed: Input(6
+purple
+blue
+yellow
+red
+green
+orange) => Output(0)
+
+Test case passed: Input(1
+purple) => Output(5
+Time
+Space
+Soul
+Reality
+Mind)
+
+Test case passed: Input(3
+blue
+orange
+purple) => Output(3
+Time
+Reality
+Mind)
+
+Test case passed: Input(2
+yellow
+red) => Output(4
+Power
+Time
+Space
+Soul)
+
+Test case passed: Input(1
+green) => Output(5
+Power
+Space
+Soul
+Reality
+Mind)
+
+Test case passed: Input(2
+purple
+green) => Output(4
+Space
+Soul
+Reality
+Mind)
+
+Test case passed: Input(1
+blue) => Output(5
+Power
+Time
+Soul
+Reality
+Mind)
+
+Test case passed: Input(2
+purple
+blue) => Output(4
+Time
+Soul
+Reality
+Mind)
+
+Test case passed: Input(2
+green
+blue) => Output(4
+Power
+Soul
+Reality
+Mind)
+
+Test case passed: Input(3
+purple
+green
+blue) => Output(3
+Soul
+Reality
+Mind)
+
+Test case passed: Input(1
+orange) => Output(5
+Power
+Time
+Space
+Reality
+Mind)
+
+Test case passed: Input(2
+purple
+orange) => Output(4
+Time
+Space
+Reality
+Mind)
+
+Test case passed: Input(2
+orange
+green) => Output(4
+Power
+Space
+Reality
+Mind)
+
+Test case passed: Input(3
+orange
+purple
+green) => Output(3
+Space
+Reality
+Mind)
+
+Test case passed: Input(2
+orange
+blue) => Output(4
+Power
+Time
+Reality
+Mind)
+
+Test case passed: Input(3
+blue
+green
+orange) => Output(3
+Power
+Reality
+Mind)
+
+Test case passed: Input(4
+blue
+orange
+green
+purple) => Output(2
+Reality
+Mind)
+
+Test case passed: Input(1
+red) => Output(5
+Power
+Time
+Space
+Soul
+Mind)
+
+Test case passed: Input(2
+red
+purple) => Output(4
+Time
+Space
+Soul
+Mind)
+
+Test case passed: Input(2
+red
+green) => Output(4
+Power
+Space
+Soul
+Mind)
+
+Test case passed: Input(3
+red
+purple
+green) => Output(3
+Space
+Soul
+Mind)
+
+Test case passed: Input(2
+blue
+red) => Output(4
+Power
+Time
+Soul
+Mind)
+
+Test case passed: Input(3
+red
+blue
+purple) => Output(3
+Time
+Soul
+Mind)
+
+Test case passed: Input(3
+red
+blue
+green) => Output(3
+Power
+Soul
+Mind)
+
+Test case passed: Input(4
+purple
+blue
+green
+red) => Output(2
+Soul
+Mind)
+
+Test case passed: Input(2
+orange
+red) => Output(4
+Power
+Time
+Space
+Mind)
+
+Test case passed: Input(3
+red
+orange
+purple) => Output(3
+Time
+Space
+Mind)
+
+Test case passed: Input(3
+red
+orange
+green) => Output(3
+Power
+Space
+Mind)
+
+Test case passed: Input(4
+red
+orange
+green
+purple) => Output(2
+Space
+Mind)
+
+Test case passed: Input(3
+blue
+orange
+red) => Output(3
+Power
+Time
+Mind)
+
+Test case passed: Input(4
+orange
+blue
+purple
+red) => Output(2
+Time
+Mind)
+
+Test case passed: Input(4
+green
+orange
+red
+blue) => Output(2
+Power
+Mind)
+
+Test case passed: Input(5
+purple
+orange
+blue
+red
+green) => Output(1
+Mind)
+
+Test case passed: Input(1
+yellow) => Output(5
+Power
+Time
+Space
+Soul
+Reality)
+
+Test case passed: Input(2
+purple
+yellow) => Output(4
+Time
+Space
+Soul
+Reality)
+
+Test case passed: Input(2
+green
+yellow) => Output(4
+Power
+Space
+Soul
+Reality)
+
+Test case passed: Input(3
+purple
+yellow
+green) => Output(3
+Space
+Soul
+Reality)
+
+Test case passed: Input(2
+blue
+yellow) => Output(4
+Power
+Time
+Soul
+Reality)
+
+Test case passed: Input(3
+yellow
+blue
+purple) => Output(3
+Time
+Soul
+Reality)
+
+Test case passed: Input(3
+green
+yellow
+blue) => Output(3
+Power
+Soul
+Reality)
+
+Test case passed: Input(4
+yellow
+blue
+green
+purple) => Output(2
+Soul
+Reality)
+
+Test case passed: Input(2
+yellow
+orange) => Output(4
+Power
+Time
+Space
+Reality)
+
+Test case passed: Input(3
+yellow
+purple
+orange) => Output(3
+Time
+Space
+Reality)
+
+Test case passed: Input(3
+orange
+yellow
+green) => Output(3
+Power
+Space
+Reality)
+
+Test case passed: Input(4
+green
+yellow
+orange
+purple) => Output(2
+Space
+Reality)
+
+Test case passed: Input(3
+yellow
+blue
+orange) => Output(3
+Power
+Time
+Reality)
+
+Test case passed: Input(4
+orange
+purple
+blue
+yellow) => Output(2
+Time
+Reality)
+
+Test case passed: Input(4
+blue
+orange
+yellow
+green) => Output(2
+Power
+Reality)
+
+Test case passed: Input(5
+green
+yellow
+orange
+blue
+purple) => Output(1
+Reality)
+
+Test case passed: Input(3
+yellow
+purple
+red) => Output(3
+Time
+Space
+Soul)
+
+Test case passed: Input(3
+red
+green
+yellow) => Output(3
+Power
+Space
+Soul)
+
+Test case passed: Input(4
+red
+purple
+green
+yellow) => Output(2
+Space
+Soul)
+
+Test case passed: Input(3
+red
+yellow
+blue) => Output(3
+Power
+Time
+Soul)
+
+Test case passed: Input(4
+blue
+yellow
+red
+purple) => Output(2
+Time
+Soul)
+
+Test case passed: Input(4
+blue
+yellow
+red
+green) => Output(2
+Power
+Soul)
+
+Test case passed: Input(5
+red
+yellow
+green
+blue
+purple) => Output(1
+Soul)
+
+Test case passed: Input(3
+red
+yellow
+orange) => Output(3
+Power
+Time
+Space)
+
+Test case passed: Input(4
+orange
+green
+yellow
+red) => Output(2
+Power
+Space)
+
+Test case passed: Input(5
+orange
+red
+green
+yellow
+purple) => Output(1
+Space)
+
+Test case passed: Input(4
+yellow
+red
+orange
+blue) => Output(2
+Power
+Time)
+
+Test case passed: Input(5
+purple
+blue
+orange
+yellow
+red) => Output(1
+Time)
+
+Test case passed: Input(5
+orange
+blue
+yellow
+red
+green) => Output(1
+Power)
+

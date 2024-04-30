@@ -1,0 +1,62 @@
+Test case passed: Input(5
+! abc
+. ad
+. b
+! cd
+? c) => Output(1)
+
+Test case passed: Input(8
+! hello
+! codeforces
+? c
+. o
+? d
+? h
+. l
+? e) => Output(2)
+
+Test case passed: Input(7
+! ababahalamaha
+? a
+? b
+? a
+? b
+? a
+? h) => Output(0)
+
+Test case passed: Input(4
+! abcd
+! cdef
+? d
+? c) => Output(0)
+
+Test case passed: Input(1
+? q) => Output(0)
+
+Test case passed: Input(15
+. r
+? e
+. s
+. rw
+? y
+. fj
+. zftyd
+? r
+! wq
+? w
+? p
+. ours
+. dto
+. lbyfru
+? q) => Output(2)
+
+Test case passed: Input(3
+. abcdefghijklmnopqrstuvwxy
+? a
+? z) => Output(1)
+
+Test case passed: Input(3
+. abcdefghijklmnopqrstuvwxy
+! z
+? z) => Output(1)
+

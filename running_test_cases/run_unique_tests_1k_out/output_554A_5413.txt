@@ -1,0 +1,66 @@
+Test case passed: Input(a) => Output(51)
+
+Test case passed: Input(hi) => Output(76)
+
+Test case passed: Input(y) => Output(51)
+
+Test case passed: Input(kgan) => Output(126)
+
+Test case passed: Input(zoabkyuvus) => Output(276)
+
+Test case passed: Input(spyemhyznjieyhhbk) => Output(451)
+
+Test case passed: Input(xulsyfkuizjauadjjopu) => Output(526)
+
+Test case passed: Input(e) => Output(51)
+
+Test case passed: Input(zv) => Output(76)
+
+Test case passed: Input(jgv) => Output(101)
+
+Test case passed: Input(zsfo) => Output(126)
+
+Test case passed: Input(jselr) => Output(151)
+
+Test case passed: Input(dwemig) => Output(176)
+
+Test case passed: Input(mddoxsf) => Output(201)
+
+Test case passed: Input(jgirkrmi) => Output(226)
+
+Test case passed: Input(spkxurcum) => Output(251)
+
+Test case passed: Input(fykkiubdkt) => Output(276)
+
+Test case passed: Input(fznbcxsxygs) => Output(301)
+
+Test case passed: Input(qcrvrdqcbtou) => Output(326)
+
+Test case passed: Input(qktrbjzrqgmlr) => Output(351)
+
+Test case passed: Input(foamodbvptlxxg) => Output(376)
+
+Test case passed: Input(ydzpjhsidipricw) => Output(401)
+
+Test case passed: Input(lpfpndmjfvqejdgf) => Output(426)
+
+Test case passed: Input(ofkvparuvjtggnmab) => Output(451)
+
+Test case passed: Input(xxncfutrtxcwdzwbgs) => Output(476)
+
+Test case passed: Input(zovhffccflkgqncsdte) => Output(501)
+
+Test case passed: Input(cskgsxywlvfeicoueglr) => Output(526)
+
+Test case passed: Input(gggggggggggggggggggg) => Output(526)
+
+Test case passed: Input(qdqdddqddqqddqddqdqd) => Output(526)
+
+Test case passed: Input(takttttaakaaktakttkt) => Output(526)
+
+Test case passed: Input(coccoooogogcgocccmcg) => Output(526)
+
+Test case passed: Input(kskkskkkssksssk) => Output(401)
+
+Test case passed: Input(lllllllllllllll) => Output(401)
+

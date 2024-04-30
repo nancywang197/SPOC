@@ -1,0 +1,153 @@
+Test case timed out: Input(+Mike
+Mike:hello
++Kate
++Dmitry
+-Dmitry
+Kate:hi
+-Kate)
+
+Test case timed out: Input(+Mike
+-Mike
++Mike
+Mike:Hi   I am here
+-Mike
++Kate
+-Kate)
+
+Test case timed out: Input(+Dmitry
++Mike
+Dmitry:All letters will be used
+Dmitry:qwertyuiopasdfghjklzxcvbnm QWERTYUIOPASDFGHJKLZXCVBNM
+Dmitry:And digits too
+Dmitry:1234567890 0987654321
+-Dmitry)
+
+Test case timed out: Input(+Dmitry
++Mike
++Kate
+Dmitry:)
+
+Test case timed out: Input(+Dmitry
+Dmitry:No phrases with spaces at the beginning and at the end
++Mike
+Dmitry:spaces    spaces
+-Dmitry)
+
+Test case timed out: Input(+XqD
++aT537
+XqD:x6ZPjMR1DDKG2
+XqD:lLCriywPnB
+-XqD)
+
+Test case timed out: Input(+8UjgAJ
+8UjgAJ:02hR7UBc1tqqfL
+-8UjgAJ
++zdi
+-zdi)
+
+Test case timed out: Input(+6JPKkgXDrA
++j6JHjv70An
++QGtsceK0zJ
+6JPKkgXDrA:o4
++CSmwi9zDra
+QGtsceK0zJ:Zl
+QGtsceK0zJ:0
+j6JHjv70An:7
+j6JHjv70An:B
+QGtsceK0zJ:OO)
+
+Test case timed out: Input(+1aLNq9S7uLV
+-1aLNq9S7uLV
++O9ykq3xDJv
+-O9ykq3xDJv
++54Yq1xJq14F
++0zJ5Vo0RDZ
+-54Yq1xJq14F
+-0zJ5Vo0RDZ
++lxlH7sdolyL
+-lxlH7sdolyL)
+
+Test case timed out: Input(+qlHEc2AuYy
+qlHEc2AuYy:YYRwD0 edNZgpE nGfOguRWnMYpTpGUVM aXDKGXo1Gv1tHL9
+qlHEc2AuYy:yvh3GsPcImqrvoUcBNQcP6ezwpU0 xAVltaKZp94VKiNao
+qlHEc2AuYy:zuCO6Opey L  eu7lTwysaSk00zjpv zrDfbt8l  hpHfu
++pErDMxgVgh
+qlHEc2AuYy:I1FLis  mmQbZtd8Ui7y 1vcax6yZBMhVRdD6Ahlq7MNCw
+qlHEc2AuYy:lz MFUNJZhlqBYckHUDlNhLiEkmecRh1o0t7alXBvCRVEFVx
+pErDMxgVgh:jCyMbu1dkuEj5TzbBOjyUhpfC50cL8R900Je3R KxRgAI dT
+qlHEc2AuYy:62b47eabo2hf vSUD7KioN ZHki6WB6gh3u GKv5rgwyfF
+pErDMxgVgh:zD5 9 ympl4wR gy7a7eAGAn5xVdGP9FbL6hRCZAR6O4pT6zb)
+
+Test case timed out: Input(+adabacaba0)
+
+Test case timed out: Input(+acabadab
++caba0aba)
+
+Test case timed out: Input(+dabaca
+-dabaca
++aba0ab)
+
+Test case timed out: Input(+cab
++abac
+-abac
++baca)
+
+Test case timed out: Input(+cabadabac
+-cabadabac
++abacaba1ab
+-abacaba1ab
++ba0abaca)
+
+Test case timed out: Input(+adabacaba
+-adabacaba
++aca
+aca:caba
+-aca
++bacaba
+-bacaba
++aba
+-aba
++bad)
+
+Test case timed out: Input(+acabadab
+-acabadab
++aba0abacab
++baca
++abacaba0ab
+-baca
+-abacaba0ab
+-aba0abacab
++cab
+-cab
++abacabada
+-abacabada
++badabaca
+-badabaca
++badaba)
+
+Test case timed out: Input(+badabac
+badabac:abacabad
+-badabac
++0ab
+-0ab
++dabacab
+-dabacab
++a0ab
+-a0ab
++0abaca
+-0abaca
++dabac
+-dabac
++abaca
+-abaca
++bacabada
+-bacabada
++aca
+-aca
++abadabaca
+-abadabaca
++acaba
+-acaba
++abacabadab
+-abacabadab)
+

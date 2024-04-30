@@ -1,0 +1,156 @@
+Test case passed: Input(5 3
+1 1 1 1 1
+1 1 1 1 1) => Output(YES)
+
+Test case passed: Input(5 4
+1 0 0 0 1
+0 1 1 1 1) => Output(YES)
+
+Test case passed: Input(5 2
+0 1 1 1 1
+1 1 1 1 1) => Output(NO)
+
+Test case passed: Input(2 2
+1 1
+0 0) => Output(YES)
+
+Test case passed: Input(10 3
+0 1 1 0 1 0 0 1 0 1
+1 1 1 1 0 0 1 1 1 1) => Output(NO)
+
+Test case passed: Input(10 6
+1 0 0 1 1 0 1 1 1 1
+1 1 1 1 0 0 1 1 1 1) => Output(NO)
+
+Test case passed: Input(10 10
+1 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0) => Output(YES)
+
+Test case passed: Input(10 6
+1 1 1 1 1 0 1 1 0 0
+1 1 1 1 1 1 0 0 0 1) => Output(NO)
+
+Test case passed: Input(10 2
+1 0 0 1 0 1 1 0 1 1
+1 1 1 0 1 0 0 1 0 1) => Output(YES)
+
+Test case passed: Input(10 3
+1 0 0 1 0 0 0 1 1 0
+1 1 1 1 0 0 1 0 0 1) => Output(YES)
+
+Test case passed: Input(3 2
+1 1 0
+1 1 0) => Output(YES)
+
+Test case passed: Input(5 3
+1 1 0 1 0
+1 1 1 1 0) => Output(YES)
+
+Test case passed: Input(5 2
+1 0 0 0 1
+0 1 0 0 1) => Output(YES)
+
+Test case passed: Input(5 2
+1 0 0 1 0
+1 1 0 1 0) => Output(YES)
+
+Test case passed: Input(4 2
+1 0 1 1
+1 1 1 0) => Output(YES)
+
+Test case passed: Input(5 3
+1 0 0 0 1
+0 0 1 0 1) => Output(YES)
+
+Test case passed: Input(5 3
+1 0 0 1 0
+0 0 1 1 0) => Output(YES)
+
+Test case passed: Input(5 3
+1 1 0 1 0
+1 1 1 1 1) => Output(YES)
+
+Test case passed: Input(3 3
+0 0 0
+0 0 0) => Output(NO)
+
+Test case passed: Input(2 2
+1 0
+1 0) => Output(NO)
+
+Test case passed: Input(5 2
+1 0 1 1 1
+0 1 0 0 0) => Output(NO)
+
+Test case passed: Input(4 4
+1 0 0 0
+1 0 0 0) => Output(NO)
+
+Test case passed: Input(4 2
+1 0 0 1
+0 1 0 1) => Output(YES)
+
+Test case passed: Input(5 3
+1 0 0 0 1
+1 0 1 0 0) => Output(NO)
+
+Test case passed: Input(4 3
+1 0 1 0
+1 0 1 0) => Output(YES)
+
+Test case passed: Input(2 2
+0 0
+0 0) => Output(NO)
+
+Test case passed: Input(5 3
+1 0 0 0 1
+0 1 1 0 1) => Output(YES)
+
+Test case passed: Input(4 2
+1 0 1 1
+0 1 0 0) => Output(NO)
+
+Test case passed: Input(4 2
+1 0 1 0
+0 1 1 0) => Output(YES)
+
+Test case passed: Input(5 3
+1 0 0 0 1
+0 0 1 0 0) => Output(NO)
+
+Test case passed: Input(4 2
+1 0 0 1
+1 1 0 1) => Output(YES)
+
+Test case passed: Input(3 2
+1 0 1
+1 1 0) => Output(NO)
+
+Test case passed: Input(4 2
+1 0 1 1
+0 1 0 1) => Output(YES)
+
+Test case passed: Input(7 3
+1 0 0 0 0 0 1
+0 0 1 0 0 0 1) => Output(YES)
+
+Test case passed: Input(7 3
+1 0 0 0 0 1 0
+0 0 1 0 0 1 0) => Output(YES)
+
+Test case passed: Input(5 3
+1 0 0 0 1
+1 0 1 0 1) => Output(YES)
+
+Test case passed: Input(7 4
+1 1 0 0 1 1 0
+1 1 1 1 1 1 1) => Output(YES)
+
+Test case passed: Input(5 3
+1 1 0 1 1
+1 1 1 1 0) => Output(YES)
+
+Test case passed: Input(5 2
+0 0 0 1 0
+0 1 0 1 0) => Output(NO)
+

@@ -1,0 +1,27 @@
+Test case passed: Input(7
+...feon) => Output(leafeon)
+
+Test case passed: Input(7
+.l.r.o.) => Output(flareon)
+
+Test case passed: Input(6
+.s..o.) => Output(espeon)
+
+Test case passed: Input(7
+glaceon) => Output(glaceon)
+
+Test case passed: Input(8
+.a.o.e.n) => Output(vaporeon)
+
+Test case passed: Input(7
+.laceon) => Output(glaceon)
+
+Test case passed: Input(7
+..lveon) => Output(sylveon)
+
+Test case passed: Input(7
+.l.ceon) => Output(glaceon)
+
+Test case passed: Input(7
+..areon) => Output(flareon)
+

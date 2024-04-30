@@ -1,0 +1,84 @@
+Test case passed: Input(AS
+2H 4C TH JH AD) => Output(YES)
+
+Test case passed: Input(2H
+3D 4C AC KD AS) => Output(NO)
+
+Test case passed: Input(4D
+AS AC AD AH 5H) => Output(YES)
+
+Test case passed: Input(3D
+8S 4S 2C AS 6H) => Output(NO)
+
+Test case passed: Input(7H
+TC 4C KC AD 9S) => Output(NO)
+
+Test case passed: Input(KH
+3C QD 9S KS 8D) => Output(YES)
+
+Test case passed: Input(4H
+JH QC 5H 9H KD) => Output(YES)
+
+Test case passed: Input(9H
+KC 6D KD 4C 2S) => Output(NO)
+
+Test case passed: Input(AD
+QC 5S 4H JH 2S) => Output(NO)
+
+Test case passed: Input(QC
+QD KS AH 7S 2S) => Output(YES)
+
+Test case passed: Input(7H
+4H 6D AC KH 8H) => Output(YES)
+
+Test case passed: Input(4S
+9D 4D 5S 7D 5D) => Output(YES)
+
+Test case passed: Input(AS
+2H 4C TH JH TS) => Output(YES)
+
+Test case passed: Input(AS
+2S 3S 4S 5S 6S) => Output(YES)
+
+Test case passed: Input(KS
+AD 2D 3D 4D 5D) => Output(NO)
+
+Test case passed: Input(7S
+7H 2H 3H 4H 5H) => Output(YES)
+
+Test case passed: Input(AS
+4H 4C TH JH TS) => Output(YES)
+
+Test case passed: Input(7S
+2H 4H 5H 6H 2S) => Output(YES)
+
+Test case passed: Input(AS
+2H 4C TH JH KS) => Output(YES)
+
+Test case passed: Input(AS
+2S 2H 3H 4H 5H) => Output(YES)
+
+Test case passed: Input(AC
+2D 3D 4D 5C 6D) => Output(YES)
+
+Test case passed: Input(2S
+2D 3D 4D 5D 6D) => Output(YES)
+
+Test case passed: Input(AS
+2H 4C TH JH 3S) => Output(YES)
+
+Test case passed: Input(2S
+2H 3H 4H 5H 6H) => Output(YES)
+
+Test case passed: Input(AS
+2S 3D 4D 5D 6D) => Output(YES)
+
+Test case passed: Input(AS
+2C 3C 4C 5C 5S) => Output(YES)
+
+Test case passed: Input(2D
+2H 3H 4H 5H 6H) => Output(YES)
+
+Test case passed: Input(9D
+2D 3D 4D 5D 6D) => Output(YES)
+

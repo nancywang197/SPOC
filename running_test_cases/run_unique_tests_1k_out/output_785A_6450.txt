@@ -1,0 +1,83 @@
+Test case passed: Input(4
+Icosahedron
+Cube
+Tetrahedron
+Dodecahedron) => Output(42)
+
+Test case passed: Input(3
+Dodecahedron
+Octahedron
+Octahedron) => Output(28)
+
+Test case passed: Input(25
+Icosahedron
+Octahedron
+Tetrahedron
+Dodecahedron
+Cube
+Icosahedron
+Octahedron
+Cube
+Tetrahedron
+Icosahedron
+Icosahedron
+Tetrahedron
+Octahedron
+Dodecahedron
+Icosahedron
+Octahedron
+Icosahedron
+Tetrahedron
+Dodecahedron
+Tetrahedron
+Octahedron
+Cube
+Cube
+Dodecahedron
+Tetrahedron) => Output(256)
+
+Test case passed: Input(1
+Tetrahedron) => Output(4)
+
+Test case passed: Input(1
+Cube) => Output(6)
+
+Test case passed: Input(1
+Octahedron) => Output(8)
+
+Test case passed: Input(1
+Dodecahedron) => Output(12)
+
+Test case passed: Input(1
+Icosahedron) => Output(20)
+
+Test case passed: Input(28
+Octahedron
+Dodecahedron
+Octahedron
+Octahedron
+Dodecahedron
+Icosahedron
+Icosahedron
+Dodecahedron
+Dodecahedron
+Dodecahedron
+Cube
+Dodecahedron
+Cube
+Tetrahedron
+Cube
+Cube
+Tetrahedron
+Dodecahedron
+Dodecahedron
+Dodecahedron
+Icosahedron
+Icosahedron
+Dodecahedron
+Icosahedron
+Dodecahedron
+Dodecahedron
+Icosahedron
+Icosahedron) => Output(340)
+

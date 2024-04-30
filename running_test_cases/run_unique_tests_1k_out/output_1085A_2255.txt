@@ -1,0 +1,30 @@
+Test case passed: Input(ncteho) => Output(techno)
+
+Test case passed: Input(erfdcoeocs) => Output(codeforces)
+
+Test case passed: Input(z) => Output(z)
+
+Test case passed: Input(bz) => Output(bz)
+
+Test case passed: Input(tea) => Output(eat)
+
+Test case passed: Input(code) => Output(odce)
+
+Test case passed: Input(qwertyuioasdfghjklrtyuiodfghjklqwertyuioasdfssddxb) => Output(dfogihujyktlrqlwkejrhtgyfudisoaaosidufystsrdedwxqb)
+
+Test case passed: Input(qwertyuioasdfghjklrtyuiodfghjklqwertyuioasdfssd) => Output(odifugyhtjrkllkqjwhegrftdysuaiooiausydtfrseswdq)
+
+Test case passed: Input(testa) => Output(steat)
+
+Test case passed: Input(abcdef) => Output(cdbeaf)
+
+Test case passed: Input(abcdefg) => Output(decfbga)
+
+Test case passed: Input(qwertyuioasdfghjklrtyuiodfghjklqwertyuioasdfssdda) => Output(dfogihujyktlrqlwkejrhtgyfudisoaaosidufystsrdedwaq)
+
+Test case passed: Input(zqwertyuioasdfghjklrtyuiodfghjklqwertyuioasdfssd) => Output(ioudyftgrhljkkjlhqgwfedrstayouiiuoyatsrdefwsqszd)
+
+Test case passed: Input(gecabdfh) => Output(abcdefgh)
+
+Test case passed: Input(aechs) => Output(chesa)
+

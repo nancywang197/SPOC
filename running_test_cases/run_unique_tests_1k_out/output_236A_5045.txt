@@ -1,0 +1,170 @@
+Test case passed: Input(wjmzbmr) => Output(CHAT WITH HER!)
+
+Test case passed: Input(xiaodao) => Output(IGNORE HIM!)
+
+Test case passed: Input(sevenkplus) => Output(CHAT WITH HER!)
+
+Test case passed: Input(pezu) => Output(CHAT WITH HER!)
+
+Test case passed: Input(wnemlgppy) => Output(CHAT WITH HER!)
+
+Test case passed: Input(zcinitufxoldnokacdvtmdohsfdjepyfioyvclhmujiqwvmudbfjzxjfqqxjmoiyxrfsbvseawwoyynn) => Output(IGNORE HIM!)
+
+Test case passed: Input(qsxxuoynwtebujwpxwpajitiwxaxwgbcylxneqiebzfphugwkftpaikixmumkhfbjiswmvzbtiyifbx) => Output(CHAT WITH HER!)
+
+Test case passed: Input(qwbdfzfylckctudyjlyrtmvbidfatdoqfmrfshsqqmhzohhsczscvwzpwyoyswhktjlykumhvaounpzwpxcspxwlgt) => Output(IGNORE HIM!)
+
+Test case passed: Input(nuezoadauueermoeaabjrkxttkatspjsjegjcjcdmcxgodowzbwuqncfbeqlhkk) => Output(IGNORE HIM!)
+
+Test case passed: Input(lggvdmulrsvtuagoavstuyufhypdxfomjlzpnduulukszqnnwfvxbvxyzmleocmofwclmzz) => Output(IGNORE HIM!)
+
+Test case passed: Input(tgcdptnkc) => Output(IGNORE HIM!)
+
+Test case passed: Input(wvfgnfrzabgibzxhzsojskmnlmrokydjoexnvi) => Output(IGNORE HIM!)
+
+Test case passed: Input(sxtburpzskucowowebgrbovhadrrayamuwypmmxhscrujkmcgvyinp) => Output(IGNORE HIM!)
+
+Test case passed: Input(pjqxhvxkyeqqvyuujxhmbspatvrckhhkfloottuybjivkkhpyivcighxumavrxzxslfpggnwbtalmhysyfllznphzia) => Output(IGNORE HIM!)
+
+Test case passed: Input(fpellxwskyekoyvrfnuf) => Output(CHAT WITH HER!)
+
+Test case passed: Input(xninyvkuvakfbs) => Output(IGNORE HIM!)
+
+Test case passed: Input(vnxhrweyvhqufpfywdwftoyrfgrhxuamqhblkvdpxmgvphcbeeqbqssresjifwyzgfhurmamhkwupymuomak) => Output(CHAT WITH HER!)
+
+Test case passed: Input(kmsk) => Output(IGNORE HIM!)
+
+Test case passed: Input(lqonogasrkzhryjxppjyriyfxmdfubieglthyswz) => Output(CHAT WITH HER!)
+
+Test case passed: Input(ndormkufcrkxlihdhmcehzoimcfhqsmombnfjrlcalffq) => Output(CHAT WITH HER!)
+
+Test case passed: Input(zqzlnnuwcfufwujygtczfakhcpqbtxtejrbgoodychepzdphdahtxyfpmlrycyicqthsgm) => Output(IGNORE HIM!)
+
+Test case passed: Input(ppcpbnhwoizajrl) => Output(IGNORE HIM!)
+
+Test case passed: Input(sgubujztzwkzvztitssxxxwzanfmddfqvv) => Output(CHAT WITH HER!)
+
+Test case passed: Input(ptkyaxycecpbrjnvxcjtbqiocqcswnmicxbvhdsptbxyxswbw) => Output(IGNORE HIM!)
+
+Test case passed: Input(yhbtzfppwcycxqjpqdfmjnhwaogyuaxamwxpnrdrnqsgdyfvxu) => Output(CHAT WITH HER!)
+
+Test case passed: Input(ojjvpnkrxibyevxk) => Output(CHAT WITH HER!)
+
+Test case passed: Input(wjweqcrqfuollfvfbiyriijovweg) => Output(IGNORE HIM!)
+
+Test case passed: Input(hkdbykboclchfdsuovvpknwqr) => Output(IGNORE HIM!)
+
+Test case passed: Input(stjvyfrfowopwfjdveduedqylerqugykyu) => Output(IGNORE HIM!)
+
+Test case passed: Input(rafcaanqytfclvfdegak) => Output(CHAT WITH HER!)
+
+Test case passed: Input(xczn) => Output(CHAT WITH HER!)
+
+Test case passed: Input(arcoaeozyeawbveoxpmafxxzdjldsielp) => Output(IGNORE HIM!)
+
+Test case passed: Input(smdfafbyehdylhaleevhoggiurdgeleaxkeqdixyfztkuqsculgslheqfafxyghyuibdgiuwrdxfcitojxika) => Output(CHAT WITH HER!)
+
+Test case passed: Input(vbpfgjqnhfazmvtkpjrdasfhsuxnpiepxfrzvoh) => Output(CHAT WITH HER!)
+
+Test case passed: Input(dbdokywnpqnotfrhdbrzmuyoxfdtrgrzcccninbtmoqvxfatcqg) => Output(CHAT WITH HER!)
+
+Test case passed: Input(udlpagtpq) => Output(CHAT WITH HER!)
+
+Test case passed: Input(zjurevbytijifnpfuyswfchdzelxheboruwjqijxcucylysmwtiqsqqhktexcynquvcwhbjsipy) => Output(CHAT WITH HER!)
+
+Test case passed: Input(qagzrqjomdwhagkhrjahhxkieijyten) => Output(CHAT WITH HER!)
+
+Test case passed: Input(achhcfjnnfwgoufxamcqrsontgjjhgyfzuhklkmiwybnrlsvblnsrjqdytglipxsulpnphpjpoewvlusalsgovwnsngb) => Output(CHAT WITH HER!)
+
+Test case passed: Input(qbkjsdwpahdbbohggbclfcufqelnojoehsxxkr) => Output(CHAT WITH HER!)
+
+Test case passed: Input(cpvftiwgyvnlmbkadiafddpgfpvhqqvuehkypqjsoibpiudfvpkhzlfrykc) => Output(IGNORE HIM!)
+
+Test case passed: Input(lnpdosnceumubvk) => Output(IGNORE HIM!)
+
+Test case passed: Input(efrk) => Output(CHAT WITH HER!)
+
+Test case passed: Input(temnownneghnrujforif) => Output(IGNORE HIM!)
+
+Test case passed: Input(ottnneymszwbumgobazfjyxewkjakglbfflsajuzescplpcxqta) => Output(IGNORE HIM!)
+
+Test case passed: Input(eswpaclodzcwhgixhpyzvhdwsgneqidanbzdzszquefh) => Output(IGNORE HIM!)
+
+Test case passed: Input(gwntwbpj) => Output(IGNORE HIM!)
+
+Test case passed: Input(wuqvlbblkddeindiiswsinkfrnkxghhwunzmmvyovpqapdfbolyim) => Output(IGNORE HIM!)
+
+Test case passed: Input(swdqsnzmzmsyvktukaoyqsqzgfmbzhezbfaqeywgwizrwjyzquaahucjchegknqaioliqd) => Output(CHAT WITH HER!)
+
+Test case passed: Input(vlhrpzezawyolhbmvxbwhtjustdbqggexmzxyieihjlelvwjosmkwesfjmramsikhkupzvfgezmrqzudjcalpjacmhykhgfhrjx) => Output(IGNORE HIM!)
+
+Test case passed: Input(lxxwbkrjgnqjwsnflfnsdyxihmlspgivirazsbveztnkuzpaxtygidniflyjheejelnjyjvgkgvdqks) => Output(CHAT WITH HER!)
+
+Test case passed: Input(wpxbxzfhtdecetpljcrvpjjnllosdqirnkzesiqeukbedkayqx) => Output(CHAT WITH HER!)
+
+Test case passed: Input(vmzxgacicvweclaodrunmjnfwtimceetsaoickarqyrkdghcmyjgmtgsqastcktyrjgvjqimdc) => Output(CHAT WITH HER!)
+
+Test case passed: Input(yzlzmesxdttfcztooypjztlgxwcr) => Output(IGNORE HIM!)
+
+Test case passed: Input(qpbjwzwgdzmeluheirjrvzrhbmagfsjdgvzgwumjtjzecsfkrfqjasssrhhtgdqqfydlmrktlgfc) => Output(IGNORE HIM!)
+
+Test case passed: Input(aqzftsvezdgouyrirsxpbuvdjupnzvbhguyayeqozfzymfnepvwgblqzvmxxkxcilmsjvcgyqykpoaktjvsxbygfgsalbjoq) => Output(CHAT WITH HER!)
+
+Test case passed: Input(znicjjgijhrbdlnwmtjgtdgziollrfxroabfhadygnomodaembllreorlyhnehijfyjbfxucazellblegyfrzuraogadj) => Output(IGNORE HIM!)
+
+Test case passed: Input(qordzrdiknsympdrkgapjxokbldorpnmnpucmwakklmqenpmkom) => Output(CHAT WITH HER!)
+
+Test case passed: Input(wqfldgihuxfktzanyycluzhtewmwvnawqlfoavuguhygqrrxtstxwouuzzsryjqtfqo) => Output(CHAT WITH HER!)
+
+Test case passed: Input(vujtrrpshinkskgyknlcfckmqdrwtklkzlyipmetjvaqxdsslkskschbalmdhzsdrrjmxdltbtnxbh) => Output(IGNORE HIM!)
+
+Test case passed: Input(zioixjibuhrzyrbzqcdjbbhhdmpgmqykixcxoqupggaqajuzonrpzihbsogjfsrrypbiphehonyhohsbybnnukqebopppa) => Output(CHAT WITH HER!)
+
+Test case passed: Input(oh) => Output(CHAT WITH HER!)
+
+Test case passed: Input(kxqthadqesbpgpsvpbcbznxpecqrzjoilpauttzlnxvaczcqwuri) => Output(IGNORE HIM!)
+
+Test case passed: Input(zwlunigqnhrwirkvufqwrnwcnkqqonebrwzcshcbqqwkjxhymjjeakuzjettebciadjlkbfp) => Output(CHAT WITH HER!)
+
+Test case passed: Input(fjuldpuejgmggvvigkwdyzytfxzwdlofrpifqpdnhfyroginqaufwgjcbgshyyruwhofctsdaisqpjxqjmtpp) => Output(CHAT WITH HER!)
+
+Test case passed: Input(xiwntnheuitbtqxrmzvxmieldudakogealwrpygbxsbluhsqhtwmdlpjwzyafckrqrdduonkgo) => Output(CHAT WITH HER!)
+
+Test case passed: Input(mnmbupgo) => Output(IGNORE HIM!)
+
+Test case passed: Input(mcjehdiygkbmrbfjqwpwxidbdfelifwhstaxdapigbymmsgrhnzsdjhsqchl) => Output(IGNORE HIM!)
+
+Test case passed: Input(yocxrzspinchmhtmqo) => Output(CHAT WITH HER!)
+
+Test case passed: Input(vasvvnpymtgjirnzuynluluvmgpquskuaafwogeztfnvybblajvuuvfomtifeuzpikjrolzeeoftv) => Output(CHAT WITH HER!)
+
+Test case passed: Input(ecsdicrznvglwggrdbrvehwzaenzjutjydhvimtqegweurpxtjkmpcznshtrvotkvrghxhacjkedidqqzrduzad) => Output(IGNORE HIM!)
+
+Test case passed: Input(ubvhyaebyxoghakajqrpqpctwbrfqzli) => Output(CHAT WITH HER!)
+
+Test case passed: Input(gogbxfeqylxoummvgxpkoqzsmobasesxbqjjktqbwqxeiaagnnhbvepbpy) => Output(IGNORE HIM!)
+
+Test case passed: Input(nheihhxkbbrmlpxpxbhnpofcjmxemyvqqdbanwd) => Output(IGNORE HIM!)
+
+Test case passed: Input(acrzbavz) => Output(CHAT WITH HER!)
+
+Test case passed: Input(drvzznznvrzskftnrhvvzxcalwutxmdza) => Output(IGNORE HIM!)
+
+Test case passed: Input(oacwxipdfcoabhkwxqdbtowiekpnflnqhlrkustgzryvws) => Output(CHAT WITH HER!)
+
+Test case passed: Input(tpnwfmfsibnccvdwjvzviyvjfljupinfigfunyff) => Output(CHAT WITH HER!)
+
+Test case passed: Input(gavaihhamfolcndgytcsgucqdqngxkrlovpthvteacmmthoglxu) => Output(CHAT WITH HER!)
+
+Test case passed: Input(hsfcfvameeupldgvchmogrvwxrvsmnwxxkxoawwodtsahqvehlcw) => Output(IGNORE HIM!)
+
+Test case passed: Input(sbkydrscoojychxchqsuciperfroumenelgiyiwlqfwximrgdbyvkmacy) => Output(CHAT WITH HER!)
+
+Test case passed: Input(rhh) => Output(CHAT WITH HER!)
+
+Test case passed: Input(zhdouqfmlkenjzdijxdfxnlegxeuvhelo) => Output(IGNORE HIM!)
+
+Test case passed: Input(yufkkfwyhhvcjntsgsvpzbhqtmtgyxifqoewmuplphykmptfdebjxuaxigomjtwgtljwdjhjernkitifbomifbhysnmadtnyn) => Output(CHAT WITH HER!)
+
+Test case passed: Input(urigreuzpxnej) => Output(CHAT WITH HER!)
+

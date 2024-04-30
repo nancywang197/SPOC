@@ -1,0 +1,56 @@
+Test case passed: Input(abcd) => Output(4)
+
+Test case passed: Input(bbb) => Output(1)
+
+Test case passed: Input(yzyz) => Output(2)
+
+Test case passed: Input(abcdefghijklmnopqrstuvwxyabcdefghijklmnopqrstuvwxy) => Output(25)
+
+Test case passed: Input(zclkjadoprqronzclkjadoprqronzclkjadoprqron) => Output(14)
+
+Test case passed: Input(zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz) => Output(1)
+
+Test case passed: Input(xyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxyxy) => Output(2)
+
+Test case passed: Input(y) => Output(1)
+
+Test case passed: Input(ervbfotfedpozygoumbmxeaqegouaqqzqerlykhmvxvvlcaos) => Output(49)
+
+Test case passed: Input(zyzzzyyzyyyzyyzyzyzyzyzzzyyyzzyzyyzzzzzyyyzzzzyzyy) => Output(50)
+
+Test case passed: Input(zzfyftdezzfyftdezzfyftdezzfyftdezzfyftdezzfyftde) => Output(8)
+
+Test case passed: Input(yehcqdlllqpuxdsaicyjjxiylahgxbygmsopjbxhtimzkashs) => Output(49)
+
+Test case passed: Input(yyyyzzzyzzzyzyzyzyyyyyzzyzyzyyyyyzyzyyyzyzzyyzzzz) => Output(49)
+
+Test case passed: Input(zkqcrhzlzsnwzkqcrhzlzsnwzkqcrhzlzsnwzkqcrhzlzsnw) => Output(12)
+
+Test case passed: Input(xxyxxyxxyxxyxxyxxyxxyxxyxxyxxyxxyxxyxxyxxyxxyxxy) => Output(3)
+
+Test case passed: Input(aaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaab) => Output(25)
+
+Test case passed: Input(aabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaaba) => Output(4)
+
+Test case passed: Input(pqqpqqpqqpqqpqqpqqpqqpqqpqqpqqpqqppqppqppqppqppq) => Output(48)
+
+Test case passed: Input(zxkljaqzxkljaqzxkljaqzxkljaqzxrljaqzxkljaqzxkljaq) => Output(49)
+
+Test case passed: Input(abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx) => Output(50)
+
+Test case passed: Input(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaz) => Output(50)
+
+Test case passed: Input(abcddcba) => Output(8)
+
+Test case passed: Input(aabaabaabaacaabaabaabaacaabaabaabaacaabaabaabaac) => Output(12)
+
+Test case passed: Input(aabaabcaabaabcdaabaabcaabaabcd) => Output(15)
+
+Test case passed: Input(ababaababaaababaababaaaababaababaaababaababaaaa) => Output(47)
+
+Test case passed: Input(ababaababaaababaababaaaababaababaaababaababaaa) => Output(23)
+
+Test case passed: Input(aaababaab) => Output(9)
+
+Test case passed: Input(aba) => Output(3)
+

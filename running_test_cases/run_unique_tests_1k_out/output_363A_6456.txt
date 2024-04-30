@@ -1,0 +1,182 @@
+Test case passed: Input(2) => Output(O-|OO-OO)
+
+Test case passed: Input(13) => Output(O-|OOO-O
+O-|O-OOO)
+
+Test case passed: Input(720) => Output(O-|-OOOO
+O-|OO-OO
+-O|OO-OO)
+
+Test case passed: Input(0) => Output(O-|-OOOO)
+
+Test case passed: Input(1) => Output(O-|O-OOO)
+
+Test case passed: Input(3) => Output(O-|OOO-O)
+
+Test case passed: Input(4) => Output(O-|OOOO-)
+
+Test case passed: Input(5) => Output(-O|-OOOO)
+
+Test case passed: Input(6) => Output(-O|O-OOO)
+
+Test case passed: Input(637) => Output(-O|OO-OO
+O-|OOO-O
+-O|O-OOO)
+
+Test case passed: Input(7) => Output(-O|OO-OO)
+
+Test case passed: Input(8) => Output(-O|OOO-O)
+
+Test case passed: Input(9) => Output(-O|OOOO-)
+
+Test case passed: Input(10) => Output(O-|-OOOO
+O-|O-OOO)
+
+Test case passed: Input(11) => Output(O-|O-OOO
+O-|O-OOO)
+
+Test case passed: Input(100) => Output(O-|-OOOO
+O-|-OOOO
+O-|O-OOO)
+
+Test case passed: Input(99) => Output(-O|OOOO-
+-O|OOOO-)
+
+Test case passed: Input(245) => Output(-O|-OOOO
+O-|OOOO-
+O-|OO-OO)
+
+Test case passed: Input(118) => Output(-O|OOO-O
+O-|O-OOO
+O-|O-OOO)
+
+Test case passed: Input(429) => Output(-O|OOOO-
+O-|OO-OO
+O-|OOOO-)
+
+Test case passed: Input(555) => Output(-O|-OOOO
+-O|-OOOO
+-O|-OOOO)
+
+Test case passed: Input(660) => Output(O-|-OOOO
+-O|O-OOO
+-O|O-OOO)
+
+Test case passed: Input(331) => Output(O-|O-OOO
+O-|OOO-O
+O-|OOO-O)
+
+Test case passed: Input(987) => Output(-O|OO-OO
+-O|OOO-O
+-O|OOOO-)
+
+Test case passed: Input(123456789) => Output(-O|OOOO-
+-O|OOO-O
+-O|OO-OO
+-O|O-OOO
+-O|-OOOO
+O-|OOOO-
+O-|OOO-O
+O-|OO-OO
+O-|O-OOO)
+
+Test case passed: Input(234567890) => Output(O-|-OOOO
+-O|OOOO-
+-O|OOO-O
+-O|OO-OO
+-O|O-OOO
+-O|-OOOO
+O-|OOOO-
+O-|OOO-O
+O-|OO-OO)
+
+Test case passed: Input(100000000) => Output(O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|O-OOO)
+
+Test case passed: Input(111111111) => Output(O-|O-OOO
+O-|O-OOO
+O-|O-OOO
+O-|O-OOO
+O-|O-OOO
+O-|O-OOO
+O-|O-OOO
+O-|O-OOO
+O-|O-OOO)
+
+Test case passed: Input(90909090) => Output(O-|-OOOO
+-O|OOOO-
+O-|-OOOO
+-O|OOOO-
+O-|-OOOO
+-O|OOOO-
+O-|-OOOO
+-O|OOOO-)
+
+Test case passed: Input(987654321) => Output(O-|O-OOO
+O-|OO-OO
+O-|OOO-O
+O-|OOOO-
+-O|-OOOO
+-O|O-OOO
+-O|OO-OO
+-O|OOO-O
+-O|OOOO-)
+
+Test case passed: Input(45165125) => Output(-O|-OOOO
+O-|OO-OO
+O-|O-OOO
+-O|-OOOO
+-O|O-OOO
+O-|O-OOO
+-O|-OOOO
+O-|OOOO-)
+
+Test case passed: Input(445511006) => Output(-O|O-OOO
+O-|-OOOO
+O-|-OOOO
+O-|O-OOO
+O-|O-OOO
+-O|-OOOO
+-O|-OOOO
+O-|OOOO-
+O-|OOOO-)
+
+Test case passed: Input(999999999) => Output(-O|OOOO-
+-O|OOOO-
+-O|OOOO-
+-O|OOOO-
+-O|OOOO-
+-O|OOOO-
+-O|OOOO-
+-O|OOOO-
+-O|OOOO-)
+
+Test case passed: Input(984218523) => Output(O-|OOO-O
+O-|OO-OO
+-O|-OOOO
+-O|OOO-O
+O-|O-OOO
+O-|OO-OO
+O-|OOOO-
+-O|OOO-O
+-O|OOOO-)
+
+Test case passed: Input(19) => Output(-O|OOOO-
+O-|O-OOO)
+
+Test case passed: Input(10000000) => Output(O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|-OOOO
+O-|O-OOO)
+

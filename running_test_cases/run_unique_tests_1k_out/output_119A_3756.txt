@@ -1,0 +1,90 @@
+Test case failed: Input(3 5 9) => Output(), Expected(0)
+
+Test case failed: Input(1 1 100) => Output(), Expected(1)
+
+Test case failed: Input(23 12 16) => Output(), Expected(1)
+
+Test case failed: Input(95 26 29) => Output(), Expected(1)
+
+Test case failed: Input(73 32 99) => Output(), Expected(1)
+
+Test case failed: Input(1 1 1) => Output(), Expected(0)
+
+Test case failed: Input(41 12 65) => Output(), Expected(1)
+
+Test case failed: Input(13 61 100) => Output(), Expected(1)
+
+Test case failed: Input(100 100 10) => Output(), Expected(0)
+
+Test case failed: Input(12 24 26) => Output(), Expected(1)
+
+Test case failed: Input(73 21 96) => Output(), Expected(1)
+
+Test case failed: Input(17 22 81) => Output(), Expected(1)
+
+Test case failed: Input(14 88 97) => Output(), Expected(1)
+
+Test case failed: Input(42 81 17) => Output(), Expected(0)
+
+Test case failed: Input(34 36 19) => Output(), Expected(1)
+
+Test case failed: Input(21 87 12) => Output(), Expected(1)
+
+Test case failed: Input(97 92 98) => Output(), Expected(1)
+
+Test case failed: Input(49 25 62) => Output(), Expected(1)
+
+Test case failed: Input(29 17 44) => Output(), Expected(1)
+
+Test case failed: Input(10 1 10) => Output(), Expected(0)
+
+Test case failed: Input(99 98 100) => Output(), Expected(1)
+
+Test case failed: Input(100 100 1) => Output(), Expected(0)
+
+Test case failed: Input(11 99 55) => Output(), Expected(0)
+
+Test case failed: Input(8 13 21) => Output(), Expected(0)
+
+Test case failed: Input(34 55 89) => Output(), Expected(0)
+
+Test case failed: Input(21 34 55) => Output(), Expected(1)
+
+Test case failed: Input(13 21 34) => Output(), Expected(1)
+
+Test case failed: Input(34 21 55) => Output(), Expected(0)
+
+Test case failed: Input(10 20 84) => Output(), Expected(1)
+
+Test case failed: Input(4 2 5) => Output(), Expected(0)
+
+Test case failed: Input(3 2 3) => Output(), Expected(0)
+
+Test case failed: Input(31 23 1) => Output(), Expected(0)
+
+Test case failed: Input(100 100 100) => Output(), Expected(0)
+
+Test case failed: Input(100 1 100) => Output(), Expected(0)
+
+Test case failed: Input(1 100 100) => Output(), Expected(1)
+
+Test case failed: Input(1 1 100) => Output(), Expected(1)
+
+Test case failed: Input(17 23 100) => Output(), Expected(1)
+
+Test case failed: Input(99 98 100) => Output(), Expected(1)
+
+Test case failed: Input(1 1 2) => Output(), Expected(1)
+
+Test case failed: Input(2 1 1) => Output(), Expected(0)
+
+Test case failed: Input(1 2 1) => Output(), Expected(0)
+
+Test case failed: Input(2 1 2) => Output(), Expected(0)
+
+Test case failed: Input(10 10 3) => Output(), Expected(1)
+
+Test case failed: Input(2 2 1) => Output(), Expected(0)
+
+Test case failed: Input(9 5 1) => Output(), Expected(0)
+

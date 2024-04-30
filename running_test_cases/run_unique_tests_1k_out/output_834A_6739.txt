@@ -1,0 +1,141 @@
+Test case passed: Input(^ >
+1) => Output(cw)
+
+Test case passed: Input(< ^
+3) => Output(ccw)
+
+Test case passed: Input(^ v
+6) => Output(undefined)
+
+Test case passed: Input(^ >
+999999999) => Output(ccw)
+
+Test case passed: Input(> v
+1) => Output(cw)
+
+Test case passed: Input(v <
+1) => Output(cw)
+
+Test case passed: Input(< ^
+1) => Output(cw)
+
+Test case passed: Input(v <
+422435957) => Output(cw)
+
+Test case passed: Input(v >
+139018901) => Output(ccw)
+
+Test case passed: Input(v ^
+571728018) => Output(undefined)
+
+Test case passed: Input(^ ^
+0) => Output(undefined)
+
+Test case passed: Input(< >
+2) => Output(undefined)
+
+Test case passed: Input(> >
+1000000000) => Output(undefined)
+
+Test case passed: Input(v v
+8) => Output(undefined)
+
+Test case passed: Input(< <
+1568) => Output(undefined)
+
+Test case passed: Input(^ v
+2) => Output(undefined)
+
+Test case passed: Input(^ <
+1) => Output(ccw)
+
+Test case passed: Input(< v
+1) => Output(ccw)
+
+Test case passed: Input(v >
+1) => Output(ccw)
+
+Test case passed: Input(> ^
+1) => Output(ccw)
+
+Test case passed: Input(v <
+422435957) => Output(cw)
+
+Test case passed: Input(v v
+927162384) => Output(undefined)
+
+Test case passed: Input(v ^
+571728018) => Output(undefined)
+
+Test case passed: Input(^ <
+467441155) => Output(cw)
+
+Test case passed: Input(^ >
+822875521) => Output(cw)
+
+Test case passed: Input(^ <
+821690113) => Output(ccw)
+
+Test case passed: Input(^ <
+171288453) => Output(ccw)
+
+Test case passed: Input(^ <
+110821381) => Output(ccw)
+
+Test case passed: Input(^ ^
+539580280) => Output(undefined)
+
+Test case passed: Input(^ >
+861895563) => Output(ccw)
+
+Test case passed: Input(v v
+4) => Output(undefined)
+
+Test case passed: Input(^ ^
+4) => Output(undefined)
+
+Test case passed: Input(> >
+4) => Output(undefined)
+
+Test case passed: Input(< <
+8) => Output(undefined)
+
+Test case passed: Input(v v
+0) => Output(undefined)
+
+Test case passed: Input(^ <
+11) => Output(cw)
+
+Test case passed: Input(< <
+4) => Output(undefined)
+
+Test case passed: Input(< <
+0) => Output(undefined)
+
+Test case passed: Input(< v
+3) => Output(cw)
+
+Test case passed: Input(^ <
+3) => Output(cw)
+
+Test case passed: Input(^ <
+7) => Output(cw)
+
+Test case passed: Input(< >
+6) => Output(undefined)
+
+Test case passed: Input(v >
+3) => Output(cw)
+
+Test case passed: Input(> >
+300) => Output(undefined)
+
+Test case passed: Input(> >
+0) => Output(undefined)
+
+Test case passed: Input(v <
+3) => Output(ccw)
+
+Test case passed: Input(> >
+12) => Output(undefined)
+

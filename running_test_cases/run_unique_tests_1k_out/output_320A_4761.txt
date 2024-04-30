@@ -1,0 +1,94 @@
+Test case passed: Input(114114) => Output(YES)
+
+Test case passed: Input(1111) => Output(YES)
+
+Test case passed: Input(441231) => Output(NO)
+
+Test case passed: Input(1) => Output(YES)
+
+Test case passed: Input(14) => Output(YES)
+
+Test case passed: Input(114) => Output(YES)
+
+Test case passed: Input(9) => Output(NO)
+
+Test case passed: Input(414) => Output(NO)
+
+Test case passed: Input(1000000000) => Output(NO)
+
+Test case passed: Input(144144144) => Output(YES)
+
+Test case passed: Input(1444) => Output(NO)
+
+Test case passed: Input(11) => Output(YES)
+
+Test case passed: Input(141414141) => Output(YES)
+
+Test case passed: Input(11110111) => Output(NO)
+
+Test case passed: Input(114114144) => Output(YES)
+
+Test case passed: Input(444) => Output(NO)
+
+Test case passed: Input(9999) => Output(NO)
+
+Test case passed: Input(111444) => Output(NO)
+
+Test case passed: Input(11114) => Output(YES)
+
+Test case passed: Input(41111) => Output(NO)
+
+Test case passed: Input(114414441) => Output(NO)
+
+Test case passed: Input(144414441) => Output(NO)
+
+Test case passed: Input(144244144) => Output(NO)
+
+Test case passed: Input(111111111) => Output(YES)
+
+Test case passed: Input(144444444) => Output(NO)
+
+Test case passed: Input(444444444) => Output(NO)
+
+Test case passed: Input(141441441) => Output(YES)
+
+Test case passed: Input(441) => Output(NO)
+
+Test case passed: Input(15) => Output(NO)
+
+Test case passed: Input(14444) => Output(NO)
+
+Test case passed: Input(11444) => Output(NO)
+
+Test case passed: Input(144) => Output(YES)
+
+Test case passed: Input(1414414) => Output(YES)
+
+Test case passed: Input(141444) => Output(NO)
+
+Test case passed: Input(14144) => Output(YES)
+
+Test case passed: Input(4) => Output(NO)
+
+Test case passed: Input(1144) => Output(YES)
+
+Test case passed: Input(141111444) => Output(NO)
+
+Test case passed: Input(14414414) => Output(YES)
+
+Test case passed: Input(141414144) => Output(YES)
+
+Test case passed: Input(1414) => Output(YES)
+
+Test case passed: Input(1441) => Output(YES)
+
+Test case passed: Input(12) => Output(NO)
+
+Test case passed: Input(144144141) => Output(YES)
+
+Test case passed: Input(144144) => Output(YES)
+
+Test case passed: Input(14414411) => Output(YES)
+
+Test case passed: Input(14414) => Output(YES)
+

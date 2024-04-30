@@ -1,0 +1,114 @@
+Test case passed: Input(3 7) => Output(Dasha)
+
+Test case passed: Input(5 3) => Output(Masha)
+
+Test case passed: Input(2 3) => Output(Equal)
+
+Test case passed: Input(31 88) => Output(Dasha)
+
+Test case passed: Input(8 75) => Output(Dasha)
+
+Test case passed: Input(32 99) => Output(Dasha)
+
+Test case passed: Input(77 4) => Output(Masha)
+
+Test case passed: Input(27 1) => Output(Masha)
+
+Test case passed: Input(84 11) => Output(Masha)
+
+Test case passed: Input(4 6) => Output(Equal)
+
+Test case passed: Input(52 53) => Output(Equal)
+
+Test case passed: Input(397 568) => Output(Dasha)
+
+Test case passed: Input(22 332) => Output(Dasha)
+
+Test case passed: Input(419 430) => Output(Dasha)
+
+Test case passed: Input(638 619) => Output(Masha)
+
+Test case passed: Input(393 325) => Output(Masha)
+
+Test case passed: Input(876 218) => Output(Masha)
+
+Test case passed: Input(552 551) => Output(Equal)
+
+Test case passed: Input(906 912) => Output(Equal)
+
+Test case passed: Input(999 996) => Output(Equal)
+
+Test case passed: Input(652 653) => Output(Equal)
+
+Test case passed: Input(3647 7698) => Output(Dasha)
+
+Test case passed: Input(2661 8975) => Output(Dasha)
+
+Test case passed: Input(251 9731) => Output(Dasha)
+
+Test case passed: Input(9886 8671) => Output(Masha)
+
+Test case passed: Input(8545 7312) => Output(Masha)
+
+Test case passed: Input(4982 2927) => Output(Masha)
+
+Test case passed: Input(7660 7658) => Output(Equal)
+
+Test case passed: Input(9846 9844) => Output(Equal)
+
+Test case passed: Input(9632 9640) => Output(Equal)
+
+Test case passed: Input(5036 5037) => Output(Equal)
+
+Test case passed: Input(64854 77725) => Output(Dasha)
+
+Test case passed: Input(4965 85708) => Output(Dasha)
+
+Test case passed: Input(20393 86640) => Output(Dasha)
+
+Test case passed: Input(99207 30728) => Output(Masha)
+
+Test case passed: Input(77545 13842) => Output(Masha)
+
+Test case passed: Input(30362 10712) => Output(Masha)
+
+Test case passed: Input(51291 51292) => Output(Equal)
+
+Test case passed: Input(55381 55382) => Output(Equal)
+
+Test case passed: Input(91560 91550) => Output(Equal)
+
+Test case passed: Input(99087 99090) => Output(Equal)
+
+Test case passed: Input(983794 986389) => Output(Dasha)
+
+Test case passed: Input(779183 786727) => Output(Dasha)
+
+Test case passed: Input(450766 610961) => Output(Dasha)
+
+Test case passed: Input(664690 630787) => Output(Masha)
+
+Test case passed: Input(461363 256765) => Output(Masha)
+
+Test case passed: Input(638067 409048) => Output(Masha)
+
+Test case passed: Input(929061 929052) => Output(Equal)
+
+Test case passed: Input(996219 996216) => Output(Equal)
+
+Test case passed: Input(716249 716248) => Output(Equal)
+
+Test case passed: Input(782250 782252) => Output(Equal)
+
+Test case passed: Input(1 2) => Output(Equal)
+
+Test case passed: Input(2 1) => Output(Equal)
+
+Test case passed: Input(999999 1000000) => Output(Equal)
+
+Test case passed: Input(999997 1000000) => Output(Dasha)
+
+Test case passed: Input(1000000 999993) => Output(Masha)
+
+Test case passed: Input(999983 999979) => Output(Masha)
+

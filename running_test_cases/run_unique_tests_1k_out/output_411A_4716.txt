@@ -1,0 +1,162 @@
+Test case passed: Input(abacaba) => Output(Too weak)
+
+Test case passed: Input(X12345) => Output(Too weak)
+
+Test case passed: Input(CONTEST_is_STARTED!!11) => Output(Correct)
+
+Test case passed: Input(1zA__) => Output(Correct)
+
+Test case passed: Input(1zA_) => Output(Too weak)
+
+Test case passed: Input(zA___) => Output(Too weak)
+
+Test case passed: Input(1A___) => Output(Too weak)
+
+Test case passed: Input(z1___) => Output(Too weak)
+
+Test case passed: Input(0) => Output(Too weak)
+
+Test case passed: Input(_) => Output(Too weak)
+
+Test case passed: Input(a) => Output(Too weak)
+
+Test case passed: Input(D) => Output(Too weak)
+
+Test case passed: Input(_) => Output(Too weak)
+
+Test case passed: Input(?) => Output(Too weak)
+
+Test case passed: Input(?) => Output(Too weak)
+
+Test case passed: Input(._,.!.,...?_,!.) => Output(Too weak)
+
+Test case passed: Input(!_?_,?,?.,.,_!!!.!,.__,?!!,_!,?_,!??,?!..._!?_,?_!,?_.,._,,_.,.) => Output(Too weak)
+
+Test case passed: Input(?..!.,,?,__.,...????_???__!,?...?.,,,,___!,.!,_,,_,??!_?_,!!?_!_??.?,.!!?_?_.,!) => Output(Too weak)
+
+Test case passed: Input(XZX) => Output(Too weak)
+
+Test case passed: Input(R) => Output(Too weak)
+
+Test case passed: Input(H.FZ) => Output(Too weak)
+
+Test case passed: Input(KSHMICWPK,LSBM_JVZ!IPDYDG_GOPCHXFJTKJBIFY,FPHMY,CB?PZEAG..,X,.GFHPIDBB,IQ?MZ) => Output(Too weak)
+
+Test case passed: Input(EFHI,,Y?HMMUI,,FJGAY?FYPBJQMYM!DZHLFCTFWT?JOPDW,S_!OR?ATT?RWFBMAAKUHIDMHSD?LCZQY!UD_CGYGBAIRDPICYS) => Output(Too weak)
+
+Test case passed: Input(T,NDMUYCCXH_L_FJHMCCAGX_XSCPGOUZSY?D?CNDSYRITYS,VAT!PJVKNTBMXGGRYKACLYU.RJQ_?UWKXYIDE_AE) => Output(Too weak)
+
+Test case passed: Input(y) => Output(Too weak)
+
+Test case passed: Input(qgw) => Output(Too weak)
+
+Test case passed: Input(g) => Output(Too weak)
+
+Test case passed: Input(loaray) => Output(Too weak)
+
+Test case passed: Input(d_iymyvxolmjayhwpedocopqwmy.oalrdg!_n?.lrxpamhygps?kkzxydsbcaihfs.j?eu!oszjsy.vzu?!vs.bprz_j) => Output(Too weak)
+
+Test case passed: Input(txguglvclyillwnono) => Output(Too weak)
+
+Test case passed: Input(FwX) => Output(Too weak)
+
+Test case passed: Input(Zi) => Output(Too weak)
+
+Test case passed: Input(PodE) => Output(Too weak)
+
+Test case passed: Input(SdoOuJ?nj_wJyf) => Output(Too weak)
+
+Test case passed: Input(MhnfZjsUyXYw?f?ubKA) => Output(Too weak)
+
+Test case passed: Input(CpWxDVzwHfYFfoXNtXMFuAZr) => Output(Too weak)
+
+Test case passed: Input(9.,0) => Output(Too weak)
+
+Test case passed: Input(5,8) => Output(Too weak)
+
+Test case passed: Input(7) => Output(Too weak)
+
+Test case passed: Input(34__39_02!,!,82!129!2!566) => Output(Too weak)
+
+Test case passed: Input(96156027.65935663!_87!,44,..7914_!0_1,.4!!62!.8350!17_282!!9.2584,!!7__51.526.7) => Output(Too weak)
+
+Test case passed: Input(90328_) => Output(Too weak)
+
+Test case passed: Input(B9) => Output(Too weak)
+
+Test case passed: Input(P1H) => Output(Too weak)
+
+Test case passed: Input(J2) => Output(Too weak)
+
+Test case passed: Input(M6BCAKW!85OSYX1D?.53KDXP42F) => Output(Too weak)
+
+Test case passed: Input(C672F429Y8X6XU7S,.K9111UD3232YXT81S4!729ER7DZ.J7U1R_7VG6.FQO,LDH) => Output(Too weak)
+
+Test case passed: Input(W2PI__!.O91H8OFY6AB__R30L9XOU8800?ZUD84L5KT99818NFNE35V.8LJJ5P2MM.B6B) => Output(Too weak)
+
+Test case passed: Input(z1) => Output(Too weak)
+
+Test case passed: Input(p1j) => Output(Too weak)
+
+Test case passed: Input(j9) => Output(Too weak)
+
+Test case passed: Input(v8eycoylzv0qkix5mfs_nhkn6k!?ovrk9!b69zy!4frc?k) => Output(Too weak)
+
+Test case passed: Input(l4!m_44kpw8.jg!?oh,?y5oraw1tg7_x1.osl0!ny?_aihzhtt0e2!mr92tnk0es!1f,9he40_usa6c50l) => Output(Too weak)
+
+Test case passed: Input(d4r!ak.igzhnu!boghwd6jl) => Output(Too weak)
+
+Test case passed: Input(It0) => Output(Too weak)
+
+Test case passed: Input(Yb1x) => Output(Too weak)
+
+Test case passed: Input(Qf7) => Output(Too weak)
+
+Test case passed: Input(Vu7jQU8.!FvHBYTsDp6AphaGfnEmySP9te) => Output(Correct)
+
+Test case passed: Input(Ka4hGE,vkvNQbNolnfwp) => Output(Correct)
+
+Test case passed: Input(Ee9oluD?amNItsjeQVtOjwj4w_ALCRh7F3eaZah) => Output(Correct)
+
+Test case passed: Input(Um3Fj?QLhNuRE_Gx0cjMLOkGCm) => Output(Correct)
+
+Test case passed: Input(Oq2LYmV9HmlaW) => Output(Correct)
+
+Test case passed: Input(Cq7r3Wrb.lDb_0wsf7!ruUUGSf08RkxD?VsBEDdyE?SHK73TFFy0f8gmcATqGafgTv8OOg8or2HyMPIPiQ2Hsx8q5rn3_WZe) => Output(Correct)
+
+Test case passed: Input(Wx4p1fOrEMDlQpTlIx0p.1cnFD7BnX2K8?_dNLh4cQBx_Zqsv83BnL5hGKNcBE9g3QB,!fmSvgBeQ_qiH7) => Output(Correct)
+
+Test case passed: Input(k673,) => Output(Too weak)
+
+Test case passed: Input(LzuYQ) => Output(Too weak)
+
+Test case passed: Input(Pasq!) => Output(Too weak)
+
+Test case passed: Input(x5hve) => Output(Too weak)
+
+Test case passed: Input(b27fk) => Output(Too weak)
+
+Test case passed: Input(h6y1l) => Output(Too weak)
+
+Test case passed: Input(i9nij) => Output(Too weak)
+
+Test case passed: Input(Gf5Q6) => Output(Correct)
+
+Test case passed: Input(Uf24o) => Output(Correct)
+
+Test case passed: Input(Oj9vu) => Output(Correct)
+
+Test case passed: Input(c7jqaudcqmv8o7zvb5x_gp6zcgl6nwr7tz5or!28.tj8s1m2.wxz5a4id03!rq07?662vy.7.p5?vk2f2mc7ag8q3861rgd0rmbr) => Output(Too weak)
+
+Test case passed: Input(i6a.,8jb,n0kv4.1!7h?p.96pnhhgy6cl7dg7e4o6o384ys3z.t71kkq,,w,oqi4?u,,m5!rzu6wym_4hm,ohjy!.vvksl?pt,,1) => Output(Too weak)
+
+Test case passed: Input(M10V_MN_1K8YX2LA!89EYV7!5V9?,.IDHDP6JEC.OGLY.180LMZ6KW3Z5E17IT94ZNHS!79GN09Q6LH0,F3AYNKP?KM,QP_?XRD6) => Output(Too weak)
+
+Test case passed: Input(Hi7zYuVXCPhaho68YgCMzzgLILM6toQTJq8akMqqrnUn6ZCD36iA1yVVpvlsIiMpCu!1QZd4ycIrQ5Kcrhk5k0jTrwdAAEEP_T2f) => Output(Correct)
+
+Test case passed: Input(Bk2Q38vDSW5JqYu.077iYC.9YoiPc!Dh6FJWOVze6?YXiFjPNa4F1RG?154m9mY2jQobBnbxM,cDV8l1UX1?v?p.tTYIyJO!NYmE) => Output(Correct)
+
+Test case passed: Input(Ro1HcZ.piN,JRR88DLh,WtW!pbFM076?wCSbqfK7N2s5zUySFBtzk7HV,BxHXR0zALAr016z5jvvB.WUdEcKgYFav5TygwHQC..C) => Output(Correct)
+
+Test case passed: Input(!?.,_) => Output(Too weak)
+

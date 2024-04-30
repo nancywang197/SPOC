@@ -1,0 +1,108 @@
+Test case passed: Input(radar) => Output(rr)
+
+Test case passed: Input(bowwowwow) => Output(wwwww)
+
+Test case passed: Input(codeforces) => Output(s)
+
+Test case passed: Input(mississipp) => Output(ssss)
+
+Test case passed: Input(tourist) => Output(u)
+
+Test case passed: Input(romka) => Output(r)
+
+Test case passed: Input(helloworld) => Output(w)
+
+Test case passed: Input(zzzzzzzazz) => Output(zzzzzzzzz)
+
+Test case passed: Input(testcase) => Output(tt)
+
+Test case passed: Input(hahahahaha) => Output(hhhhh)
+
+Test case passed: Input(abbbbbbbbb) => Output(bbbbbbbbb)
+
+Test case passed: Input(zaz) => Output(zz)
+
+Test case passed: Input(aza) => Output(z)
+
+Test case passed: Input(dcbaedcba) => Output(e)
+
+Test case passed: Input(abcdeabcd) => Output(e)
+
+Test case passed: Input(edcbabcde) => Output(ee)
+
+Test case passed: Input(aaaaaaaaab) => Output(b)
+
+Test case passed: Input(testzzzzzz) => Output(zzzzzz)
+
+Test case passed: Input(zzzzzzwait) => Output(zzzzzz)
+
+Test case passed: Input(rrrrrqponm) => Output(rrrrr)
+
+Test case passed: Input(zzyzyy) => Output(zzz)
+
+Test case passed: Input(aababb) => Output(bbb)
+
+Test case passed: Input(zanzibar) => Output(zz)
+
+Test case passed: Input(hhgfedcbaa) => Output(hh)
+
+Test case passed: Input(aabcdefghh) => Output(hh)
+
+Test case passed: Input(aruaru) => Output(uu)
+
+Test case passed: Input(uraura) => Output(uu)
+
+Test case passed: Input(aru) => Output(u)
+
+Test case passed: Input(aburvabur) => Output(v)
+
+Test case passed: Input(ura) => Output(u)
+
+Test case passed: Input(eurottat) => Output(u)
+
+Test case passed: Input(referee) => Output(rr)
+
+Test case passed: Input(joking) => Output(o)
+
+Test case passed: Input(seriously) => Output(y)
+
+Test case passed: Input(sets) => Output(t)
+
+Test case passed: Input(test) => Output(tt)
+
+Test case passed: Input(klmgameklm) => Output(mmm)
+
+Test case passed: Input(dfkjafdkdd) => Output(kk)
+
+Test case passed: Input(zzzzzzzzzz) => Output(zzzzzzzzzz)
+
+Test case passed: Input(aaaaaaaaaa) => Output(aaaaaaaaaa)
+
+Test case passed: Input(buzz) => Output(zz)
+
+Test case passed: Input(b) => Output(b)
+
+Test case passed: Input(y) => Output(y)
+
+Test case passed: Input(yy) => Output(yy)
+
+Test case passed: Input(zz) => Output(zz)
+
+Test case passed: Input(bb) => Output(bb)
+
+Test case passed: Input(aa) => Output(aa)
+
+Test case passed: Input(a) => Output(a)
+
+Test case passed: Input(z) => Output(z)
+
+Test case passed: Input(zz) => Output(zz)
+
+Test case passed: Input(zzazazzzaz) => Output(zzzzzzz)
+
+Test case passed: Input(hellhellhe) => Output(llll)
+
+Test case passed: Input(hellohello) => Output(oo)
+
+Test case passed: Input(refer) => Output(rr)
+

@@ -1,0 +1,220 @@
+Test case passed: Input(4 4
+xxxx
+xfax
+xcex
+xxxx) => Output(1)
+
+Test case passed: Input(4 2
+xx
+cf
+ae
+xx) => Output(1)
+
+Test case passed: Input(2 3
+fac
+cef) => Output(2)
+
+Test case passed: Input(1 4
+face) => Output(0)
+
+Test case passed: Input(5 5
+wmmwn
+lurcm
+keetd
+fokon
+cxxgx) => Output(0)
+
+Test case passed: Input(5 5
+kjxbw
+eacra
+xefhx
+ucmcz
+pgtjk) => Output(1)
+
+Test case passed: Input(1 1
+p) => Output(0)
+
+Test case passed: Input(2 5
+acdmw
+efazb) => Output(1)
+
+Test case passed: Input(5 2
+dz
+da
+sx
+yu
+zz) => Output(0)
+
+Test case passed: Input(5 5
+xeljd
+wriac
+veief
+lcacf
+bqefn) => Output(2)
+
+Test case passed: Input(5 5
+acnbx
+efacp
+lrefa
+orqce
+zvbay) => Output(3)
+
+Test case passed: Input(5 5
+byjvu
+kmaca
+alefe
+wcacg
+refez) => Output(5)
+
+Test case passed: Input(5 5
+puxac
+bbaef
+accfa
+efaec
+ligsr) => Output(5)
+
+Test case passed: Input(37 4
+acjo
+efac
+acef
+efac
+wpef
+icac
+aefe
+cfac
+aece
+cfaf
+yqce
+miaf
+irce
+ycaf
+aefc
+cfae
+rsnc
+bacz
+qefb
+pdhs
+ffac
+faef
+acfd
+acmi
+efvm
+acaz
+efpn
+acao
+efer
+acap
+efec
+acaf
+efef
+acbj
+efac
+acef
+efoz) => Output(49)
+
+Test case passed: Input(7 3
+jac
+aef
+cfa
+aec
+cfq
+dig
+xyq) => Output(5)
+
+Test case passed: Input(35 1
+y
+a
+k
+g
+i
+d
+v
+n
+l
+x
+u
+x
+u
+o
+d
+f
+k
+j
+r
+m
+q
+s
+c
+d
+c
+m
+v
+h
+n
+e
+l
+t
+z
+y
+o) => Output(0)
+
+Test case passed: Input(9 46
+uuexbaacesjclggslacermcbkxlcxhdgqtacdwfryxzuxc
+aclrsaefakndbnzlkefenuphgcgoedhkaxefjtnkgfeaca
+efuqunpmfxdyyffyhvracozzrxlpekhtsrfhlilfmyhefg
+umyacfzffvicqtdpiulefnwcojuwtfbvlxkfsiapdnzpqo
+actefvuxqptremlqjhdbdwacjxdxitxjktecvefacamjcz
+eflarseklqrkayhosverpfefzirqigzlxezabhzeferkwm
+ztpypwxyohtacsnnvoigqwcachtaceyxlkhfhgwbnfmklb
+fzpqeymhljiefctvqtbgcdjefkxefarbciyosmktmoziac
+bssxizyrzyhacszttwhrzspbfkgfcejybdjcpuczhrkqef) => Output(20)
+
+Test case passed: Input(7 30
+mjfracgaacacctacrreyrlkacuacay
+rlacefacefeftaeftkacacaefcefev
+acefacefacraccfaeaefefecaeacaf
+efacefacefaefaecfcfacacaecfefa
+ncefacefacecacfaeaecefefcaeace
+fafaceacuafaefadcfcafacaefcfea
+zsvefafukcecfarkaeaecefecailgu) => Output(95)
+
+Test case passed: Input(2 2
+ff
+ee) => Output(0)
+
+Test case passed: Input(2 2
+fa
+cc) => Output(0)
+
+Test case passed: Input(2 2
+fa
+aa) => Output(0)
+
+Test case passed: Input(2 2
+fa
+ea) => Output(0)
+
+Test case passed: Input(2 2
+fa
+dd) => Output(0)
+
+Test case passed: Input(2 2
+ee
+ff) => Output(0)
+
+Test case passed: Input(2 2
+cc
+cf) => Output(0)
+
+Test case passed: Input(2 2
+aa
+ae) => Output(0)
+
+Test case passed: Input(2 2
+ef
+ac) => Output(1)
+
+Test case passed: Input(2 2
+fe
+ca) => Output(1)
+

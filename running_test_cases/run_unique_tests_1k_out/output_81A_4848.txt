@@ -1,0 +1,28 @@
+Test case passed: Input(hhoowaaaareyyoouu) => Output(wre)
+
+Test case passed: Input(reallazy) => Output(rezy)
+
+Test case passed: Input(abacabaabacabaa) => Output(a)
+
+Test case passed: Input(xraccabccbry) => Output(xy)
+
+Test case passed: Input(a) => Output(a)
+
+Test case passed: Input(b) => Output(b)
+
+Test case passed: Input(il) => Output(il)
+
+Test case passed: Input(gfj) => Output(gfj)
+
+Test case passed: Input(babbbbbababa) => Output(babababa)
+
+Test case passed: Input(babbbbabbabbbababbabbbbbbabaabaababaaabbbbbabbbbaaaaabbaaabbaabaabbbbabbbababbabaaabbababaaababbbaaa) => Output(babababababababababababa)
+
+Test case passed: Input(aab) => Output(b)
+
+Test case passed: Input(abb) => Output(a)
+
+Test case passed: Input(aba) => Output(aba)
+
+Test case passed: Input(ab) => Output(ab)
+
